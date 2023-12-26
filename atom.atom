@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.mnxy.eu.org/</id>
     <title>梦念逍遥のBLOG</title>
-    <updated>2023-12-26T12:39:23.394Z</updated>
+    <updated>2023-12-26T12:50:27.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>梦念逍遥</name>
@@ -14,6 +14,161 @@
     <logo>https://blog.mnxy.eu.org/../favicon.svg</logo>
     <icon>https://blog.mnxy.eu.org../favicon.svg</icon>
     <rights>CC BY-NC-SA 4.0 2023 © 梦念逍遥</rights>
+    <entry>
+        <title type="html"><![CDATA[【个人博客网站】博客美化（十一）：修改全局弹窗样式]]></title>
+        <id>https://blog.mnxy.eu.org/posts/meihua11</id>
+        <link href="https://blog.mnxy.eu.org/posts/meihua11"/>
+        <updated>2022-12-06T22:30:00.000Z</updated>
+        <content type="html"><![CDATA[<h3>引入样式文件</h3>
+]]></content>
+        <author>
+            <name>梦念逍遥</name>
+            <email>2589141604@qq.com</email>
+            <uri>https://blog.mnxy.eu.org</uri>
+        </author>
+        <published>2023-12-26T12:48:45.898Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【个人博客网站】博客美化（二）：制作右键菜单]]></title>
+        <id>https://blog.mnxy.eu.org/posts/meihua2</id>
+        <link href="https://blog.mnxy.eu.org/posts/meihua2"/>
+        <updated>2022-09-15T19:30:00.000Z</updated>
+        <content type="html"><![CDATA[<p>::: tip</p>
+<p>参考了LYX的方案进行修改<br>
+原教程<a href="https://yisous.xyz/posts/11eb4aac/">butterfly博客自定义右键菜单升级版</a></p>
+<p>2022.09.20 加入F12弹窗提示<br>
+2022.09.22 修复百度搜索和转到链接功能点击后页面刷新的问题</p>
+<p>:::</p>
+]]></content>
+        <author>
+            <name>梦念逍遥</name>
+            <email>2589141604@qq.com</email>
+            <uri>https://blog.mnxy.eu.org</uri>
+        </author>
+        <published>2023-12-26T12:48:45.898Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【个人博客网站】博客美化（三）：关于Butterfly的导航栏的一些教程]]></title>
+        <id>https://blog.mnxy.eu.org/posts/meihua3</id>
+        <link href="https://blog.mnxy.eu.org/posts/meihua3"/>
+        <updated>2022-09-17T19:30:00.000Z</updated>
+        <content type="html"><![CDATA[<p>::: tip</p>
+<p>参考了安知鱼的方案进行修改<br>
+原教程<a href="https://anzhiy.cn/posts/8e53.html">butterfly导航栏修改方案(自用方案)</a></p>
+<p>:::</p>
+<blockquote>
+<p>回到顶部按钮使用的方法引用右键菜单中定义的方法，没有定义的请查看相应位置的注释进行修改</p>
+</blockquote>
+]]></content>
+        <author>
+            <name>梦念逍遥</name>
+            <email>2589141604@qq.com</email>
+            <uri>https://blog.mnxy.eu.org</uri>
+        </author>
+        <published>2023-12-26T12:48:45.898Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【个人博客网站】博客美化（四）：加入看板娘]]></title>
+        <id>https://blog.mnxy.eu.org/posts/meihua4</id>
+        <link href="https://blog.mnxy.eu.org/posts/meihua4"/>
+        <updated>2022-09-24T19:30:00.000Z</updated>
+        <content type="html"><![CDATA[<p>::: tip</p>
+<p>具体操作请参考以下文档：<br>
+<a href="https://github.com/EYHN/hexo-helper-live2d/blob/master/README.zh-CN.md">https://github.com/EYHN/hexo-helper-live2d/blob/master/README.zh-CN.md</a></p>
+<p>:::</p>
+]]></content>
+        <author>
+            <name>梦念逍遥</name>
+            <email>2589141604@qq.com</email>
+            <uri>https://blog.mnxy.eu.org</uri>
+        </author>
+        <published>2023-12-26T12:48:45.898Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【个人博客网站】博客美化（五）：评论系统以及通知邮件]]></title>
+        <id>https://blog.mnxy.eu.org/posts/meihua5</id>
+        <link href="https://blog.mnxy.eu.org/posts/meihua5"/>
+        <updated>2022-09-29T19:30:00.000Z</updated>
+        <content type="html"><![CDATA[<p>::: tip</p>
+<p>本篇以Valine为例<br>
+推荐使用LeanCloud国际版<br>
+具体文档地址：<a href="https://github.com/HCLonely/Valine">https://github.com/HCLonely/Valine</a></p>
+<p>:::</p>
+]]></content>
+        <author>
+            <name>梦念逍遥</name>
+            <email>2589141604@qq.com</email>
+            <uri>https://blog.mnxy.eu.org</uri>
+        </author>
+        <published>2023-12-26T12:48:45.898Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【个人博客网站】博客美化（六）：添加侧边栏电子钟]]></title>
+        <id>https://blog.mnxy.eu.org/posts/meihua6</id>
+        <link href="https://blog.mnxy.eu.org/posts/meihua6"/>
+        <updated>2022-09-30T19:30:00.000Z</updated>
+        <content type="html"><![CDATA[<p>::: tip</p>
+<p>参考了安知鱼的方案进行修改<br>
+原教程<a href="https://anzhiy.cn/posts/fc18.html">给butterfly添加侧边栏电子钟</a></p>
+<p>:::</p>
+]]></content>
+        <author>
+            <name>梦念逍遥</name>
+            <email>2589141604@qq.com</email>
+            <uri>https://blog.mnxy.eu.org</uri>
+        </author>
+        <published>2023-12-26T12:48:45.898Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【个人博客网站】博客美化（七）：随机文章显示]]></title>
+        <id>https://blog.mnxy.eu.org/posts/meihua7</id>
+        <link href="https://blog.mnxy.eu.org/posts/meihua7"/>
+        <updated>2022-09-30T19:30:00.000Z</updated>
+        <content type="html"><![CDATA[<p>::: tip</p>
+<p>参考了安知鱼的方案进行修改<br>
+原教程<a href="https://anzhiy.cn/posts/sdxhu.html#random.js%E9%9A%8F%E6%9C%BA%E8%B7%B3%E8%BD%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0">butterfly 重装日记</a></p>
+<p>:::</p>
+]]></content>
+        <author>
+            <name>梦念逍遥</name>
+            <email>2589141604@qq.com</email>
+            <uri>https://blog.mnxy.eu.org</uri>
+        </author>
+        <published>2023-12-26T12:48:45.898Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【个人博客网站】博客美化（八）：twikoo评论系统以及双评论]]></title>
+        <id>https://blog.mnxy.eu.org/posts/meihua8</id>
+        <link href="https://blog.mnxy.eu.org/posts/meihua8"/>
+        <updated>2022-10-03T14:30:00.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>具体文档地址：<a href="https://twikoo.js.org/quick-start.html#vercel-%E9%83%A8%E7%BD%B2">https://twikoo.js.org/quick-start.html#vercel-部署</a></p>
+</blockquote>
+]]></content>
+        <author>
+            <name>梦念逍遥</name>
+            <email>2589141604@qq.com</email>
+            <uri>https://blog.mnxy.eu.org</uri>
+        </author>
+        <published>2023-12-26T12:48:45.898Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【个人博客网站】博客美化（九）：开启PWA功能]]></title>
+        <id>https://blog.mnxy.eu.org/posts/meihua9</id>
+        <link href="https://blog.mnxy.eu.org/posts/meihua9"/>
+        <updated>2022-11-07T22:30:00.000Z</updated>
+        <content type="html"><![CDATA[<p>::: tip</p>
+<p>参考了安知鱼的方案进行修改<br>
+原教程<a href="https://anzhiy.cn/posts/sdxhu.html#%E9%85%8D%E7%BD%AE-pwa">butterfly 重装日记</a></p>
+<p>:::</p>
+]]></content>
+        <author>
+            <name>梦念逍遥</name>
+            <email>2589141604@qq.com</email>
+            <uri>https://blog.mnxy.eu.org</uri>
+        </author>
+        <published>2023-12-26T12:48:45.898Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Novelai双版本部署整合教程]]></title>
         <id>https://blog.mnxy.eu.org/posts/novelai</id>
@@ -31,7 +186,7 @@
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2023-12-26T12:37:59.045Z</published>
+        <published>2023-12-26T12:48:45.898Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【Novelai】新版本支持xformers！降低显卡占用黑科技！]]></title>
@@ -45,7 +200,7 @@
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2023-12-26T12:37:59.045Z</published>
+        <published>2023-12-26T12:48:45.898Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【Novelai】快速提取tag，生成美图！]]></title>
@@ -61,7 +216,7 @@
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2023-12-26T12:37:59.045Z</published>
+        <published>2023-12-26T12:48:45.898Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ohook——离线永久激活office全家桶]]></title>
@@ -77,7 +232,7 @@
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2023-12-26T12:37:59.045Z</published>
+        <published>2023-12-26T12:48:45.898Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[使用Replit平台免费搭建Web版阅读]]></title>
@@ -91,7 +246,7 @@
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2023-12-26T12:37:59.045Z</published>
+        <published>2023-12-26T12:48:45.898Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[网站托管服务——Vercel、Netlify、Zeabur]]></title>
@@ -106,7 +261,7 @@
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2023-12-26T12:37:59.045Z</published>
+        <published>2023-12-26T12:48:45.898Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[白嫖永久Typora Windows全版本]]></title>
@@ -122,7 +277,7 @@
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2023-12-26T12:37:59.045Z</published>
+        <published>2023-12-26T12:48:45.898Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[使用Replit平台免费搭建站点监控工具——Uptime-Kuma]]></title>
@@ -137,7 +292,7 @@
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2023-12-26T12:37:59.045Z</published>
+        <published>2023-12-26T12:48:45.898Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[欢迎来到我的博客]]></title>
@@ -152,7 +307,7 @@
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2023-12-26T12:37:59.045Z</published>
+        <published>2023-12-26T12:48:45.898Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【白夜极光】免加速游戏教程，使用直连速度起飞]]></title>
@@ -165,7 +320,7 @@
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2023-12-26T12:37:59.041Z</published>
+        <published>2023-12-26T12:48:45.894Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【白夜极光】启动器反向代理搭建教程]]></title>
@@ -183,7 +338,7 @@
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2023-12-26T12:37:59.041Z</published>
+        <published>2023-12-26T12:48:45.894Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【白夜极光】Celestite - 第三方DMM Game Player]]></title>
@@ -196,7 +351,7 @@
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2023-12-26T12:37:59.041Z</published>
+        <published>2023-12-26T12:48:45.894Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[大学新生报道需要注意的几个坑]]></title>
@@ -211,7 +366,7 @@
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2023-12-26T12:37:59.041Z</published>
+        <published>2023-12-26T12:48:45.894Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】从零开发博客网站（一）]]></title>
@@ -228,7 +383,7 @@
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2023-12-26T12:37:59.041Z</published>
+        <published>2023-12-26T12:48:45.894Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】从零开发博客网站（二）]]></title>
@@ -244,7 +399,7 @@
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2023-12-26T12:37:59.041Z</published>
+        <published>2023-12-26T12:48:45.894Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】从零开发博客网站（三）]]></title>
@@ -262,7 +417,7 @@
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2023-12-26T12:37:59.041Z</published>
+        <published>2023-12-26T12:48:45.894Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】从零开发博客网站（四）- 使用GitHub Actions自动构建博客]]></title>
@@ -281,7 +436,7 @@
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2023-12-26T12:37:59.041Z</published>
+        <published>2023-12-26T12:48:45.894Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[永久免费域名白嫖--eu.org]]></title>
@@ -296,7 +451,7 @@
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2023-12-26T12:37:59.041Z</published>
+        <published>2023-12-26T12:48:45.894Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[使用Replit平台免费搭建GitHub反代]]></title>
@@ -314,7 +469,7 @@
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2023-12-26T12:37:59.041Z</published>
+        <published>2023-12-26T12:48:45.894Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】Typora + B站 = 高速图床]]></title>
@@ -332,7 +487,7 @@
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2023-12-26T12:37:59.041Z</published>
+        <published>2023-12-26T12:48:45.894Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[小米路由器4A千兆版刷机openwrt(含刷回官方)]]></title>
@@ -358,7 +513,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2023-12-26T12:37:59.041Z</published>
+        <published>2023-12-26T12:48:45.894Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】博客美化——总篇集]]></title>
@@ -374,7 +529,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2023-12-26T12:37:59.041Z</published>
+        <published>2023-12-26T12:48:45.894Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】博客美化（一）：制作欢迎弹窗]]></title>
@@ -392,7 +547,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2023-12-26T12:37:59.041Z</published>
+        <published>2023-12-26T12:48:45.894Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】博客美化（十）：彩色图标以及浮动特效]]></title>
@@ -409,161 +564,6 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2023-12-26T12:37:59.041Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【个人博客网站】博客美化（十一）：修改全局弹窗样式]]></title>
-        <id>https://blog.mnxy.eu.org/posts/meihua11</id>
-        <link href="https://blog.mnxy.eu.org/posts/meihua11"/>
-        <updated>2022-12-06T22:30:00.000Z</updated>
-        <content type="html"><![CDATA[<h3>引入样式文件</h3>
-]]></content>
-        <author>
-            <name>梦念逍遥</name>
-            <email>2589141604@qq.com</email>
-            <uri>https://blog.mnxy.eu.org</uri>
-        </author>
-        <published>2023-12-26T12:37:59.041Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【个人博客网站】博客美化（二）：制作右键菜单]]></title>
-        <id>https://blog.mnxy.eu.org/posts/meihua2</id>
-        <link href="https://blog.mnxy.eu.org/posts/meihua2"/>
-        <updated>2022-09-15T19:30:00.000Z</updated>
-        <content type="html"><![CDATA[<p>::: tip</p>
-<p>参考了LYX的方案进行修改<br>
-原教程<a href="https://yisous.xyz/posts/11eb4aac/">butterfly博客自定义右键菜单升级版</a></p>
-<p>2022.09.20 加入F12弹窗提示<br>
-2022.09.22 修复百度搜索和转到链接功能点击后页面刷新的问题</p>
-<p>:::</p>
-]]></content>
-        <author>
-            <name>梦念逍遥</name>
-            <email>2589141604@qq.com</email>
-            <uri>https://blog.mnxy.eu.org</uri>
-        </author>
-        <published>2023-12-26T12:37:59.041Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【个人博客网站】博客美化（三）：关于Butterfly的导航栏的一些教程]]></title>
-        <id>https://blog.mnxy.eu.org/posts/meihua3</id>
-        <link href="https://blog.mnxy.eu.org/posts/meihua3"/>
-        <updated>2022-09-17T19:30:00.000Z</updated>
-        <content type="html"><![CDATA[<p>::: tip</p>
-<p>参考了安知鱼的方案进行修改<br>
-原教程<a href="https://anzhiy.cn/posts/8e53.html">butterfly导航栏修改方案(自用方案)</a></p>
-<p>:::</p>
-<blockquote>
-<p>回到顶部按钮使用的方法引用右键菜单中定义的方法，没有定义的请查看相应位置的注释进行修改</p>
-</blockquote>
-]]></content>
-        <author>
-            <name>梦念逍遥</name>
-            <email>2589141604@qq.com</email>
-            <uri>https://blog.mnxy.eu.org</uri>
-        </author>
-        <published>2023-12-26T12:37:59.041Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【个人博客网站】博客美化（四）：加入看板娘]]></title>
-        <id>https://blog.mnxy.eu.org/posts/meihua4</id>
-        <link href="https://blog.mnxy.eu.org/posts/meihua4"/>
-        <updated>2022-09-24T19:30:00.000Z</updated>
-        <content type="html"><![CDATA[<p>::: tip</p>
-<p>具体操作请参考以下文档：<br>
-<a href="https://github.com/EYHN/hexo-helper-live2d/blob/master/README.zh-CN.md">https://github.com/EYHN/hexo-helper-live2d/blob/master/README.zh-CN.md</a></p>
-<p>:::</p>
-]]></content>
-        <author>
-            <name>梦念逍遥</name>
-            <email>2589141604@qq.com</email>
-            <uri>https://blog.mnxy.eu.org</uri>
-        </author>
-        <published>2023-12-26T12:37:59.041Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【个人博客网站】博客美化（五）：评论系统以及通知邮件]]></title>
-        <id>https://blog.mnxy.eu.org/posts/meihua5</id>
-        <link href="https://blog.mnxy.eu.org/posts/meihua5"/>
-        <updated>2022-09-29T19:30:00.000Z</updated>
-        <content type="html"><![CDATA[<p>::: tip</p>
-<p>本篇以Valine为例<br>
-推荐使用LeanCloud国际版<br>
-具体文档地址：<a href="https://github.com/HCLonely/Valine">https://github.com/HCLonely/Valine</a></p>
-<p>:::</p>
-]]></content>
-        <author>
-            <name>梦念逍遥</name>
-            <email>2589141604@qq.com</email>
-            <uri>https://blog.mnxy.eu.org</uri>
-        </author>
-        <published>2023-12-26T12:37:59.041Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【个人博客网站】博客美化（六）：添加侧边栏电子钟]]></title>
-        <id>https://blog.mnxy.eu.org/posts/meihua6</id>
-        <link href="https://blog.mnxy.eu.org/posts/meihua6"/>
-        <updated>2022-09-30T19:30:00.000Z</updated>
-        <content type="html"><![CDATA[<p>::: tip</p>
-<p>参考了安知鱼的方案进行修改<br>
-原教程<a href="https://anzhiy.cn/posts/fc18.html">给butterfly添加侧边栏电子钟</a></p>
-<p>:::</p>
-]]></content>
-        <author>
-            <name>梦念逍遥</name>
-            <email>2589141604@qq.com</email>
-            <uri>https://blog.mnxy.eu.org</uri>
-        </author>
-        <published>2023-12-26T12:37:59.041Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【个人博客网站】博客美化（七）：随机文章显示]]></title>
-        <id>https://blog.mnxy.eu.org/posts/meihua7</id>
-        <link href="https://blog.mnxy.eu.org/posts/meihua7"/>
-        <updated>2022-09-30T19:30:00.000Z</updated>
-        <content type="html"><![CDATA[<p>::: tip</p>
-<p>参考了安知鱼的方案进行修改<br>
-原教程<a href="https://anzhiy.cn/posts/sdxhu.html#random.js%E9%9A%8F%E6%9C%BA%E8%B7%B3%E8%BD%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0">butterfly 重装日记</a></p>
-<p>:::</p>
-]]></content>
-        <author>
-            <name>梦念逍遥</name>
-            <email>2589141604@qq.com</email>
-            <uri>https://blog.mnxy.eu.org</uri>
-        </author>
-        <published>2023-12-26T12:37:59.041Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【个人博客网站】博客美化（八）：twikoo评论系统以及双评论]]></title>
-        <id>https://blog.mnxy.eu.org/posts/meihua8</id>
-        <link href="https://blog.mnxy.eu.org/posts/meihua8"/>
-        <updated>2022-10-03T14:30:00.000Z</updated>
-        <content type="html"><![CDATA[<blockquote>
-<p>具体文档地址：<a href="https://twikoo.js.org/quick-start.html#vercel-%E9%83%A8%E7%BD%B2">https://twikoo.js.org/quick-start.html#vercel-部署</a></p>
-</blockquote>
-]]></content>
-        <author>
-            <name>梦念逍遥</name>
-            <email>2589141604@qq.com</email>
-            <uri>https://blog.mnxy.eu.org</uri>
-        </author>
-        <published>2023-12-26T12:37:59.041Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【个人博客网站】博客美化（九）：开启PWA功能]]></title>
-        <id>https://blog.mnxy.eu.org/posts/meihua9</id>
-        <link href="https://blog.mnxy.eu.org/posts/meihua9"/>
-        <updated>2022-11-07T22:30:00.000Z</updated>
-        <content type="html"><![CDATA[<p>::: tip</p>
-<p>参考了安知鱼的方案进行修改<br>
-原教程<a href="https://anzhiy.cn/posts/sdxhu.html#%E9%85%8D%E7%BD%AE-pwa">butterfly 重装日记</a></p>
-<p>:::</p>
-]]></content>
-        <author>
-            <name>梦念逍遥</name>
-            <email>2589141604@qq.com</email>
-            <uri>https://blog.mnxy.eu.org</uri>
-        </author>
-        <published>2023-12-26T12:37:59.041Z</published>
+        <published>2023-12-26T12:48:45.894Z</published>
     </entry>
 </feed>
