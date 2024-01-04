@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.mnxy.eu.org/</id>
     <title>梦念逍遥のBLOG</title>
-    <updated>2024-01-04T14:41:30.074Z</updated>
+    <updated>2024-01-04T21:12:55.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>梦念逍遥</name>
@@ -15,6 +15,96 @@
     <icon>https://blog.mnxy.eu.org../favicon.svg</icon>
     <rights>CC BY-NC-SA 4.0 2024 © 梦念逍遥</rights>
     <entry>
+        <title type="html"><![CDATA[使用Replit平台免费搭建Web版阅读]]></title>
+        <id>https://blog.mnxy.eu.org/posts/reader</id>
+        <link href="https://blog.mnxy.eu.org/posts/reader"/>
+        <updated>2023-09-06T14:30:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>阅读</h2>
+]]></content>
+        <author>
+            <name>梦念逍遥</name>
+            <email>2589141604@qq.com</email>
+            <uri>https://blog.mnxy.eu.org</uri>
+        </author>
+        <published>2024-01-04T21:11:29.867Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网站托管服务——Vercel、Netlify、Zeabur]]></title>
+        <id>https://blog.mnxy.eu.org/posts/source</id>
+        <link href="https://blog.mnxy.eu.org/posts/source"/>
+        <updated>2023-09-20T14:30:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>前言</h2>
+<p>我的博客使用<a href="https://vercel.com/">Vercel</a>以及<a href="https://netlify.com/">Netlify</a>部署，这两个网站托管服务都很不错 。还有一个<a href="https://zeabur.com">Zeabur</a>，它提供的服务也不亚于其他两个服务提供商</p>
+]]></content>
+        <author>
+            <name>梦念逍遥</name>
+            <email>2589141604@qq.com</email>
+            <uri>https://blog.mnxy.eu.org</uri>
+        </author>
+        <published>2024-01-04T21:11:29.867Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vercel被GFW、Netlify打不开？一招解决！]]></title>
+        <id>https://blog.mnxy.eu.org/posts/source2</id>
+        <link href="https://blog.mnxy.eu.org/posts/source2"/>
+        <updated>2024-01-04T14:30:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>前言</h2>
+<p>在10月份的时候，博客突然无法访问了，后续得知是<code>Vercel</code>被<code>GFW</code>了，我就换成了<code>Netlify</code>进行托管。好景不长，在12月份的时候就出现部分运营商网络打不开的情况。</p>
+]]></content>
+        <author>
+            <name>梦念逍遥</name>
+            <email>2589141604@qq.com</email>
+            <uri>https://blog.mnxy.eu.org</uri>
+        </author>
+        <published>2024-01-04T21:11:29.867Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[白嫖永久Typora Windows全版本]]></title>
+        <id>https://blog.mnxy.eu.org/posts/typora</id>
+        <link href="https://blog.mnxy.eu.org/posts/typora"/>
+        <updated>2023-09-29T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>::: tip</p>
+<p>原文：博客【法海之路】——<a href="https://www.fahai.org/jszt/14.html">Typora Windows全版本破解补丁[支持版本更新]</a></p>
+<p>:::</p>
+]]></content>
+        <author>
+            <name>梦念逍遥</name>
+            <email>2589141604@qq.com</email>
+            <uri>https://blog.mnxy.eu.org</uri>
+        </author>
+        <published>2024-01-04T21:11:29.867Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用Replit平台免费搭建站点监控工具——Uptime-Kuma]]></title>
+        <id>https://blog.mnxy.eu.org/posts/uptime</id>
+        <link href="https://blog.mnxy.eu.org/posts/uptime"/>
+        <updated>2023-08-29T14:30:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>什么是Uptime-Kuma</h2>
+<p>它是类似于<code>Uptime Robot</code>的自托管监控工具。在GitHub上开源，可通过Docker与非Docker方式进行部署，界面简洁，支持多种语言</p>
+]]></content>
+        <author>
+            <name>梦念逍遥</name>
+            <email>2589141604@qq.com</email>
+            <uri>https://blog.mnxy.eu.org</uri>
+        </author>
+        <published>2024-01-04T21:11:29.867Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欢迎来到我的博客]]></title>
+        <id>https://blog.mnxy.eu.org/posts/welcome</id>
+        <link href="https://blog.mnxy.eu.org/posts/welcome"/>
+        <updated>2022-08-19T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>Hello！各位小伙伴们，欢迎来到我的博客。</p>
+<p>在这里，和我一起学习吧！</p>
+]]></content>
+        <author>
+            <name>梦念逍遥</name>
+            <email>2589141604@qq.com</email>
+            <uri>https://blog.mnxy.eu.org</uri>
+        </author>
+        <published>2024-01-04T21:11:29.867Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【白夜极光】免加速游戏教程，使用直连速度起飞]]></title>
         <id>https://blog.mnxy.eu.org/posts/baiye1</id>
         <link href="https://blog.mnxy.eu.org/posts/baiye1"/>
@@ -25,7 +115,7 @@
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-04T14:39:40.908Z</published>
+        <published>2024-01-04T21:11:29.863Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【白夜极光】启动器反向代理搭建教程]]></title>
@@ -43,7 +133,7 @@
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-04T14:39:40.908Z</published>
+        <published>2024-01-04T21:11:29.863Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【白夜极光】Celestite - 第三方DMM Game Player]]></title>
@@ -56,7 +146,7 @@
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-04T14:39:40.908Z</published>
+        <published>2024-01-04T21:11:29.863Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[大学新生报道需要注意的几个坑]]></title>
@@ -71,7 +161,7 @@
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-04T14:39:40.908Z</published>
+        <published>2024-01-04T21:11:29.863Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】从零开发博客网站（一）]]></title>
@@ -88,7 +178,7 @@
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-04T14:39:40.908Z</published>
+        <published>2024-01-04T21:11:29.863Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】从零开发博客网站（二）]]></title>
@@ -104,7 +194,7 @@
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-04T14:39:40.908Z</published>
+        <published>2024-01-04T21:11:29.863Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】从零开发博客网站（三）]]></title>
@@ -122,7 +212,7 @@
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-04T14:39:40.908Z</published>
+        <published>2024-01-04T21:11:29.863Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】从零开发博客网站（四）- 使用GitHub Actions自动构建博客]]></title>
@@ -141,7 +231,7 @@
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-04T14:39:40.908Z</published>
+        <published>2024-01-04T21:11:29.863Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[永久免费域名白嫖--eu.org]]></title>
@@ -156,7 +246,7 @@
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-04T14:39:40.908Z</published>
+        <published>2024-01-04T21:11:29.863Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[使用Replit平台免费搭建GitHub反代]]></title>
@@ -174,7 +264,7 @@
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-04T14:39:40.908Z</published>
+        <published>2024-01-04T21:11:29.863Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】Typora + B站 = 高速图床]]></title>
@@ -192,7 +282,7 @@
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-04T14:39:40.908Z</published>
+        <published>2024-01-04T21:11:29.863Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[小米路由器4A千兆版刷机openwrt(含刷回官方)]]></title>
@@ -218,7 +308,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-04T14:39:40.908Z</published>
+        <published>2024-01-04T21:11:29.863Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】博客美化——总篇集]]></title>
@@ -234,7 +324,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-04T14:39:40.908Z</published>
+        <published>2024-01-04T21:11:29.863Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】博客美化（一）：制作欢迎弹窗]]></title>
@@ -252,7 +342,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-04T14:39:40.908Z</published>
+        <published>2024-01-04T21:11:29.863Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】博客美化（十）：彩色图标以及浮动特效]]></title>
@@ -269,7 +359,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-04T14:39:40.908Z</published>
+        <published>2024-01-04T21:11:29.863Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】博客美化（十一）：修改全局弹窗样式]]></title>
@@ -283,7 +373,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-04T14:39:40.908Z</published>
+        <published>2024-01-04T21:11:29.863Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】博客美化（二）：制作右键菜单]]></title>
@@ -302,7 +392,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-04T14:39:40.908Z</published>
+        <published>2024-01-04T21:11:29.863Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】博客美化（三）：关于Butterfly的导航栏的一些教程]]></title>
@@ -322,7 +412,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-04T14:39:40.908Z</published>
+        <published>2024-01-04T21:11:29.863Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】博客美化（四）：加入看板娘]]></title>
@@ -339,7 +429,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-04T14:39:40.908Z</published>
+        <published>2024-01-04T21:11:29.863Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】博客美化（五）：评论系统以及通知邮件]]></title>
@@ -357,7 +447,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-04T14:39:40.908Z</published>
+        <published>2024-01-04T21:11:29.863Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】博客美化（六）：添加侧边栏电子钟]]></title>
@@ -374,7 +464,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-04T14:39:40.908Z</published>
+        <published>2024-01-04T21:11:29.863Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】博客美化（七）：随机文章显示]]></title>
@@ -391,7 +481,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-04T14:39:40.908Z</published>
+        <published>2024-01-04T21:11:29.863Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】博客美化（八）：twikoo评论系统以及双评论]]></title>
@@ -407,7 +497,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-04T14:39:40.908Z</published>
+        <published>2024-01-04T21:11:29.863Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】博客美化（九）：开启PWA功能]]></title>
@@ -424,7 +514,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-04T14:39:40.908Z</published>
+        <published>2024-01-04T21:11:29.863Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Novelai双版本部署整合教程]]></title>
@@ -443,7 +533,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-04T14:39:40.908Z</published>
+        <published>2024-01-04T21:11:29.863Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【Novelai】新版本支持xformers！降低显卡占用黑科技！]]></title>
@@ -457,7 +547,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-04T14:39:40.908Z</published>
+        <published>2024-01-04T21:11:29.863Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【Novelai】快速提取tag，生成美图！]]></title>
@@ -473,7 +563,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-04T14:39:40.908Z</published>
+        <published>2024-01-04T21:11:29.863Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ohook——离线永久激活office全家桶]]></title>
@@ -489,96 +579,6 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-04T14:39:40.908Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用Replit平台免费搭建Web版阅读]]></title>
-        <id>https://blog.mnxy.eu.org/posts/reader</id>
-        <link href="https://blog.mnxy.eu.org/posts/reader"/>
-        <updated>2023-09-06T14:30:00.000Z</updated>
-        <content type="html"><![CDATA[<h2>阅读</h2>
-]]></content>
-        <author>
-            <name>梦念逍遥</name>
-            <email>2589141604@qq.com</email>
-            <uri>https://blog.mnxy.eu.org</uri>
-        </author>
-        <published>2024-01-04T14:39:40.908Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网站托管服务——Vercel、Netlify、Zeabur]]></title>
-        <id>https://blog.mnxy.eu.org/posts/source</id>
-        <link href="https://blog.mnxy.eu.org/posts/source"/>
-        <updated>2023-09-20T14:30:00.000Z</updated>
-        <content type="html"><![CDATA[<h2>前言</h2>
-<p>我的博客使用<a href="https://vercel.com/">Vercel</a>以及<a href="https://netlify.com/">Netlify</a>部署，这两个网站托管服务都很不错 。还有一个<a href="https://zeabur.com">Zeabur</a>，它提供的服务也不亚于其他两个服务提供商</p>
-]]></content>
-        <author>
-            <name>梦念逍遥</name>
-            <email>2589141604@qq.com</email>
-            <uri>https://blog.mnxy.eu.org</uri>
-        </author>
-        <published>2024-01-04T14:39:40.908Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vercel被GFW、Netlify打不开？一招解决！]]></title>
-        <id>https://blog.mnxy.eu.org/posts/source2</id>
-        <link href="https://blog.mnxy.eu.org/posts/source2"/>
-        <updated>2024-01-04T14:30:00.000Z</updated>
-        <content type="html"><![CDATA[<h2>前言</h2>
-<p>在10月份的时候，博客突然无法访问了，后续得知是<code>Vercel</code>被<code>GFW</code>了，我就换成了<code>Netlify</code>进行托管。好景不长，在12月份的时候就出现部分运营商网络打不开的情况。</p>
-]]></content>
-        <author>
-            <name>梦念逍遥</name>
-            <email>2589141604@qq.com</email>
-            <uri>https://blog.mnxy.eu.org</uri>
-        </author>
-        <published>2024-01-04T14:39:40.908Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[白嫖永久Typora Windows全版本]]></title>
-        <id>https://blog.mnxy.eu.org/posts/typora</id>
-        <link href="https://blog.mnxy.eu.org/posts/typora"/>
-        <updated>2023-09-29T16:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>::: tip</p>
-<p>原文：博客【法海之路】——<a href="https://www.fahai.org/jszt/14.html">Typora Windows全版本破解补丁[支持版本更新]</a></p>
-<p>:::</p>
-]]></content>
-        <author>
-            <name>梦念逍遥</name>
-            <email>2589141604@qq.com</email>
-            <uri>https://blog.mnxy.eu.org</uri>
-        </author>
-        <published>2024-01-04T14:39:40.908Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用Replit平台免费搭建站点监控工具——Uptime-Kuma]]></title>
-        <id>https://blog.mnxy.eu.org/posts/uptime</id>
-        <link href="https://blog.mnxy.eu.org/posts/uptime"/>
-        <updated>2023-08-29T14:30:00.000Z</updated>
-        <content type="html"><![CDATA[<h2>什么是Uptime-Kuma</h2>
-<p>它是类似于<code>Uptime Robot</code>的自托管监控工具。在GitHub上开源，可通过Docker与非Docker方式进行部署，界面简洁，支持多种语言</p>
-]]></content>
-        <author>
-            <name>梦念逍遥</name>
-            <email>2589141604@qq.com</email>
-            <uri>https://blog.mnxy.eu.org</uri>
-        </author>
-        <published>2024-01-04T14:39:40.908Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欢迎来到我的博客]]></title>
-        <id>https://blog.mnxy.eu.org/posts/welcome</id>
-        <link href="https://blog.mnxy.eu.org/posts/welcome"/>
-        <updated>2022-08-19T16:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>Hello！各位小伙伴们，欢迎来到我的博客。</p>
-<p>在这里，和我一起学习吧！</p>
-]]></content>
-        <author>
-            <name>梦念逍遥</name>
-            <email>2589141604@qq.com</email>
-            <uri>https://blog.mnxy.eu.org</uri>
-        </author>
-        <published>2024-01-04T14:39:40.908Z</published>
+        <published>2024-01-04T21:11:29.863Z</published>
     </entry>
 </feed>
