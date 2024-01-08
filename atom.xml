@@ -4,7 +4,7 @@
         <title>梦念逍遥のBLOG</title>
         <link>https://blog.mnxy.eu.org/</link>
         <description></description>
-        <lastBuildDate>Mon, 08 Jan 2024 14:46:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 14:54:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -15,225 +15,10 @@
         <copyright>CC BY-NC-SA 4.0 2024 © 梦念逍遥</copyright>
         <atom:link href="https://blog.mnxy.eu.org/atom.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[【个人博客网站】博客美化（十一）：修改全局弹窗样式]]></title>
-            <link>https://blog.mnxy.eu.org/posts/meihua11</link>
-            <guid>https://blog.mnxy.eu.org/posts/meihua11</guid>
-            <pubDate>Mon, 08 Jan 2024 14:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[<h3>引入样式文件</h3>
-]]></content:encoded>
-            <author>2589141604@qq.com (梦念逍遥)</author>
-        </item>
-        <item>
-            <title><![CDATA[【个人博客网站】博客美化（二）：制作右键菜单]]></title>
-            <link>https://blog.mnxy.eu.org/posts/meihua2</link>
-            <guid>https://blog.mnxy.eu.org/posts/meihua2</guid>
-            <pubDate>Mon, 08 Jan 2024 14:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[<p>::: tip</p>
-<p>参考了LYX的方案进行修改<br>
-原教程<a href="https://yisous.xyz/posts/11eb4aac/">butterfly博客自定义右键菜单升级版</a></p>
-<p>2022.09.20 加入F12弹窗提示<br>
-2022.09.22 修复百度搜索和转到链接功能点击后页面刷新的问题</p>
-<p>:::</p>
-]]></content:encoded>
-            <author>2589141604@qq.com (梦念逍遥)</author>
-        </item>
-        <item>
-            <title><![CDATA[【个人博客网站】博客美化（三）：关于Butterfly的导航栏的一些教程]]></title>
-            <link>https://blog.mnxy.eu.org/posts/meihua3</link>
-            <guid>https://blog.mnxy.eu.org/posts/meihua3</guid>
-            <pubDate>Mon, 08 Jan 2024 14:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[<p>::: tip</p>
-<p>参考了安知鱼的方案进行修改<br>
-原教程<a href="https://anzhiy.cn/posts/8e53.html">butterfly导航栏修改方案(自用方案)</a></p>
-<p>:::</p>
-<blockquote>
-<p>回到顶部按钮使用的方法引用右键菜单中定义的方法，没有定义的请查看相应位置的注释进行修改</p>
-</blockquote>
-]]></content:encoded>
-            <author>2589141604@qq.com (梦念逍遥)</author>
-        </item>
-        <item>
-            <title><![CDATA[【个人博客网站】博客美化（四）：加入看板娘]]></title>
-            <link>https://blog.mnxy.eu.org/posts/meihua4</link>
-            <guid>https://blog.mnxy.eu.org/posts/meihua4</guid>
-            <pubDate>Mon, 08 Jan 2024 14:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[<p>::: tip</p>
-<p>具体操作请参考以下文档：<br>
-<a href="https://github.com/EYHN/hexo-helper-live2d/blob/master/README.zh-CN.md">https://github.com/EYHN/hexo-helper-live2d/blob/master/README.zh-CN.md</a></p>
-<p>:::</p>
-]]></content:encoded>
-            <author>2589141604@qq.com (梦念逍遥)</author>
-        </item>
-        <item>
-            <title><![CDATA[【个人博客网站】博客美化（五）：评论系统以及通知邮件]]></title>
-            <link>https://blog.mnxy.eu.org/posts/meihua5</link>
-            <guid>https://blog.mnxy.eu.org/posts/meihua5</guid>
-            <pubDate>Mon, 08 Jan 2024 14:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[<p>::: tip</p>
-<p>本篇以Valine为例<br>
-推荐使用LeanCloud国际版<br>
-具体文档地址：<a href="https://github.com/HCLonely/Valine">https://github.com/HCLonely/Valine</a></p>
-<p>:::</p>
-]]></content:encoded>
-            <author>2589141604@qq.com (梦念逍遥)</author>
-        </item>
-        <item>
-            <title><![CDATA[【个人博客网站】博客美化（六）：添加侧边栏电子钟]]></title>
-            <link>https://blog.mnxy.eu.org/posts/meihua6</link>
-            <guid>https://blog.mnxy.eu.org/posts/meihua6</guid>
-            <pubDate>Mon, 08 Jan 2024 14:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[<p>::: tip</p>
-<p>参考了安知鱼的方案进行修改<br>
-原教程<a href="https://anzhiy.cn/posts/fc18.html">给butterfly添加侧边栏电子钟</a></p>
-<p>:::</p>
-]]></content:encoded>
-            <author>2589141604@qq.com (梦念逍遥)</author>
-        </item>
-        <item>
-            <title><![CDATA[【个人博客网站】博客美化（七）：随机文章显示]]></title>
-            <link>https://blog.mnxy.eu.org/posts/meihua7</link>
-            <guid>https://blog.mnxy.eu.org/posts/meihua7</guid>
-            <pubDate>Mon, 08 Jan 2024 14:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[<p>::: tip</p>
-<p>参考了安知鱼的方案进行修改<br>
-原教程<a href="https://anzhiy.cn/posts/sdxhu.html#random.js%E9%9A%8F%E6%9C%BA%E8%B7%B3%E8%BD%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0">butterfly 重装日记</a></p>
-<p>:::</p>
-]]></content:encoded>
-            <author>2589141604@qq.com (梦念逍遥)</author>
-        </item>
-        <item>
-            <title><![CDATA[【个人博客网站】博客美化（八）：twikoo评论系统以及双评论]]></title>
-            <link>https://blog.mnxy.eu.org/posts/meihua8</link>
-            <guid>https://blog.mnxy.eu.org/posts/meihua8</guid>
-            <pubDate>Mon, 08 Jan 2024 14:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[<blockquote>
-<p>具体文档地址：<a href="https://twikoo.js.org/quick-start.html#vercel-%E9%83%A8%E7%BD%B2">https://twikoo.js.org/quick-start.html#vercel-部署</a></p>
-</blockquote>
-]]></content:encoded>
-            <author>2589141604@qq.com (梦念逍遥)</author>
-        </item>
-        <item>
-            <title><![CDATA[【个人博客网站】博客美化（九）：开启PWA功能]]></title>
-            <link>https://blog.mnxy.eu.org/posts/meihua9</link>
-            <guid>https://blog.mnxy.eu.org/posts/meihua9</guid>
-            <pubDate>Mon, 08 Jan 2024 14:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[<p>::: tip</p>
-<p>参考了安知鱼的方案进行修改<br>
-原教程<a href="https://anzhiy.cn/posts/sdxhu.html#%E9%85%8D%E7%BD%AE-pwa">butterfly 重装日记</a></p>
-<p>:::</p>
-]]></content:encoded>
-            <author>2589141604@qq.com (梦念逍遥)</author>
-        </item>
-        <item>
-            <title><![CDATA[Novelai双版本部署整合教程]]></title>
-            <link>https://blog.mnxy.eu.org/posts/novelai</link>
-            <guid>https://blog.mnxy.eu.org/posts/novelai</guid>
-            <pubDate>Mon, 08 Jan 2024 14:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[<p>::: info NovalAI</p>
-<ul>
-<li><a href="https://pan.baidu.com/s/1X0EILzEg6OEAk3q0qSRPFg?pwd=368y">stable-diffusion-webui</a></li>
-<li><a href="https://pan.baidu.com/s/128fha-fXuv7yj3kvmPkCTQ?pwd=pbrk">novel-naifu</a></li>
-</ul>
-<p>:::</p>
-]]></content:encoded>
-            <author>2589141604@qq.com (梦念逍遥)</author>
-        </item>
-        <item>
-            <title><![CDATA[【Novelai】新版本支持xformers！降低显卡占用黑科技！]]></title>
-            <link>https://blog.mnxy.eu.org/posts/novelai1</link>
-            <guid>https://blog.mnxy.eu.org/posts/novelai1</guid>
-            <pubDate>Mon, 08 Jan 2024 14:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[<h2>更新</h2>
-]]></content:encoded>
-            <author>2589141604@qq.com (梦念逍遥)</author>
-        </item>
-        <item>
-            <title><![CDATA[【Novelai】快速提取tag，生成美图！]]></title>
-            <link>https://blog.mnxy.eu.org/posts/novelai2</link>
-            <guid>https://blog.mnxy.eu.org/posts/novelai2</guid>
-            <pubDate>Mon, 08 Jan 2024 14:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[<blockquote>
-<p><a href="https://pan.baidu.com/s/1X0EILzEg6OEAk3q0qSRPFg?pwd=368y">stable-diffusion-webui下载</a></p>
-</blockquote>
-]]></content:encoded>
-            <author>2589141604@qq.com (梦念逍遥)</author>
-        </item>
-        <item>
-            <title><![CDATA[Ohook——离线永久激活office全家桶]]></title>
-            <link>https://blog.mnxy.eu.org/posts/ohook</link>
-            <guid>https://blog.mnxy.eu.org/posts/ohook</guid>
-            <pubDate>Mon, 08 Jan 2024 14:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[<p>::: tip</p>
-<p>原文：公众号【知彼而知己】——<a href="https://mp.weixin.qq.com/s?__biz=MzA3Nzg3NjYxOQ==&amp;mid=2448169440&amp;idx=1&amp;sn=fc99480a5358c392e03828c0b9a18892&amp;sharer_shareinfo=96240d8becb5785720bf9355d3d1d891&amp;sharer_shareinfo_first=96240d8becb5785720bf9355d3d1d891#rd">重磅：十几年了，Office离线永久激活，突破卡脖子技术！遥遥领先</a></p>
-<p>:::</p>
-]]></content:encoded>
-            <author>2589141604@qq.com (梦念逍遥)</author>
-        </item>
-        <item>
-            <title><![CDATA[使用Replit平台免费搭建Web版阅读]]></title>
-            <link>https://blog.mnxy.eu.org/posts/reader</link>
-            <guid>https://blog.mnxy.eu.org/posts/reader</guid>
-            <pubDate>Mon, 08 Jan 2024 14:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[<h2>阅读</h2>
-]]></content:encoded>
-            <author>2589141604@qq.com (梦念逍遥)</author>
-        </item>
-        <item>
-            <title><![CDATA[网站托管服务——Vercel、Netlify、Zeabur]]></title>
-            <link>https://blog.mnxy.eu.org/posts/source</link>
-            <guid>https://blog.mnxy.eu.org/posts/source</guid>
-            <pubDate>Mon, 08 Jan 2024 14:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[<h2>前言</h2>
-<p>我的博客使用<a href="https://vercel.com/">Vercel</a>以及<a href="https://netlify.com/">Netlify</a>部署，这两个网站托管服务都很不错 。还有一个<a href="https://zeabur.com">Zeabur</a>，它提供的服务也不亚于其他两个服务提供商</p>
-]]></content:encoded>
-            <author>2589141604@qq.com (梦念逍遥)</author>
-        </item>
-        <item>
-            <title><![CDATA[Vercel被GFW、Netlify打不开？一招解决！]]></title>
-            <link>https://blog.mnxy.eu.org/posts/source2</link>
-            <guid>https://blog.mnxy.eu.org/posts/source2</guid>
-            <pubDate>Mon, 08 Jan 2024 14:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[<h2>前言</h2>
-<p>在10月份的时候，博客突然无法访问了，后续得知是<code>Vercel</code>被<code>GFW</code>了，我就换成了<code>Netlify</code>进行托管。好景不长，在12月份的时候就出现部分运营商网络打不开的情况。</p>
-]]></content:encoded>
-            <author>2589141604@qq.com (梦念逍遥)</author>
-        </item>
-        <item>
-            <title><![CDATA[白嫖永久Typora Windows全版本]]></title>
-            <link>https://blog.mnxy.eu.org/posts/typora</link>
-            <guid>https://blog.mnxy.eu.org/posts/typora</guid>
-            <pubDate>Mon, 08 Jan 2024 14:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[<p>::: tip</p>
-<p>原文：博客【法海之路】——<a href="https://www.fahai.org/jszt/14.html">Typora Windows全版本破解补丁[支持版本更新]</a></p>
-<p>:::</p>
-]]></content:encoded>
-            <author>2589141604@qq.com (梦念逍遥)</author>
-        </item>
-        <item>
-            <title><![CDATA[使用Replit平台免费搭建站点监控工具——Uptime-Kuma]]></title>
-            <link>https://blog.mnxy.eu.org/posts/uptime</link>
-            <guid>https://blog.mnxy.eu.org/posts/uptime</guid>
-            <pubDate>Mon, 08 Jan 2024 14:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[<h2>什么是Uptime-Kuma</h2>
-<p>它是类似于<code>Uptime Robot</code>的自托管监控工具。在GitHub上开源，可通过Docker与非Docker方式进行部署，界面简洁，支持多种语言</p>
-]]></content:encoded>
-            <author>2589141604@qq.com (梦念逍遥)</author>
-        </item>
-        <item>
-            <title><![CDATA[欢迎来到我的博客]]></title>
-            <link>https://blog.mnxy.eu.org/posts/welcome</link>
-            <guid>https://blog.mnxy.eu.org/posts/welcome</guid>
-            <pubDate>Mon, 08 Jan 2024 14:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[<p>Hello！各位小伙伴们，欢迎来到我的博客。</p>
-<p>在这里，和我一起学习吧！</p>
-]]></content:encoded>
-            <author>2589141604@qq.com (梦念逍遥)</author>
-        </item>
-        <item>
             <title><![CDATA[【白夜极光】免加速游戏教程，使用直连速度起飞]]></title>
             <link>https://blog.mnxy.eu.org/posts/baiye1</link>
             <guid>https://blog.mnxy.eu.org/posts/baiye1</guid>
-            <pubDate>Mon, 08 Jan 2024 14:44:24 GMT</pubDate>
+            <pubDate>Mon, 08 Jan 2024 14:53:29 GMT</pubDate>
             <content:encoded><![CDATA[<iframe src="https://blog.mnxy.eu.org//player.bilibili.com/player.html?aid=514478015&bvid=BV1rg411k7CZ&cid=803453532&page=1]]></content:encoded>
             <author>2589141604@qq.com (梦念逍遥)</author>
         </item>
@@ -241,7 +26,7 @@
             <title><![CDATA[【白夜极光】启动器反向代理搭建教程]]></title>
             <link>https://blog.mnxy.eu.org/posts/baiye2</link>
             <guid>https://blog.mnxy.eu.org/posts/baiye2</guid>
-            <pubDate>Mon, 08 Jan 2024 14:44:24 GMT</pubDate>
+            <pubDate>Mon, 08 Jan 2024 14:53:29 GMT</pubDate>
             <content:encoded><![CDATA[<blockquote>
 <p>项目地址：<a href="https://github.com/MengNianxiaoyao/AlchemyStarsLauncher">https://github.com/MengNianxiaoyao/AlchemyStarsLauncher</a></p>
 </blockquote>
@@ -254,7 +39,7 @@
             <title><![CDATA[【白夜极光】Celestite - 第三方DMM Game Player]]></title>
             <link>https://blog.mnxy.eu.org/posts/baiye3</link>
             <guid>https://blog.mnxy.eu.org/posts/baiye3</guid>
-            <pubDate>Mon, 08 Jan 2024 14:44:24 GMT</pubDate>
+            <pubDate>Mon, 08 Jan 2024 14:53:29 GMT</pubDate>
             <content:encoded><![CDATA[<iframe src="https://blog.mnxy.eu.org//player.bilibili.com/player.html?bvid=BV15g411h7YV&page=1" scrolling="no" border="0" ]]></content:encoded>
             <author>2589141604@qq.com (梦念逍遥)</author>
         </item>
@@ -262,7 +47,7 @@
             <title><![CDATA[大学新生报道需要注意的几个坑]]></title>
             <link>https://blog.mnxy.eu.org/posts/baodao</link>
             <guid>https://blog.mnxy.eu.org/posts/baodao</guid>
-            <pubDate>Mon, 08 Jan 2024 14:44:24 GMT</pubDate>
+            <pubDate>Mon, 08 Jan 2024 14:53:29 GMT</pubDate>
             <content:encoded><![CDATA[<h2>前言</h2>
 <p>每年的大学开学，新生总是很多。刚进入大学校园的新生们，啥也不懂，然后······</p>
 ]]></content:encoded>
@@ -272,7 +57,7 @@
             <title><![CDATA[【个人博客网站】从零开始搭建博客网站（一）：本地配置]]></title>
             <link>https://blog.mnxy.eu.org/posts/boke1</link>
             <guid>https://blog.mnxy.eu.org/posts/boke1</guid>
-            <pubDate>Mon, 08 Jan 2024 14:44:24 GMT</pubDate>
+            <pubDate>Mon, 08 Jan 2024 14:53:29 GMT</pubDate>
             <content:encoded><![CDATA[<p>::: tip</p>
 <p>本篇教程为网站重建后重写</p>
 <p>以Hexo框架以及Butterfly主题为例</p>
@@ -284,7 +69,7 @@
             <title><![CDATA[【个人博客网站】从零开始搭建博客网站（二）：博客部署]]></title>
             <link>https://blog.mnxy.eu.org/posts/boke2</link>
             <guid>https://blog.mnxy.eu.org/posts/boke2</guid>
-            <pubDate>Mon, 08 Jan 2024 14:44:24 GMT</pubDate>
+            <pubDate>Mon, 08 Jan 2024 14:53:29 GMT</pubDate>
             <content:encoded><![CDATA[<h2>注册GitHub账号</h2>
 <p>进入<a href="https://github.com">GitHub</a>官网，注册账号</p>
 <h2>获取SSH</h2>
@@ -295,7 +80,7 @@
             <title><![CDATA[【个人博客网站】从零开始搭建博客网站（三）：安装后台插件]]></title>
             <link>https://blog.mnxy.eu.org/posts/boke3</link>
             <guid>https://blog.mnxy.eu.org/posts/boke3</guid>
-            <pubDate>Mon, 08 Jan 2024 14:44:24 GMT</pubDate>
+            <pubDate>Mon, 08 Jan 2024 14:53:29 GMT</pubDate>
             <content:encoded><![CDATA[<h2>说明</h2>
 <p>本篇是可选操作教程，为安装Hexo的后台，可方便服务器写文操作<br>
 ::: tip</p>
@@ -308,7 +93,7 @@
             <title><![CDATA[【个人博客网站】从零开始搭建博客网站（四）：使用GitHub Actions自动构建博客]]></title>
             <link>https://blog.mnxy.eu.org/posts/boke4</link>
             <guid>https://blog.mnxy.eu.org/posts/boke4</guid>
-            <pubDate>Mon, 08 Jan 2024 14:44:24 GMT</pubDate>
+            <pubDate>Mon, 08 Jan 2024 14:53:29 GMT</pubDate>
             <content:encoded><![CDATA[<blockquote>
 <p>本篇是可选操作教程</p>
 </blockquote>
@@ -322,7 +107,7 @@
             <title><![CDATA[永久免费域名白嫖--eu.org]]></title>
             <link>https://blog.mnxy.eu.org/posts/domain</link>
             <guid>https://blog.mnxy.eu.org/posts/domain</guid>
-            <pubDate>Mon, 08 Jan 2024 14:44:24 GMT</pubDate>
+            <pubDate>Mon, 08 Jan 2024 14:53:29 GMT</pubDate>
             <content:encoded><![CDATA[<h2>前言</h2>
 <p>我购买过域名，也尝试过<a href="https://www.freenom.com/">Freenom</a>的免费域名，发现要么花钱的很贵，要么免费的续期注册很麻烦，现在则选择了<a href="https://nic.eu.org/">eu.org域名</a></p>
 ]]></content:encoded>
@@ -332,7 +117,7 @@
             <title><![CDATA[使用Replit平台免费搭建GitHub反代]]></title>
             <link>https://blog.mnxy.eu.org/posts/ghproxy</link>
             <guid>https://blog.mnxy.eu.org/posts/ghproxy</guid>
-            <pubDate>Mon, 08 Jan 2024 14:44:24 GMT</pubDate>
+            <pubDate>Mon, 08 Jan 2024 14:53:29 GMT</pubDate>
             <content:encoded><![CDATA[<blockquote>
 <p>该教程使用到了<code>Replit</code>平台<code>Education</code>账号，普通账号流量限制10G</p>
 </blockquote>
@@ -345,7 +130,7 @@
             <title><![CDATA[【个人博客网站】Typora + B站 = 高速图床]]></title>
             <link>https://blog.mnxy.eu.org/posts/image</link>
             <guid>https://blog.mnxy.eu.org/posts/image</guid>
-            <pubDate>Mon, 08 Jan 2024 14:44:24 GMT</pubDate>
+            <pubDate>Mon, 08 Jan 2024 14:53:29 GMT</pubDate>
             <content:encoded><![CDATA[<h2>工具</h2>
 <ul>
 <li><a href="https://typoraio.cn/">Typora</a></li>
@@ -358,7 +143,7 @@
             <title><![CDATA[小米路由器4A千兆版刷机openwrt(含刷回官方)]]></title>
             <link>https://blog.mnxy.eu.org/posts/lyq</link>
             <guid>https://blog.mnxy.eu.org/posts/lyq</guid>
-            <pubDate>Mon, 08 Jan 2024 14:44:24 GMT</pubDate>
+            <pubDate>Mon, 08 Jan 2024 14:53:29 GMT</pubDate>
             <content:encoded><![CDATA[<p>::: tip</p>
 <p>参考文档:</p>
 <p><a href="https://www.right.com.cn/forum/thread-4317222-1-1.html">小米路由器4A千兆版刷Padavan(WIN10刷,含刷死救砖)</a></p>
@@ -379,7 +164,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <title><![CDATA[【个人博客网站】博客美化——总篇集]]></title>
             <link>https://blog.mnxy.eu.org/posts/meihua</link>
             <guid>https://blog.mnxy.eu.org/posts/meihua</guid>
-            <pubDate>Mon, 08 Jan 2024 14:44:24 GMT</pubDate>
+            <pubDate>Mon, 08 Jan 2024 14:53:29 GMT</pubDate>
             <content:encoded><![CDATA[<p>::: tip</p>
 <p>本篇为美化教程的合集（暂未彻底完成）</p>
 <p>:::</p>
@@ -390,7 +175,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <title><![CDATA[【个人博客网站】博客美化（一）：制作欢迎弹窗]]></title>
             <link>https://blog.mnxy.eu.org/posts/meihua1</link>
             <guid>https://blog.mnxy.eu.org/posts/meihua1</guid>
-            <pubDate>Mon, 08 Jan 2024 14:44:24 GMT</pubDate>
+            <pubDate>Mon, 08 Jan 2024 14:53:29 GMT</pubDate>
             <content:encoded><![CDATA[<p>::: tip</p>
 <p>参考了店长的方案进行修改<br>
 原教程<a href="https://akilar.top/posts/d0d69f76/">SAO-UI-PLAN-Notify</a><br>
@@ -403,11 +188,226 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <title><![CDATA[【个人博客网站】博客美化（十）：彩色图标以及浮动特效]]></title>
             <link>https://blog.mnxy.eu.org/posts/meihua10</link>
             <guid>https://blog.mnxy.eu.org/posts/meihua10</guid>
-            <pubDate>Mon, 08 Jan 2024 14:44:24 GMT</pubDate>
+            <pubDate>Mon, 08 Jan 2024 14:53:29 GMT</pubDate>
             <content:encoded><![CDATA[<p>:::tip</p>
 <p>参考了安知鱼的方案进行修改<br>
 原教程<a href="https://anzhiy.cn/posts/sdxhu.html#%E8%8F%9C%E5%8D%95%E6%A0%8F%E5%A4%9A%E8%89%B2%E5%9B%BE%E6%A0%87%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B">butterfly 重装日记</a></p>
 <p>:::</p>
+]]></content:encoded>
+            <author>2589141604@qq.com (梦念逍遥)</author>
+        </item>
+        <item>
+            <title><![CDATA[【个人博客网站】博客美化（十一）：修改全局弹窗样式]]></title>
+            <link>https://blog.mnxy.eu.org/posts/meihua11</link>
+            <guid>https://blog.mnxy.eu.org/posts/meihua11</guid>
+            <pubDate>Mon, 08 Jan 2024 14:53:29 GMT</pubDate>
+            <content:encoded><![CDATA[<h3>引入样式文件</h3>
+]]></content:encoded>
+            <author>2589141604@qq.com (梦念逍遥)</author>
+        </item>
+        <item>
+            <title><![CDATA[【个人博客网站】博客美化（二）：制作右键菜单]]></title>
+            <link>https://blog.mnxy.eu.org/posts/meihua2</link>
+            <guid>https://blog.mnxy.eu.org/posts/meihua2</guid>
+            <pubDate>Mon, 08 Jan 2024 14:53:29 GMT</pubDate>
+            <content:encoded><![CDATA[<p>::: tip</p>
+<p>参考了LYX的方案进行修改<br>
+原教程<a href="https://yisous.xyz/posts/11eb4aac/">butterfly博客自定义右键菜单升级版</a></p>
+<p>2022.09.20 加入F12弹窗提示<br>
+2022.09.22 修复百度搜索和转到链接功能点击后页面刷新的问题</p>
+<p>:::</p>
+]]></content:encoded>
+            <author>2589141604@qq.com (梦念逍遥)</author>
+        </item>
+        <item>
+            <title><![CDATA[【个人博客网站】博客美化（三）：关于Butterfly的导航栏的一些教程]]></title>
+            <link>https://blog.mnxy.eu.org/posts/meihua3</link>
+            <guid>https://blog.mnxy.eu.org/posts/meihua3</guid>
+            <pubDate>Mon, 08 Jan 2024 14:53:29 GMT</pubDate>
+            <content:encoded><![CDATA[<p>::: tip</p>
+<p>参考了安知鱼的方案进行修改<br>
+原教程<a href="https://anzhiy.cn/posts/8e53.html">butterfly导航栏修改方案(自用方案)</a></p>
+<p>:::</p>
+<blockquote>
+<p>回到顶部按钮使用的方法引用右键菜单中定义的方法，没有定义的请查看相应位置的注释进行修改</p>
+</blockquote>
+]]></content:encoded>
+            <author>2589141604@qq.com (梦念逍遥)</author>
+        </item>
+        <item>
+            <title><![CDATA[【个人博客网站】博客美化（四）：加入看板娘]]></title>
+            <link>https://blog.mnxy.eu.org/posts/meihua4</link>
+            <guid>https://blog.mnxy.eu.org/posts/meihua4</guid>
+            <pubDate>Mon, 08 Jan 2024 14:53:29 GMT</pubDate>
+            <content:encoded><![CDATA[<p>::: tip</p>
+<p>具体操作请参考以下文档：<br>
+<a href="https://github.com/EYHN/hexo-helper-live2d/blob/master/README.zh-CN.md">https://github.com/EYHN/hexo-helper-live2d/blob/master/README.zh-CN.md</a></p>
+<p>:::</p>
+]]></content:encoded>
+            <author>2589141604@qq.com (梦念逍遥)</author>
+        </item>
+        <item>
+            <title><![CDATA[【个人博客网站】博客美化（五）：评论系统以及通知邮件]]></title>
+            <link>https://blog.mnxy.eu.org/posts/meihua5</link>
+            <guid>https://blog.mnxy.eu.org/posts/meihua5</guid>
+            <pubDate>Mon, 08 Jan 2024 14:53:29 GMT</pubDate>
+            <content:encoded><![CDATA[<p>::: tip</p>
+<p>本篇以Valine为例<br>
+推荐使用LeanCloud国际版<br>
+具体文档地址：<a href="https://github.com/HCLonely/Valine">https://github.com/HCLonely/Valine</a></p>
+<p>:::</p>
+]]></content:encoded>
+            <author>2589141604@qq.com (梦念逍遥)</author>
+        </item>
+        <item>
+            <title><![CDATA[【个人博客网站】博客美化（六）：添加侧边栏电子钟]]></title>
+            <link>https://blog.mnxy.eu.org/posts/meihua6</link>
+            <guid>https://blog.mnxy.eu.org/posts/meihua6</guid>
+            <pubDate>Mon, 08 Jan 2024 14:53:29 GMT</pubDate>
+            <content:encoded><![CDATA[<p>::: tip</p>
+<p>参考了安知鱼的方案进行修改<br>
+原教程<a href="https://anzhiy.cn/posts/fc18.html">给butterfly添加侧边栏电子钟</a></p>
+<p>:::</p>
+]]></content:encoded>
+            <author>2589141604@qq.com (梦念逍遥)</author>
+        </item>
+        <item>
+            <title><![CDATA[【个人博客网站】博客美化（七）：随机文章显示]]></title>
+            <link>https://blog.mnxy.eu.org/posts/meihua7</link>
+            <guid>https://blog.mnxy.eu.org/posts/meihua7</guid>
+            <pubDate>Mon, 08 Jan 2024 14:53:29 GMT</pubDate>
+            <content:encoded><![CDATA[<p>::: tip</p>
+<p>参考了安知鱼的方案进行修改<br>
+原教程<a href="https://anzhiy.cn/posts/sdxhu.html#random.js%E9%9A%8F%E6%9C%BA%E8%B7%B3%E8%BD%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0">butterfly 重装日记</a></p>
+<p>:::</p>
+]]></content:encoded>
+            <author>2589141604@qq.com (梦念逍遥)</author>
+        </item>
+        <item>
+            <title><![CDATA[【个人博客网站】博客美化（八）：twikoo评论系统以及双评论]]></title>
+            <link>https://blog.mnxy.eu.org/posts/meihua8</link>
+            <guid>https://blog.mnxy.eu.org/posts/meihua8</guid>
+            <pubDate>Mon, 08 Jan 2024 14:53:29 GMT</pubDate>
+            <content:encoded><![CDATA[<blockquote>
+<p>具体文档地址：<a href="https://twikoo.js.org/quick-start.html#vercel-%E9%83%A8%E7%BD%B2">https://twikoo.js.org/quick-start.html#vercel-部署</a></p>
+</blockquote>
+]]></content:encoded>
+            <author>2589141604@qq.com (梦念逍遥)</author>
+        </item>
+        <item>
+            <title><![CDATA[【个人博客网站】博客美化（九）：开启PWA功能]]></title>
+            <link>https://blog.mnxy.eu.org/posts/meihua9</link>
+            <guid>https://blog.mnxy.eu.org/posts/meihua9</guid>
+            <pubDate>Mon, 08 Jan 2024 14:53:29 GMT</pubDate>
+            <content:encoded><![CDATA[<p>::: tip</p>
+<p>参考了安知鱼的方案进行修改<br>
+原教程<a href="https://anzhiy.cn/posts/sdxhu.html#%E9%85%8D%E7%BD%AE-pwa">butterfly 重装日记</a></p>
+<p>:::</p>
+]]></content:encoded>
+            <author>2589141604@qq.com (梦念逍遥)</author>
+        </item>
+        <item>
+            <title><![CDATA[Novelai双版本部署整合教程]]></title>
+            <link>https://blog.mnxy.eu.org/posts/novelai</link>
+            <guid>https://blog.mnxy.eu.org/posts/novelai</guid>
+            <pubDate>Mon, 08 Jan 2024 14:53:29 GMT</pubDate>
+            <content:encoded><![CDATA[<p>::: info NovalAI</p>
+<ul>
+<li><a href="https://pan.baidu.com/s/1X0EILzEg6OEAk3q0qSRPFg?pwd=368y">stable-diffusion-webui</a></li>
+<li><a href="https://pan.baidu.com/s/128fha-fXuv7yj3kvmPkCTQ?pwd=pbrk">novel-naifu</a></li>
+</ul>
+<p>:::</p>
+]]></content:encoded>
+            <author>2589141604@qq.com (梦念逍遥)</author>
+        </item>
+        <item>
+            <title><![CDATA[【Novelai】新版本支持xformers！降低显卡占用黑科技！]]></title>
+            <link>https://blog.mnxy.eu.org/posts/novelai1</link>
+            <guid>https://blog.mnxy.eu.org/posts/novelai1</guid>
+            <pubDate>Mon, 08 Jan 2024 14:53:29 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>更新</h2>
+]]></content:encoded>
+            <author>2589141604@qq.com (梦念逍遥)</author>
+        </item>
+        <item>
+            <title><![CDATA[【Novelai】快速提取tag，生成美图！]]></title>
+            <link>https://blog.mnxy.eu.org/posts/novelai2</link>
+            <guid>https://blog.mnxy.eu.org/posts/novelai2</guid>
+            <pubDate>Mon, 08 Jan 2024 14:53:29 GMT</pubDate>
+            <content:encoded><![CDATA[<blockquote>
+<p><a href="https://pan.baidu.com/s/1X0EILzEg6OEAk3q0qSRPFg?pwd=368y">stable-diffusion-webui下载</a></p>
+</blockquote>
+]]></content:encoded>
+            <author>2589141604@qq.com (梦念逍遥)</author>
+        </item>
+        <item>
+            <title><![CDATA[Ohook——离线永久激活office全家桶]]></title>
+            <link>https://blog.mnxy.eu.org/posts/ohook</link>
+            <guid>https://blog.mnxy.eu.org/posts/ohook</guid>
+            <pubDate>Mon, 08 Jan 2024 14:53:29 GMT</pubDate>
+            <content:encoded><![CDATA[<p>::: tip</p>
+<p>原文：公众号【知彼而知己】——<a href="https://mp.weixin.qq.com/s?__biz=MzA3Nzg3NjYxOQ==&amp;mid=2448169440&amp;idx=1&amp;sn=fc99480a5358c392e03828c0b9a18892&amp;sharer_shareinfo=96240d8becb5785720bf9355d3d1d891&amp;sharer_shareinfo_first=96240d8becb5785720bf9355d3d1d891#rd">重磅：十几年了，Office离线永久激活，突破卡脖子技术！遥遥领先</a></p>
+<p>:::</p>
+]]></content:encoded>
+            <author>2589141604@qq.com (梦念逍遥)</author>
+        </item>
+        <item>
+            <title><![CDATA[使用Replit平台免费搭建Web版阅读]]></title>
+            <link>https://blog.mnxy.eu.org/posts/reader</link>
+            <guid>https://blog.mnxy.eu.org/posts/reader</guid>
+            <pubDate>Mon, 08 Jan 2024 14:53:29 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>阅读</h2>
+]]></content:encoded>
+            <author>2589141604@qq.com (梦念逍遥)</author>
+        </item>
+        <item>
+            <title><![CDATA[网站托管服务——Vercel、Netlify、Zeabur]]></title>
+            <link>https://blog.mnxy.eu.org/posts/source</link>
+            <guid>https://blog.mnxy.eu.org/posts/source</guid>
+            <pubDate>Mon, 08 Jan 2024 14:53:29 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>前言</h2>
+<p>我的博客使用<a href="https://vercel.com/">Vercel</a>以及<a href="https://netlify.com/">Netlify</a>部署，这两个网站托管服务都很不错 。还有一个<a href="https://zeabur.com">Zeabur</a>，它提供的服务也不亚于其他两个服务提供商</p>
+]]></content:encoded>
+            <author>2589141604@qq.com (梦念逍遥)</author>
+        </item>
+        <item>
+            <title><![CDATA[Vercel被GFW、Netlify打不开？一招解决！]]></title>
+            <link>https://blog.mnxy.eu.org/posts/source2</link>
+            <guid>https://blog.mnxy.eu.org/posts/source2</guid>
+            <pubDate>Mon, 08 Jan 2024 14:53:29 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>前言</h2>
+<p>在10月份的时候，博客突然无法访问了，后续得知是<code>Vercel</code>被<code>GFW</code>了，我就换成了<code>Netlify</code>进行托管。好景不长，在12月份的时候就出现部分运营商网络打不开的情况。</p>
+]]></content:encoded>
+            <author>2589141604@qq.com (梦念逍遥)</author>
+        </item>
+        <item>
+            <title><![CDATA[白嫖永久Typora Windows全版本]]></title>
+            <link>https://blog.mnxy.eu.org/posts/typora</link>
+            <guid>https://blog.mnxy.eu.org/posts/typora</guid>
+            <pubDate>Mon, 08 Jan 2024 14:53:29 GMT</pubDate>
+            <content:encoded><![CDATA[<p>::: tip</p>
+<p>原文：博客【法海之路】——<a href="https://www.fahai.org/jszt/14.html">Typora Windows全版本破解补丁[支持版本更新]</a></p>
+<p>:::</p>
+]]></content:encoded>
+            <author>2589141604@qq.com (梦念逍遥)</author>
+        </item>
+        <item>
+            <title><![CDATA[使用Replit平台免费搭建站点监控工具——Uptime-Kuma]]></title>
+            <link>https://blog.mnxy.eu.org/posts/uptime</link>
+            <guid>https://blog.mnxy.eu.org/posts/uptime</guid>
+            <pubDate>Mon, 08 Jan 2024 14:53:29 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>什么是Uptime-Kuma</h2>
+<p>它是类似于<code>Uptime Robot</code>的自托管监控工具。在GitHub上开源，可通过Docker与非Docker方式进行部署，界面简洁，支持多种语言</p>
+]]></content:encoded>
+            <author>2589141604@qq.com (梦念逍遥)</author>
+        </item>
+        <item>
+            <title><![CDATA[欢迎来到我的博客]]></title>
+            <link>https://blog.mnxy.eu.org/posts/welcome</link>
+            <guid>https://blog.mnxy.eu.org/posts/welcome</guid>
+            <pubDate>Mon, 08 Jan 2024 14:53:29 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Hello！各位小伙伴们，欢迎来到我的博客。</p>
+<p>在这里，和我一起学习吧！</p>
 ]]></content:encoded>
             <author>2589141604@qq.com (梦念逍遥)</author>
         </item>
