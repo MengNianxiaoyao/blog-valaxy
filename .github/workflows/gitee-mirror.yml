@@ -1,0 +1,26 @@
+name: Gitee mirror
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 21 * * *'
+
+jobs:
+  run:
+    name: Gitee mirror
+    runs-on: ubuntu-latest
+    steps:
+      - name: Mirror the Github repos to Gitee.
+        # https://github.com/Yikun/hub-mirror-action
+        uses: Yikun/hub-mirror-action@master
+        with:
+          src: github/MengNianxiaoyao
+          dst: gitee/MengNianxiaoyao
+          dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
+          dst_token: ${{ secrets.GITEE_TOKEN }}
+          static_list: 'blog-valaxy'
+          account_type: user
+          force_update: true
+          timeout: '30m'
