@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.mnxy.eu.org/</id>
     <title>梦念逍遥のBLOG</title>
-    <updated>2024-01-30T13:44:40.064Z</updated>
+    <updated>2024-01-30T13:47:38.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>梦念逍遥</name>
@@ -15,6 +15,39 @@
     <logo>https://blog.mnxy.eu.org/favicon.svg</logo>
     <icon>https://blog.mnxy.eu.orghttps://blog.mnxy.eu.org/favicon.svg</icon>
     <rights>CC BY-NC-SA 4.0 2024 © 梦念逍遥</rights>
+    <entry>
+        <title type="html"><![CDATA[永久免费域名白嫖--eu.org]]></title>
+        <id>https://blog.mnxy.eu.org/posts/tech/domain</id>
+        <link href="https://blog.mnxy.eu.org/posts/tech/domain"/>
+        <updated>2023-09-17T14:30:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>前言</h2>
+<p>我购买过域名，也尝试过<a href="https://www.freenom.com/">Freenom</a>的免费域名，发现要么花钱的很贵，要么免费的续期注册很麻烦，现在则选择了<a href="https://nic.eu.org/">eu.org域名</a></p>
+]]></content>
+        <author>
+            <name>梦念逍遥</name>
+            <email>2589141604@qq.com</email>
+            <uri>https://blog.mnxy.eu.org</uri>
+        </author>
+        <published>2024-01-30T13:45:46.622Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用Replit平台免费搭建GitHub下载反代]]></title>
+        <id>https://blog.mnxy.eu.org/posts/tech/ghproxy</id>
+        <link href="https://blog.mnxy.eu.org/posts/tech/ghproxy"/>
+        <updated>2023-09-06T14:30:00.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>该教程使用到了<code>Replit</code>平台<code>Education</code>账号，普通账号流量限制10G</p>
+</blockquote>
+<h2>部署</h2>
+<p>直接上干货，够可以吧😄</p>
+]]></content>
+        <author>
+            <name>梦念逍遥</name>
+            <email>2589141604@qq.com</email>
+            <uri>https://blog.mnxy.eu.org</uri>
+        </author>
+        <published>2024-01-30T13:45:46.622Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】Typora + B站 = 高速图床]]></title>
         <id>https://blog.mnxy.eu.org/posts/tech/index</id>
@@ -31,7 +64,7 @@
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-30T13:43:14.395Z</published>
+        <published>2024-01-30T13:45:46.622Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[小米路由器4A千兆版刷机openwrt(含刷回官方)]]></title>
@@ -57,7 +90,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-30T13:43:14.395Z</published>
+        <published>2024-01-30T13:45:46.622Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ohook——离线永久激活office全家桶]]></title>
@@ -73,7 +106,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-30T13:43:14.395Z</published>
+        <published>2024-01-30T13:45:46.622Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[使用Replit平台免费搭建Web版阅读]]></title>
@@ -87,7 +120,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-30T13:43:14.395Z</published>
+        <published>2024-01-30T13:45:46.622Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[白嫖永久Typora Windows全版本]]></title>
@@ -103,7 +136,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-30T13:43:14.395Z</published>
+        <published>2024-01-30T13:45:46.622Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[使用Replit平台免费搭建站点监控工具——Uptime-Kuma]]></title>
@@ -118,7 +151,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-30T13:43:14.395Z</published>
+        <published>2024-01-30T13:45:46.622Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】从零开始搭建博客网站（二）：博客部署]]></title>
@@ -134,7 +167,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-30T13:43:14.391Z</published>
+        <published>2024-01-30T13:45:46.618Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】从零开始搭建博客网站（三）：安装后台插件]]></title>
@@ -152,7 +185,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-30T13:43:14.391Z</published>
+        <published>2024-01-30T13:45:46.618Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】从零开始搭建博客网站（四）：使用GitHub Actions自动构建博客]]></title>
@@ -171,7 +204,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-30T13:43:14.391Z</published>
+        <published>2024-01-30T13:45:46.618Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】从零开始搭建博客网站（一）：本地配置]]></title>
@@ -188,7 +221,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-30T13:43:14.391Z</published>
+        <published>2024-01-30T13:45:46.618Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【白夜极光】启动器反向代理搭建教程]]></title>
@@ -206,7 +239,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-30T13:43:14.391Z</published>
+        <published>2024-01-30T13:45:46.618Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【白夜极光】Celestite - 第三方DMM Game Player]]></title>
@@ -219,7 +252,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-30T13:43:14.391Z</published>
+        <published>2024-01-30T13:45:46.618Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【白夜极光】免加速游戏教程，使用直连速度起飞]]></title>
@@ -232,7 +265,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-30T13:43:14.391Z</published>
+        <published>2024-01-30T13:45:46.618Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】博客美化——总篇集]]></title>
@@ -248,7 +281,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-30T13:43:14.391Z</published>
+        <published>2024-01-30T13:45:46.618Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】博客美化（一）：制作欢迎弹窗]]></title>
@@ -266,7 +299,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-30T13:43:14.391Z</published>
+        <published>2024-01-30T13:45:46.618Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】博客美化（十）：彩色图标以及浮动特效]]></title>
@@ -283,7 +316,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-30T13:43:14.391Z</published>
+        <published>2024-01-30T13:45:46.618Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】博客美化（十一）：修改全局弹窗样式]]></title>
@@ -297,7 +330,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-30T13:43:14.391Z</published>
+        <published>2024-01-30T13:45:46.618Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】博客美化（二）：制作右键菜单]]></title>
@@ -316,7 +349,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-30T13:43:14.391Z</published>
+        <published>2024-01-30T13:45:46.618Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】博客美化（三）：关于Butterfly的导航栏的一些教程]]></title>
@@ -336,7 +369,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-30T13:43:14.391Z</published>
+        <published>2024-01-30T13:45:46.618Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】博客美化（四）：加入看板娘]]></title>
@@ -353,7 +386,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-30T13:43:14.391Z</published>
+        <published>2024-01-30T13:45:46.618Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】博客美化（五）：评论系统以及通知邮件]]></title>
@@ -371,7 +404,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-30T13:43:14.391Z</published>
+        <published>2024-01-30T13:45:46.618Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】博客美化（六）：添加侧边栏电子钟]]></title>
@@ -388,7 +421,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-30T13:43:14.391Z</published>
+        <published>2024-01-30T13:45:46.618Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】博客美化（七）：随机文章显示]]></title>
@@ -405,7 +438,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-30T13:43:14.391Z</published>
+        <published>2024-01-30T13:45:46.618Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】博客美化（八）：twikoo评论系统以及双评论]]></title>
@@ -421,7 +454,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-30T13:43:14.391Z</published>
+        <published>2024-01-30T13:45:46.618Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】博客美化（九）：开启PWA功能]]></title>
@@ -438,7 +471,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-30T13:43:14.391Z</published>
+        <published>2024-01-30T13:45:46.618Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Novelai双版本部署整合教程]]></title>
@@ -457,7 +490,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-30T13:43:14.391Z</published>
+        <published>2024-01-30T13:45:46.618Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【Novelai】新版本支持xformers！降低显卡占用黑科技！]]></title>
@@ -471,7 +504,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-30T13:43:14.391Z</published>
+        <published>2024-01-30T13:45:46.618Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【Novelai】快速提取tag，生成美图！]]></title>
@@ -487,7 +520,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-30T13:43:14.391Z</published>
+        <published>2024-01-30T13:45:46.618Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[大学新生报道需要注意的几个坑]]></title>
@@ -502,7 +535,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-30T13:43:14.391Z</published>
+        <published>2024-01-30T13:45:46.618Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[欢迎来到我的博客]]></title>
@@ -517,7 +550,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-30T13:43:14.391Z</published>
+        <published>2024-01-30T13:45:46.618Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[网站托管服务——Vercel、Netlify、Zeabur]]></title>
@@ -532,7 +565,7 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-30T13:43:14.391Z</published>
+        <published>2024-01-30T13:45:46.618Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Vercel被GFW、Netlify打不开？一招解决！]]></title>
@@ -547,39 +580,6 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <email>2589141604@qq.com</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-01-30T13:43:14.391Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[永久免费域名白嫖--eu.org]]></title>
-        <id>https://blog.mnxy.eu.org/posts/tech/domain</id>
-        <link href="https://blog.mnxy.eu.org/posts/tech/domain"/>
-        <updated>2023-09-17T14:30:00.000Z</updated>
-        <content type="html"><![CDATA[<h2>前言</h2>
-<p>我购买过域名，也尝试过<a href="https://www.freenom.com/">Freenom</a>的免费域名，发现要么花钱的很贵，要么免费的续期注册很麻烦，现在则选择了<a href="https://nic.eu.org/">eu.org域名</a></p>
-]]></content>
-        <author>
-            <name>梦念逍遥</name>
-            <email>2589141604@qq.com</email>
-            <uri>https://blog.mnxy.eu.org</uri>
-        </author>
-        <published>2024-01-30T13:43:14.391Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用Replit平台免费搭建GitHub下载反代]]></title>
-        <id>https://blog.mnxy.eu.org/posts/tech/ghproxy</id>
-        <link href="https://blog.mnxy.eu.org/posts/tech/ghproxy"/>
-        <updated>2023-09-06T14:30:00.000Z</updated>
-        <content type="html"><![CDATA[<blockquote>
-<p>该教程使用到了<code>Replit</code>平台<code>Education</code>账号，普通账号流量限制10G</p>
-</blockquote>
-<h2>部署</h2>
-<p>直接上干货，够可以吧😄</p>
-]]></content>
-        <author>
-            <name>梦念逍遥</name>
-            <email>2589141604@qq.com</email>
-            <uri>https://blog.mnxy.eu.org</uri>
-        </author>
-        <published>2024-01-30T13:43:14.391Z</published>
+        <published>2024-01-30T13:45:46.618Z</published>
     </entry>
 </feed>
