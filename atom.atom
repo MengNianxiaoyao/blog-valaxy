@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.mnxy.eu.org/</id>
     <title>梦念逍遥のBLOG</title>
-    <updated>2024-02-06T21:15:22.407Z</updated>
+    <updated>2024-02-07T05:32:47.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>梦念逍遥</name>
@@ -502,22 +502,6 @@ breed-mt7621-xiaomi-r3g.bin</p>
         <published>2022-09-05T22:20:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【个人博客网站】从零开始搭建博客网站（二）：博客部署]]></title>
-        <id>https://blog.mnxy.eu.org/posts/boke/boke2</id>
-        <link href="https://blog.mnxy.eu.org/posts/boke/boke2"/>
-        <updated>2022-08-29T16:00:00.000Z</updated>
-        <content type="html"><![CDATA[<h2>注册GitHub账号</h2>
-<p>进入<a href="https://github.com">GitHub</a>官网，注册账号</p>
-<h2>获取SSH</h2>
-]]></content>
-        <author>
-            <name>梦念逍遥</name>
-            <email>2589141604@qq.com</email>
-            <uri>https://blog.mnxy.eu.org</uri>
-        </author>
-        <published>2022-08-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【个人博客网站】从零开始搭建博客网站（三）：安装后台插件]]></title>
         <id>https://blog.mnxy.eu.org/posts/boke/boke3</id>
         <link href="https://blog.mnxy.eu.org/posts/boke/boke3"/>
@@ -534,6 +518,22 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
         <published>2022-08-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【个人博客网站】从零开始搭建博客网站（二）：博客部署]]></title>
+        <id>https://blog.mnxy.eu.org/posts/boke/boke2</id>
+        <link href="https://blog.mnxy.eu.org/posts/boke/boke2"/>
+        <updated>2022-08-28T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>注册GitHub账号</h2>
+<p>进入<a href="https://github.com">GitHub</a>官网，注册账号</p>
+<h2>获取SSH</h2>
+]]></content>
+        <author>
+            <name>梦念逍遥</name>
+            <email>2589141604@qq.com</email>
+            <uri>https://blog.mnxy.eu.org</uri>
+        </author>
+        <published>2022-08-28T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】从零开始搭建博客网站（一）：本地配置]]></title>

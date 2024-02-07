@@ -4,7 +4,7 @@
         <title>梦念逍遥のBLOG</title>
         <link>https://blog.mnxy.eu.org/</link>
         <description>这是一个很棒的博客</description>
-        <lastBuildDate>Tue, 06 Feb 2024 21:15:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 05:32:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -356,17 +356,6 @@ breed-mt7621-xiaomi-r3g.bin</p>
             <author>2589141604@qq.com (梦念逍遥)</author>
         </item>
         <item>
-            <title><![CDATA[【个人博客网站】从零开始搭建博客网站（二）：博客部署]]></title>
-            <link>https://blog.mnxy.eu.org/posts/boke/boke2</link>
-            <guid>https://blog.mnxy.eu.org/posts/boke/boke2</guid>
-            <pubDate>Mon, 29 Aug 2022 16:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<h2>注册GitHub账号</h2>
-<p>进入<a href="https://github.com">GitHub</a>官网，注册账号</p>
-<h2>获取SSH</h2>
-]]></content:encoded>
-            <author>2589141604@qq.com (梦念逍遥)</author>
-        </item>
-        <item>
             <title><![CDATA[【个人博客网站】从零开始搭建博客网站（三）：安装后台插件]]></title>
             <link>https://blog.mnxy.eu.org/posts/boke/boke3</link>
             <guid>https://blog.mnxy.eu.org/posts/boke/boke3</guid>
@@ -376,6 +365,17 @@ breed-mt7621-xiaomi-r3g.bin</p>
 ::: tip</p>
 <p>前提条件：完成前面两篇的全部操作</p>
 <p>:::</p>
+]]></content:encoded>
+            <author>2589141604@qq.com (梦念逍遥)</author>
+        </item>
+        <item>
+            <title><![CDATA[【个人博客网站】从零开始搭建博客网站（二）：博客部署]]></title>
+            <link>https://blog.mnxy.eu.org/posts/boke/boke2</link>
+            <guid>https://blog.mnxy.eu.org/posts/boke/boke2</guid>
+            <pubDate>Sun, 28 Aug 2022 16:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>注册GitHub账号</h2>
+<p>进入<a href="https://github.com">GitHub</a>官网，注册账号</p>
+<h2>获取SSH</h2>
 ]]></content:encoded>
             <author>2589141604@qq.com (梦念逍遥)</author>
         </item>

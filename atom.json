@@ -360,9 +360,9 @@
         },
         {
             "id": "",
-            "content_html": "<h2>注册GitHub账号</h2>\n<p>进入<a href=\"https://github.com\">GitHub</a>官网，注册账号</p>\n<h2>获取SSH</h2>\n",
-            "url": "https://blog.mnxy.eu.org/posts/boke/boke2",
-            "title": "【个人博客网站】从零开始搭建博客网站（二）：博客部署",
+            "content_html": "<h2>说明</h2>\n<p>本篇是可选操作教程，为安装Hexo的后台，可方便服务器写文操作<br>\n::: tip</p>\n<p>前提条件：完成前面两篇的全部操作</p>\n<p>:::</p>\n",
+            "url": "https://blog.mnxy.eu.org/posts/boke/boke3",
+            "title": "【个人博客网站】从零开始搭建博客网站（三）：安装后台插件",
             "date_modified": "2022-08-29T16:00:00.000Z",
             "date_published": "2022-08-29T16:00:00.000Z",
             "author": {
@@ -372,11 +372,11 @@
         },
         {
             "id": "",
-            "content_html": "<h2>说明</h2>\n<p>本篇是可选操作教程，为安装Hexo的后台，可方便服务器写文操作<br>\n::: tip</p>\n<p>前提条件：完成前面两篇的全部操作</p>\n<p>:::</p>\n",
-            "url": "https://blog.mnxy.eu.org/posts/boke/boke3",
-            "title": "【个人博客网站】从零开始搭建博客网站（三）：安装后台插件",
-            "date_modified": "2022-08-29T16:00:00.000Z",
-            "date_published": "2022-08-29T16:00:00.000Z",
+            "content_html": "<h2>注册GitHub账号</h2>\n<p>进入<a href=\"https://github.com\">GitHub</a>官网，注册账号</p>\n<h2>获取SSH</h2>\n",
+            "url": "https://blog.mnxy.eu.org/posts/boke/boke2",
+            "title": "【个人博客网站】从零开始搭建博客网站（二）：博客部署",
+            "date_modified": "2022-08-28T16:00:00.000Z",
+            "date_published": "2022-08-28T16:00:00.000Z",
             "author": {
                 "name": "梦念逍遥",
                 "url": "https://blog.mnxy.eu.org"
