@@ -4,7 +4,7 @@
         <title>梦念逍遥のBLOG</title>
         <link>https://blog.mnxy.eu.org/</link>
         <description>这是一个很棒的博客</description>
-        <lastBuildDate>Wed, 14 Feb 2024 21:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Feb 2024 07:11:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -14,6 +14,27 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © 梦念逍遥</copyright>
         <atom:link href="https://blog.mnxy.eu.org/atom.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[小米路由器4A千兆版刷机openwrt(含刷回官方)]]></title>
+            <link>https://blog.mnxy.eu.org/posts/tech/lyq</link>
+            <guid>https://blog.mnxy.eu.org/posts/tech/lyq</guid>
+            <pubDate>Thu, 15 Feb 2024 15:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>::: tip</p>
+<p>参考文档:</p>
+<p><a href="https://www.right.com.cn/forum/thread-4317222-1-1.html">小米路由器4A千兆版刷Padavan(WIN10刷,含刷死救砖)</a></p>
+<p><a href="https://www.right.com.cn/forum/thread-4102208-1-1.html">论坛收集的几个小米路由器官方bootloader</a></p>
+<p><a href="https://blog.csdn.net/qq_43206901/article/details/119106511">小米路由器R4A(千兆版)固件刷opewrt、刷官方固件</a></p>
+<p><a href="https://blog.w2aa.ga/post/220724breed.html">2022-07-24更新的Breed使用说明</a></p>
+<p>breed下载: <a href="https://breed.hackpascal.net">下载地址</a></p>
+<blockquote>
+<p>小米路由器使用的两种breed：</p>
+<p>breed-mt7621-pbr-m1.bin</p>
+<p>breed-mt7621-xiaomi-r3g.bin</p>
+</blockquote>
+<p>:::</p>
+]]></content:encoded>
+            <author>2589141604@qq.com (梦念逍遥)</author>
+        </item>
         <item>
             <title><![CDATA[valaxy博客框架配置]]></title>
             <link>https://blog.mnxy.eu.org/posts/valaxy/index</link>
@@ -141,27 +162,6 @@
 </blockquote>
 <p>::: tip</p>
 <p>参考文档: <a href="https://blog.csdn.net/sinat_16395609/article/details/120806098">hexo配合github action 自动构建（多种形式）</a></p>
-<p>:::</p>
-]]></content:encoded>
-            <author>2589141604@qq.com (梦念逍遥)</author>
-        </item>
-        <item>
-            <title><![CDATA[小米路由器4A千兆版刷机openwrt(含刷回官方)]]></title>
-            <link>https://blog.mnxy.eu.org/posts/tech/lyq</link>
-            <guid>https://blog.mnxy.eu.org/posts/tech/lyq</guid>
-            <pubDate>Mon, 28 Nov 2022 16:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<p>::: tip</p>
-<p>参考文档:</p>
-<p><a href="https://www.right.com.cn/forum/thread-4317222-1-1.html">小米路由器4A千兆版刷Padavan(WIN10刷,含刷死救砖)</a></p>
-<p><a href="https://www.right.com.cn/forum/thread-4102208-1-1.html">论坛收集的几个小米路由器官方bootloader</a></p>
-<p><a href="https://blog.csdn.net/qq_43206901/article/details/119106511">小米路由器R4A(千兆版)固件刷opewrt、刷官方固件</a></p>
-<p><a href="https://blog.w2aa.ga/post/220724breed.html">2022-07-24更新的Breed使用说明</a></p>
-<p>breed下载: <a href="https://breed.hackpascal.net">下载地址</a></p>
-<blockquote>
-<p>小米路由器使用的两种breed：<br>
-breed-mt7621-pbr-m1.bin<br>
-breed-mt7621-xiaomi-r3g.bin</p>
-</blockquote>
 <p>:::</p>
 ]]></content:encoded>
             <author>2589141604@qq.com (梦念逍遥)</author>
