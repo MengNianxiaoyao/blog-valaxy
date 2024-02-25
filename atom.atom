@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.mnxy.eu.org/</id>
     <title>梦念逍遥のBLOG</title>
-    <updated>2024-02-25T09:24:06.668Z</updated>
+    <updated>2024-02-25T09:33:21.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>梦念逍遥</name>
@@ -43,8 +43,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[valaxy博客框架配置]]></title>
-        <id>https://blog.mnxy.eu.org/posts/valaxy/index</id>
-        <link href="https://blog.mnxy.eu.org/posts/valaxy/index"/>
+        <id>https://blog.mnxy.eu.org/posts/valaxy/config</id>
+        <link href="https://blog.mnxy.eu.org/posts/valaxy/config"/>
         <updated>2024-02-05T21:00:00.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
 <p>文档地址：<a href="https://valaxy.site/guide/config/">https://valaxy.site/guide/config/</a></p>
@@ -106,8 +106,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[网站托管服务——Vercel、Netlify、Zeabur]]></title>
-        <id>https://blog.mnxy.eu.org/posts/source/index</id>
-        <link href="https://blog.mnxy.eu.org/posts/source/index"/>
+        <id>https://blog.mnxy.eu.org/posts/source/source1</id>
+        <link href="https://blog.mnxy.eu.org/posts/source/source1"/>
         <updated>2023-09-20T14:30:00.000Z</updated>
         <content type="html"><![CDATA[<h2>前言</h2>
 <p>我的博客使用<a href="https://vercel.com/">Vercel</a>以及<a href="https://netlify.com/">Netlify</a>部署，这两个网站托管服务都很不错 。还有一个<a href="https://zeabur.com">Zeabur</a>，它提供的服务也不亚于其他两个服务提供商</p>
@@ -136,8 +136,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】Typora + B站 = 高速图床]]></title>
-        <id>https://blog.mnxy.eu.org/posts/tech/index</id>
-        <link href="https://blog.mnxy.eu.org/posts/tech/index"/>
+        <id>https://blog.mnxy.eu.org/posts/tech/image</id>
+        <link href="https://blog.mnxy.eu.org/posts/tech/image"/>
         <updated>2023-09-08T14:30:00.000Z</updated>
         <content type="html"><![CDATA[<h2>工具</h2>
 <ul>
@@ -298,8 +298,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Novelai双版本部署整合教程]]></title>
-        <id>https://blog.mnxy.eu.org/posts/novelai/index</id>
-        <link href="https://blog.mnxy.eu.org/posts/novelai/index"/>
+        <id>https://blog.mnxy.eu.org/posts/novelai/novelai</id>
+        <link href="https://blog.mnxy.eu.org/posts/novelai/novelai"/>
         <updated>2022-10-14T14:30:00.000Z</updated>
         <content type="html"><![CDATA[<p>::: info NovalAI</p>
 <ul>
@@ -385,8 +385,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】博客美化——总篇集]]></title>
-        <id>https://blog.mnxy.eu.org/posts/meihua/index</id>
-        <link href="https://blog.mnxy.eu.org/posts/meihua/index"/>
+        <id>https://blog.mnxy.eu.org/posts/meihua/meihua</id>
+        <link href="https://blog.mnxy.eu.org/posts/meihua/meihua"/>
         <updated>2022-09-26T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>::: tip</p>
 <p>本篇为美化教程的合集（暂未彻底完成）</p>
@@ -537,8 +537,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】从零开始搭建博客网站（一）：本地配置]]></title>
-        <id>https://blog.mnxy.eu.org/posts/boke/index</id>
-        <link href="https://blog.mnxy.eu.org/posts/boke/index"/>
+        <id>https://blog.mnxy.eu.org/posts/boke/boke1</id>
+        <link href="https://blog.mnxy.eu.org/posts/boke/boke1"/>
         <updated>2022-08-23T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>::: tip</p>
 <p>本篇教程为网站重建后重写</p>
@@ -572,8 +572,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[【白夜极光】免加速游戏教程，使用直连速度起飞]]></title>
-        <id>https://blog.mnxy.eu.org/posts/byjg/index</id>
-        <link href="https://blog.mnxy.eu.org/posts/byjg/index"/>
+        <id>https://blog.mnxy.eu.org/posts/byjg/byjg1</id>
+        <link href="https://blog.mnxy.eu.org/posts/byjg/byjg1"/>
         <updated>2022-08-19T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<iframe src="https://blog.mnxy.eu.org//player.bilibili.com/player.html?aid=514478015&bvid=BV1rg411k7CZ&cid=803453532&page=1]]></content>
         <author>
@@ -585,8 +585,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[欢迎来到我的博客]]></title>
-        <id>https://blog.mnxy.eu.org/posts/other/index</id>
-        <link href="https://blog.mnxy.eu.org/posts/other/index"/>
+        <id>https://blog.mnxy.eu.org/posts/other/welcome</id>
+        <link href="https://blog.mnxy.eu.org/posts/other/welcome"/>
         <updated>2022-08-19T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>Hello！各位小伙伴们，欢迎来到我的博客。</p>
 <p>在这里，和我一起学习吧！</p>

@@ -4,7 +4,7 @@
         <title>梦念逍遥のBLOG</title>
         <link>https://blog.mnxy.eu.org/</link>
         <description>这是一个很棒的博客</description>
-        <lastBuildDate>Sun, 25 Feb 2024 09:24:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Feb 2024 09:33:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -37,8 +37,8 @@
         </item>
         <item>
             <title><![CDATA[valaxy博客框架配置]]></title>
-            <link>https://blog.mnxy.eu.org/posts/valaxy/index</link>
-            <guid>https://blog.mnxy.eu.org/posts/valaxy/index</guid>
+            <link>https://blog.mnxy.eu.org/posts/valaxy/config</link>
+            <guid>https://blog.mnxy.eu.org/posts/valaxy/config</guid>
             <pubDate>Mon, 05 Feb 2024 21:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<blockquote>
 <p>文档地址：<a href="https://valaxy.site/guide/config/">https://valaxy.site/guide/config/</a></p>
@@ -80,8 +80,8 @@
         </item>
         <item>
             <title><![CDATA[网站托管服务——Vercel、Netlify、Zeabur]]></title>
-            <link>https://blog.mnxy.eu.org/posts/source/index</link>
-            <guid>https://blog.mnxy.eu.org/posts/source/index</guid>
+            <link>https://blog.mnxy.eu.org/posts/source/source1</link>
+            <guid>https://blog.mnxy.eu.org/posts/source/source1</guid>
             <pubDate>Wed, 20 Sep 2023 14:30:00 GMT</pubDate>
             <content:encoded><![CDATA[<h2>前言</h2>
 <p>我的博客使用<a href="https://vercel.com/">Vercel</a>以及<a href="https://netlify.com/">Netlify</a>部署，这两个网站托管服务都很不错 。还有一个<a href="https://zeabur.com">Zeabur</a>，它提供的服务也不亚于其他两个服务提供商</p>
@@ -100,8 +100,8 @@
         </item>
         <item>
             <title><![CDATA[【个人博客网站】Typora + B站 = 高速图床]]></title>
-            <link>https://blog.mnxy.eu.org/posts/tech/index</link>
-            <guid>https://blog.mnxy.eu.org/posts/tech/index</guid>
+            <link>https://blog.mnxy.eu.org/posts/tech/image</link>
+            <guid>https://blog.mnxy.eu.org/posts/tech/image</guid>
             <pubDate>Fri, 08 Sep 2023 14:30:00 GMT</pubDate>
             <content:encoded><![CDATA[<h2>工具</h2>
 <ul>
@@ -212,8 +212,8 @@
         </item>
         <item>
             <title><![CDATA[Novelai双版本部署整合教程]]></title>
-            <link>https://blog.mnxy.eu.org/posts/novelai/index</link>
-            <guid>https://blog.mnxy.eu.org/posts/novelai/index</guid>
+            <link>https://blog.mnxy.eu.org/posts/novelai/novelai</link>
+            <guid>https://blog.mnxy.eu.org/posts/novelai/novelai</guid>
             <pubDate>Fri, 14 Oct 2022 14:30:00 GMT</pubDate>
             <content:encoded><![CDATA[<p>::: info NovalAI</p>
 <ul>
@@ -274,8 +274,8 @@
         </item>
         <item>
             <title><![CDATA[【个人博客网站】博客美化——总篇集]]></title>
-            <link>https://blog.mnxy.eu.org/posts/meihua/index</link>
-            <guid>https://blog.mnxy.eu.org/posts/meihua/index</guid>
+            <link>https://blog.mnxy.eu.org/posts/meihua/meihua</link>
+            <guid>https://blog.mnxy.eu.org/posts/meihua/meihua</guid>
             <pubDate>Mon, 26 Sep 2022 16:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<p>::: tip</p>
 <p>本篇为美化教程的合集（暂未彻底完成）</p>
@@ -381,8 +381,8 @@
         </item>
         <item>
             <title><![CDATA[【个人博客网站】从零开始搭建博客网站（一）：本地配置]]></title>
-            <link>https://blog.mnxy.eu.org/posts/boke/index</link>
-            <guid>https://blog.mnxy.eu.org/posts/boke/index</guid>
+            <link>https://blog.mnxy.eu.org/posts/boke/boke1</link>
+            <guid>https://blog.mnxy.eu.org/posts/boke/boke1</guid>
             <pubDate>Tue, 23 Aug 2022 16:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<p>::: tip</p>
 <p>本篇教程为网站重建后重写</p>
@@ -406,16 +406,16 @@
         </item>
         <item>
             <title><![CDATA[【白夜极光】免加速游戏教程，使用直连速度起飞]]></title>
-            <link>https://blog.mnxy.eu.org/posts/byjg/index</link>
-            <guid>https://blog.mnxy.eu.org/posts/byjg/index</guid>
+            <link>https://blog.mnxy.eu.org/posts/byjg/byjg1</link>
+            <guid>https://blog.mnxy.eu.org/posts/byjg/byjg1</guid>
             <pubDate>Fri, 19 Aug 2022 16:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<iframe src="https://blog.mnxy.eu.org//player.bilibili.com/player.html?aid=514478015&bvid=BV1rg411k7CZ&cid=803453532&page=1]]></content:encoded>
             <author>2589141604@qq.com (梦念逍遥)</author>
         </item>
         <item>
             <title><![CDATA[欢迎来到我的博客]]></title>
-            <link>https://blog.mnxy.eu.org/posts/other/index</link>
-            <guid>https://blog.mnxy.eu.org/posts/other/index</guid>
+            <link>https://blog.mnxy.eu.org/posts/other/welcome</link>
+            <guid>https://blog.mnxy.eu.org/posts/other/welcome</guid>
             <pubDate>Fri, 19 Aug 2022 16:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<p>Hello！各位小伙伴们，欢迎来到我的博客。</p>
 <p>在这里，和我一起学习吧！</p>

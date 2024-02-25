@@ -25,7 +25,7 @@
         {
             "id": "",
             "content_html": "<blockquote>\n<p>文档地址：<a href=\"https://valaxy.site/guide/config/\">https://valaxy.site/guide/config/</a></p>\n</blockquote>\n",
-            "url": "https://blog.mnxy.eu.org/posts/valaxy/index",
+            "url": "https://blog.mnxy.eu.org/posts/valaxy/config",
             "title": "valaxy博客框架配置",
             "date_modified": "2024-02-05T21:00:00.000Z",
             "date_published": "2024-02-05T21:00:00.000Z",
@@ -73,7 +73,7 @@
         {
             "id": "",
             "content_html": "<h2>前言</h2>\n<p>我的博客使用<a href=\"https://vercel.com/\">Vercel</a>以及<a href=\"https://netlify.com/\">Netlify</a>部署，这两个网站托管服务都很不错 。还有一个<a href=\"https://zeabur.com\">Zeabur</a>，它提供的服务也不亚于其他两个服务提供商</p>\n",
-            "url": "https://blog.mnxy.eu.org/posts/source/index",
+            "url": "https://blog.mnxy.eu.org/posts/source/source1",
             "title": "网站托管服务——Vercel、Netlify、Zeabur",
             "date_modified": "2023-09-20T14:30:00.000Z",
             "date_published": "2023-09-20T14:30:00.000Z",
@@ -97,7 +97,7 @@
         {
             "id": "",
             "content_html": "<h2>工具</h2>\n<ul>\n<li><a href=\"https://typoraio.cn/\">Typora</a></li>\n<li><a href=\"https://github.com/xlzy520/typora-plugin-bilibili\">typora-plugin-bilibili</a></li>\n</ul>\n",
-            "url": "https://blog.mnxy.eu.org/posts/tech/index",
+            "url": "https://blog.mnxy.eu.org/posts/tech/image",
             "title": "【个人博客网站】Typora + B站 = 高速图床",
             "date_modified": "2023-09-08T14:30:00.000Z",
             "date_published": "2023-09-08T14:30:00.000Z",
@@ -217,7 +217,7 @@
         {
             "id": "",
             "content_html": "<p>::: info NovalAI</p>\n<ul>\n<li><a href=\"https://pan.baidu.com/s/1X0EILzEg6OEAk3q0qSRPFg?pwd=368y\">stable-diffusion-webui</a></li>\n<li><a href=\"https://pan.baidu.com/s/128fha-fXuv7yj3kvmPkCTQ?pwd=pbrk\">novel-naifu</a></li>\n</ul>\n<p>:::</p>\n",
-            "url": "https://blog.mnxy.eu.org/posts/novelai/index",
+            "url": "https://blog.mnxy.eu.org/posts/novelai/novelai",
             "title": "Novelai双版本部署整合教程",
             "date_modified": "2022-10-14T14:30:00.000Z",
             "date_published": "2022-10-14T14:30:00.000Z",
@@ -277,7 +277,7 @@
         {
             "id": "",
             "content_html": "<p>::: tip</p>\n<p>本篇为美化教程的合集（暂未彻底完成）</p>\n<p>:::</p>\n",
-            "url": "https://blog.mnxy.eu.org/posts/meihua/index",
+            "url": "https://blog.mnxy.eu.org/posts/meihua/meihua",
             "title": "【个人博客网站】博客美化——总篇集",
             "date_modified": "2022-09-26T16:00:00.000Z",
             "date_published": "2022-09-26T16:00:00.000Z",
@@ -385,7 +385,7 @@
         {
             "id": "",
             "content_html": "<p>::: tip</p>\n<p>本篇教程为网站重建后重写</p>\n<p>以Hexo框架以及Butterfly主题为例</p>\n<p>:::</p>\n",
-            "url": "https://blog.mnxy.eu.org/posts/boke/index",
+            "url": "https://blog.mnxy.eu.org/posts/boke/boke1",
             "title": "【个人博客网站】从零开始搭建博客网站（一）：本地配置",
             "date_modified": "2022-08-23T16:00:00.000Z",
             "date_published": "2022-08-23T16:00:00.000Z",
@@ -409,7 +409,7 @@
         {
             "id": "",
             "content_html": "<iframe src=\"https://blog.mnxy.eu.org//player.bilibili.com/player.html?aid=514478015&bvid=BV1rg411k7CZ&cid=803453532&page=1",
-            "url": "https://blog.mnxy.eu.org/posts/byjg/index",
+            "url": "https://blog.mnxy.eu.org/posts/byjg/byjg1",
             "title": "【白夜极光】免加速游戏教程，使用直连速度起飞",
             "date_modified": "2022-08-19T16:00:00.000Z",
             "date_published": "2022-08-19T16:00:00.000Z",
@@ -421,7 +421,7 @@
         {
             "id": "",
             "content_html": "<p>Hello！各位小伙伴们，欢迎来到我的博客。</p>\n<p>在这里，和我一起学习吧！</p>\n",
-            "url": "https://blog.mnxy.eu.org/posts/other/index",
+            "url": "https://blog.mnxy.eu.org/posts/other/welcome",
             "title": "欢迎来到我的博客",
             "date_modified": "2022-08-19T16:00:00.000Z",
             "date_published": "2022-08-19T16:00:00.000Z",
