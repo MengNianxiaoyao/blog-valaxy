@@ -3,7 +3,7 @@
 	border-radius: 5px;
 	bottom: 66px;
 	color: #fff;
-	cursor: var(--cursor-link);
+	cursor: url('https://jsd.onmicrosoft.cn/gh/MengNianxiaoyao/blog-valaxy/cursor/link.cur');
 	font-size: 12px;
 	right: 20px;
 	margin-right: -100px;
@@ -69,14 +69,14 @@
 }
 
 #live2d {
-	cursor: var(--cursor-link);
+	cursor: url('https://jsd.onmicrosoft.cn/gh/MengNianxiaoyao/blog-valaxy/cursor/link.cur');
 	height: 150px;
 	position: relative;
 	width: 150px;
 }
 
 #live2d:active {
-	cursor: var(--cursor-link);
+	cursor: url('https://jsd.onmicrosoft.cn/gh/MengNianxiaoyao/blog-valaxy/cursor/link.cur');
 }
 
 #waifu-tool {
@@ -100,7 +100,7 @@
 
 #waifu-tool svg {
 	fill: #7b8c9d;
-	cursor: var(--cursor-link);
+	cursor: url('https://jsd.onmicrosoft.cn/gh/MengNianxiaoyao/blog-valaxy/cursor/link.cur');
 	height: 25px;
 	transition: fill .3s;
 }
