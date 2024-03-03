@@ -3,7 +3,7 @@
 	border-radius: 5px;
 	bottom: 66px;
 	color: #fff;
-	cursor: url('https://jsd.onmicrosoft.cn/gh/MengNianxiaoyao/blog-valaxy/cursor/link.cur');
+	cursor: url('https://jsd.onmicrosoft.cn/gh/MengNianxiaoyao/blog-valaxy/cursor/link.cur'), auto;
 	font-size: 12px;
 	right: 20px;
 	margin-right: -100px;
@@ -30,7 +30,7 @@
 	position: fixed;
 	transform: translateY(3px);
 	transition: transform .3s ease-in-out, bottom 3s ease-in-out;
-	z-index: 1;
+	z-index: 9;
 }
 
 #waifu:hover {
@@ -69,14 +69,14 @@
 }
 
 #live2d {
-	cursor: url('https://jsd.onmicrosoft.cn/gh/MengNianxiaoyao/blog-valaxy/cursor/link.cur');
+	cursor: url('https://jsd.onmicrosoft.cn/gh/MengNianxiaoyao/blog-valaxy/cursor/link.cur'), auto;
 	height: 150px;
 	position: relative;
 	width: 150px;
 }
 
 #live2d:active {
-	cursor: url('https://jsd.onmicrosoft.cn/gh/MengNianxiaoyao/blog-valaxy/cursor/link.cur');
+	cursor: url('https://jsd.onmicrosoft.cn/gh/MengNianxiaoyao/blog-valaxy/cursor/link.cur'), auto;
 }
 
 #waifu-tool {
@@ -100,7 +100,7 @@
 
 #waifu-tool svg {
 	fill: #7b8c9d;
-	cursor: url('https://jsd.onmicrosoft.cn/gh/MengNianxiaoyao/blog-valaxy/cursor/link.cur');
+	cursor: url('https://jsd.onmicrosoft.cn/gh/MengNianxiaoyao/blog-valaxy/cursor/link.cur'), auto;
 	height: 25px;
 	transition: fill .3s;
 }
