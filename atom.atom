@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.mnxy.eu.org/</id>
     <title>梦念逍遥のBLOG</title>
-    <updated>2024-05-10T21:03:41.758Z</updated>
+    <updated>2024-05-11T21:04:15.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>梦念逍遥</name>
@@ -33,7 +33,7 @@
 <p>breed-mt7621-xiaomi-r3g.bin</p>
 </blockquote>
 <p>:::</p>
-]]></content>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
             <email>email@mnxy.eu.org</email>
@@ -49,7 +49,7 @@
         <content type="html"><![CDATA[<blockquote>
 <p>文档地址：<a href="https://valaxy.site/guide/config/">https://valaxy.site/guide/config/</a></p>
 </blockquote>
-]]></content>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
             <email>email@mnxy.eu.org</email>
@@ -64,7 +64,7 @@
         <updated>2024-01-04T14:30:00.000Z</updated>
         <content type="html"><![CDATA[<h2>前言</h2>
 <p>在10月份的时候，博客突然无法访问了，后续得知是<code>Vercel</code>被<code>GFW</code>了，我就换成了<code>Netlify</code>进行托管。好景不长，在12月份的时候就出现部分运营商网络打不开的情况。</p>
-]]></content>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
             <email>email@mnxy.eu.org</email>
@@ -80,7 +80,7 @@
         <content type="html"><![CDATA[<p>::: tip</p>
 <p>原文：公众号【知彼而知己】——<a href="https://mp.weixin.qq.com/s?__biz=MzA3Nzg3NjYxOQ==&amp;mid=2448169440&amp;idx=1&amp;sn=fc99480a5358c392e03828c0b9a18892&amp;sharer_shareinfo=96240d8becb5785720bf9355d3d1d891&amp;sharer_shareinfo_first=96240d8becb5785720bf9355d3d1d891#rd">重磅：十几年了，Office离线永久激活，突破卡脖子技术！遥遥领先</a></p>
 <p>:::</p>
-]]></content>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
             <email>email@mnxy.eu.org</email>
@@ -96,7 +96,7 @@
         <content type="html"><![CDATA[<p>::: tip</p>
 <p>原文：博客【法海之路】——<a href="https://www.fahai.org/jszt/14.html">Typora Windows全版本破解补丁[支持版本更新]</a></p>
 <p>:::</p>
-]]></content>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
             <email>email@mnxy.eu.org</email>
@@ -111,7 +111,7 @@
         <updated>2023-09-20T14:30:00.000Z</updated>
         <content type="html"><![CDATA[<h2>前言</h2>
 <p>我的博客使用<a href="https://vercel.com/">Vercel</a>以及<a href="https://netlify.com/">Netlify</a>部署，这两个网站托管服务都很不错 。还有一个<a href="https://zeabur.com">Zeabur</a>，它提供的服务也不亚于其他两个服务提供商</p>
-]]></content>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
             <email>email@mnxy.eu.org</email>
@@ -126,7 +126,7 @@
         <updated>2023-09-17T14:30:00.000Z</updated>
         <content type="html"><![CDATA[<h2>前言</h2>
 <p>我购买过域名，也尝试过<a href="https://www.freenom.com/">Freenom</a>的免费域名，发现要么花钱的很贵，要么免费的续期注册很麻烦，现在则选择了<a href="https://nic.eu.org/">eu.org域名</a></p>
-]]></content>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
             <email>email@mnxy.eu.org</email>
@@ -144,7 +144,7 @@
 <li><a href="https://typoraio.cn/">Typora</a></li>
 <li><a href="https://github.com/xlzy520/typora-plugin-bilibili">typora-plugin-bilibili</a></li>
 </ul>
-]]></content>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
             <email>email@mnxy.eu.org</email>
@@ -162,7 +162,7 @@
 </blockquote>
 <h2>部署</h2>
 <p>直接上干货，够可以吧😄</p>
-]]></content>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
             <email>email@mnxy.eu.org</email>
@@ -176,7 +176,7 @@
         <link href="https://blog.mnxy.eu.org/posts/tech/reader"/>
         <updated>2023-09-06T14:30:00.000Z</updated>
         <content type="html"><![CDATA[<h2>阅读</h2>
-]]></content>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
             <email>email@mnxy.eu.org</email>
@@ -191,7 +191,7 @@
         <updated>2023-08-29T14:30:00.000Z</updated>
         <content type="html"><![CDATA[<h2>什么是Uptime-Kuma</h2>
 <p>它是类似于<code>Uptime Robot</code>的自托管监控工具。在GitHub上开源，可通过Docker与非Docker方式进行部署，界面简洁，支持多种语言</p>
-]]></content>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
             <email>email@mnxy.eu.org</email>
@@ -205,7 +205,7 @@
         <link href="https://blog.mnxy.eu.org/posts/meihua/meihua11"/>
         <updated>2022-12-06T22:30:00.000Z</updated>
         <content type="html"><![CDATA[<h3>引入样式文件</h3>
-]]></content>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
             <email>email@mnxy.eu.org</email>
@@ -224,7 +224,7 @@
 <p>::: tip</p>
 <p>参考文档: <a href="https://blog.csdn.net/sinat_16395609/article/details/120806098">hexo配合github action 自动构建（多种形式）</a></p>
 <p>:::</p>
-]]></content>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
             <email>email@mnxy.eu.org</email>
@@ -241,7 +241,7 @@
 <p>参考了安知鱼的方案进行修改<br>
 原教程<a href="https://anzhiy.cn/posts/sdxhu.html#%E8%8F%9C%E5%8D%95%E6%A0%8F%E5%A4%9A%E8%89%B2%E5%9B%BE%E6%A0%87%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B">butterfly 重装日记</a></p>
 <p>:::</p>
-]]></content>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
             <email>email@mnxy.eu.org</email>
@@ -258,7 +258,7 @@
 <p>参考了安知鱼的方案进行修改<br>
 原教程<a href="https://anzhiy.cn/posts/sdxhu.html#%E9%85%8D%E7%BD%AE-pwa">butterfly 重装日记</a></p>
 <p>:::</p>
-]]></content>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
             <email>email@mnxy.eu.org</email>
@@ -274,7 +274,7 @@
         <content type="html"><![CDATA[<blockquote>
 <p><a href="https://pan.baidu.com/s/1X0EILzEg6OEAk3q0qSRPFg?pwd=368y">stable-diffusion-webui下载</a></p>
 </blockquote>
-]]></content>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
             <email>email@mnxy.eu.org</email>
@@ -288,7 +288,7 @@
         <link href="https://blog.mnxy.eu.org/posts/novelai/novelai1"/>
         <updated>2022-10-16T14:30:00.000Z</updated>
         <content type="html"><![CDATA[<h2>更新</h2>
-]]></content>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
             <email>email@mnxy.eu.org</email>
@@ -307,7 +307,7 @@
 <li><a href="https://pan.baidu.com/s/128fha-fXuv7yj3kvmPkCTQ?pwd=pbrk">novel-naifu</a></li>
 </ul>
 <p>:::</p>
-]]></content>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
             <email>email@mnxy.eu.org</email>
@@ -323,7 +323,7 @@
         <content type="html"><![CDATA[<blockquote>
 <p>具体文档地址：<a href="https://twikoo.js.org/quick-start.html#vercel-%E9%83%A8%E7%BD%B2">https://twikoo.js.org/quick-start.html#vercel-部署</a></p>
 </blockquote>
-]]></content>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
             <email>email@mnxy.eu.org</email>
@@ -340,7 +340,7 @@
 <p>参考了安知鱼的方案进行修改<br>
 原教程<a href="https://anzhiy.cn/posts/fc18.html">给butterfly添加侧边栏电子钟</a></p>
 <p>:::</p>
-]]></content>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
             <email>email@mnxy.eu.org</email>
@@ -357,7 +357,7 @@
 <p>参考了安知鱼的方案进行修改<br>
 原教程<a href="https://anzhiy.cn/posts/sdxhu.html#random.js%E9%9A%8F%E6%9C%BA%E8%B7%B3%E8%BD%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0">butterfly 重装日记</a></p>
 <p>:::</p>
-]]></content>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
             <email>email@mnxy.eu.org</email>
@@ -375,7 +375,7 @@
 推荐使用LeanCloud国际版<br>
 具体文档地址：<a href="https://github.com/HCLonely/Valine">https://github.com/HCLonely/Valine</a></p>
 <p>:::</p>
-]]></content>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
             <email>email@mnxy.eu.org</email>
@@ -391,7 +391,7 @@
         <content type="html"><![CDATA[<p>::: tip</p>
 <p>本篇为美化教程的合集（暂未彻底完成）</p>
 <p>:::</p>
-]]></content>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
             <email>email@mnxy.eu.org</email>
@@ -408,7 +408,7 @@
 <p>具体操作请参考以下文档：<br>
 <a href="https://github.com/EYHN/hexo-helper-live2d/blob/master/README.zh-CN.md">https://github.com/EYHN/hexo-helper-live2d/blob/master/README.zh-CN.md</a></p>
 <p>:::</p>
-]]></content>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
             <email>email@mnxy.eu.org</email>
@@ -428,7 +428,7 @@
 <blockquote>
 <p>回到顶部按钮使用的方法引用右键菜单中定义的方法，没有定义的请查看相应位置的注释进行修改</p>
 </blockquote>
-]]></content>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
             <email>email@mnxy.eu.org</email>
@@ -441,7 +441,7 @@
         <id>https://blog.mnxy.eu.org/posts/byjg/baiye3</id>
         <link href="https://blog.mnxy.eu.org/posts/byjg/baiye3"/>
         <updated>2022-09-16T22:00:00.000Z</updated>
-        <content type="html"><![CDATA[<iframe src="https://blog.mnxy.eu.org//player.bilibili.com/player.html?bvid=BV15g411h7YV&page=1" scrolling="no" border="0" ]]></content>
+        <content type="html"><![CDATA[<iframe src="https://blog.mnxy.eu.org//player.bilibili.com/player.html?bvid=BV15g411h7YV&page=1" scrolling="no" border="0" <br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
             <email>email@mnxy.eu.org</email>
@@ -460,7 +460,7 @@
 <p>2022.09.20 加入F12弹窗提示<br>
 2022.09.22 修复百度搜索和转到链接功能点击后页面刷新的问题</p>
 <p>:::</p>
-]]></content>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
             <email>email@mnxy.eu.org</email>
@@ -478,7 +478,7 @@
 原教程<a href="https://akilar.top/posts/d0d69f76/">SAO-UI-PLAN-Notify</a><br>
 原教程<a href="https://akilar.top/posts/1b4fa1dd/">SAO-UI-PLAN-LINK-START</a></p>
 <p>:::</p>
-]]></content>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
             <email>email@mnxy.eu.org</email>
@@ -493,7 +493,7 @@
         <updated>2022-09-05T22:20:00.000Z</updated>
         <content type="html"><![CDATA[<h2>前言</h2>
 <p>每年的大学开学，新生总是很多。刚进入大学校园的新生们，啥也不懂，然后······</p>
-]]></content>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
             <email>email@mnxy.eu.org</email>
@@ -511,7 +511,7 @@
 ::: tip</p>
 <p>前提条件：完成前面两篇的全部操作</p>
 <p>:::</p>
-]]></content>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
             <email>email@mnxy.eu.org</email>
@@ -527,7 +527,7 @@
         <content type="html"><![CDATA[<h2>注册GitHub账号</h2>
 <p>进入<a href="https://github.com">GitHub</a>官网，注册账号</p>
 <h2>获取SSH</h2>
-]]></content>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
             <email>email@mnxy.eu.org</email>
@@ -544,7 +544,7 @@
 <p>本篇教程为网站重建后重写</p>
 <p>以Hexo框架以及Butterfly主题为例</p>
 <p>:::</p>
-]]></content>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
             <email>email@mnxy.eu.org</email>
@@ -562,7 +562,7 @@
 </blockquote>
 <p>::: tip 说明</p>
 <p>时间截止到9月14日，4.7版本的启动器已</p>
-]]></content>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
             <email>email@mnxy.eu.org</email>
@@ -575,7 +575,7 @@
         <id>https://blog.mnxy.eu.org/posts/byjg/byjg1</id>
         <link href="https://blog.mnxy.eu.org/posts/byjg/byjg1"/>
         <updated>2022-08-19T16:00:00.000Z</updated>
-        <content type="html"><![CDATA[<iframe src="https://blog.mnxy.eu.org//player.bilibili.com/player.html?aid=514478015&bvid=BV1rg411k7CZ&cid=803453532&page=1]]></content>
+        <content type="html"><![CDATA[<iframe src="https://blog.mnxy.eu.org//player.bilibili.com/player.html?aid=514478015&bvid=BV1rg411k7CZ&cid=803453532&page=1<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
             <email>email@mnxy.eu.org</email>
@@ -590,7 +590,7 @@
         <updated>2022-08-19T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>Hello！各位小伙伴们，欢迎来到我的博客。</p>
 <p>在这里，和我一起学习吧！</p>
-]]></content>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
             <email>email@mnxy.eu.org</email>
