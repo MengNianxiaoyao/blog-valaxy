@@ -4,7 +4,7 @@
         <title>梦念逍遥のBLOG</title>
         <link>https://blog.mnxy.eu.org/</link>
         <description>这是一个很棒的博客</description>
-        <lastBuildDate>Thu, 27 Jun 2024 21:14:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jun 2024 06:09:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -14,6 +14,17 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © 梦念逍遥</copyright>
         <atom:link href="https://blog.mnxy.eu.org/atom.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[白嫖永久无限可收发邮箱]]></title>
+            <link>https://blog.mnxy.eu.org/posts/tech/email</link>
+            <guid>https://blog.mnxy.eu.org/posts/tech/email</guid>
+            <pubDate>Sat, 29 Jun 2024 14:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>::: tip</p>
+<p>eu.org域名白嫖可看<a href="https://blog.mnxy.eu.org/posts/tech/domain">永久免费域名白嫖——eu.org</a></p>
+<p>:::</p>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content:encoded>
+            <author>email@mnxy.eu.org (梦念逍遥)</author>
+        </item>
         <item>
             <title><![CDATA[小米路由器4A千兆版刷机openwrt(含刷回官方)]]></title>
             <link>https://blog.mnxy.eu.org/posts/tech/lyq</link>
@@ -89,7 +100,7 @@
             <author>email@mnxy.eu.org (梦念逍遥)</author>
         </item>
         <item>
-            <title><![CDATA[永久免费域名白嫖--eu.org]]></title>
+            <title><![CDATA[永久免费域名白嫖——eu.org]]></title>
             <link>https://blog.mnxy.eu.org/posts/tech/domain</link>
             <guid>https://blog.mnxy.eu.org/posts/tech/domain</guid>
             <pubDate>Sun, 17 Sep 2023 14:30:00 GMT</pubDate>
