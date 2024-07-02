@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.mnxy.eu.org/</id>
     <title>梦念逍遥のBLOG</title>
-    <updated>2024-07-02T00:37:26.754Z</updated>
+    <updated>2024-07-02T02:33:06.905Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>梦念逍遥</name>
@@ -23,6 +23,7 @@
         <content type="html"><![CDATA[<p>::: tip</p>
 <p>eu.org域名白嫖可看<a href="https://blog.mnxy.eu.org/posts/tech/domain">永久免费域名白嫖——eu.org</a></p>
 <p>:::</p>
+<h2>Cloudf</h2>
 <br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
@@ -38,17 +39,7 @@
         <updated>2022-11-28T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>::: tip</p>
 <p>参考文档:</p>
-<p><a href="https://www.right.com.cn/forum/thread-4317222-1-1.html">小米路由器4A千兆版刷Padavan(WIN10刷,含刷死救砖)</a></p>
-<p><a href="https://www.right.com.cn/forum/thread-4102208-1-1.html">论坛收集的几个小米路由器官方bootloader</a></p>
-<p><a href="https://blog.csdn.net/qq_43206901/article/details/119106511">小米路由器R4A(千兆版)固件刷opewrt、刷官方固件</a></p>
-<p><a href="https://blog.w2aa.ga/post/220724breed.html">2022-07-24更新的Breed使用说明</a></p>
-<p>breed下载: <a href="https://breed.hackpascal.net">下载地址</a></p>
-<blockquote>
-<p>小米路由器使用的两种breed：</p>
-<p>breed-mt7621-pbr-m1.bin</p>
-<p>breed-mt7621-xiaomi-r3g.bin</p>
-</blockquote>
-<p>:::</p>
+<p>[小米路由器4A千兆版刷Padavan(WIN10刷,含刷死救砖)](<a href="https://www.right.com.cn/forum/thread-4317222-1-">https://www.right.com.cn/forum/thread-4317222-1-</a></p>
 <br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
@@ -65,6 +56,11 @@
         <content type="html"><![CDATA[<blockquote>
 <p>文档地址：<a href="https://valaxy.site/guide/config/">https://valaxy.site/guide/config/</a></p>
 </blockquote>
+<h2>基础配置</h2>
+<p>基础配置不多说，官方文档给的还算详细</p>
+<h2>拓展配置</h2>
+<p>这里选几个来说吧</p>
+<h3>使用</h3>
 <br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
@@ -80,6 +76,7 @@
         <updated>2024-01-04T14:30:00.000Z</updated>
         <content type="html"><![CDATA[<h2>前言</h2>
 <p>在10月份的时候，博客突然无法访问了，后续得知是<code>Vercel</code>被<code>GFW</code>了，我就换成了<code>Netlify</code>进行托管。好景不长，在12月份的时候就出现部分运营商网络打不开的情况。</p>
+<h1></h1>
 <br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
@@ -94,8 +91,7 @@
         <link href="https://blog.mnxy.eu.org/posts/tech/ohook"/>
         <updated>2023-09-29T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>::: tip</p>
-<p>原文：公众号【知彼而知己】——<a href="https://mp.weixin.qq.com/s?__biz=MzA3Nzg3NjYxOQ==&amp;mid=2448169440&amp;idx=1&amp;sn=fc99480a5358c392e03828c0b9a18892&amp;sharer_shareinfo=96240d8becb5785720bf9355d3d1d891&amp;sharer_shareinfo_first=96240d8becb5785720bf9355d3d1d891#rd">重磅：十几年了，Office离线永久激活，突破卡脖子技术！遥遥领先</a></p>
-<p>:::</p>
+<p>原文：公众号【知彼而知己】——[重磅：十几年了，Office离线永久激活，突破卡脖子技术！遥遥领先](<a href="https://mp.weixin.qq.com/s?__biz=MzA">https://mp.weixin.qq.com/s?__biz=MzA</a></p>
 <br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
@@ -126,7 +122,7 @@
         <link href="https://blog.mnxy.eu.org/posts/source/source1"/>
         <updated>2023-09-20T14:30:00.000Z</updated>
         <content type="html"><![CDATA[<h2>前言</h2>
-<p>我的博客使用<a href="https://vercel.com/">Vercel</a>以及<a href="https://netlify.com/">Netlify</a>部署，这两个网站托管服务都很不错 。还有一个<a href="https://zeabur.com">Zeabur</a>，它提供的服务也不亚于其他两个服务提供商</p>
+<p>我的博客使用<a href="https://vercel.com/">Vercel</a>以及<a href="https://netlify.com/">Netlify</a>部署，这两个网站托管服务都很不错 。还有一个[Z</p>
 <br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
@@ -141,7 +137,7 @@
         <link href="https://blog.mnxy.eu.org/posts/tech/domain"/>
         <updated>2023-09-17T14:30:00.000Z</updated>
         <content type="html"><![CDATA[<h2>前言</h2>
-<p>我购买过域名，也尝试过<a href="https://www.freenom.com/">Freenom</a>的免费域名，发现要么花钱的很贵，要么免费的续期注册很麻烦，现在则选择了<a href="https://nic.eu.org/">eu.org域名</a></p>
+<p>我购买过域名，也尝试过<a href="https://www.freenom.com/">Freenom</a>的免费域名，发现要么花钱的很贵，要么免费的续期注册很麻烦，现在则选择了[eu.org域</p>
 <br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
@@ -158,7 +154,7 @@
         <content type="html"><![CDATA[<h2>工具</h2>
 <ul>
 <li><a href="https://typoraio.cn/">Typora</a></li>
-<li><a href="https://github.com/xlzy520/typora-plugin-bilibili">typora-plugin-bilibili</a></li>
+<li>[typora-plugin-bilibili](<a href="https://github.com/xlzy520/typor">https://github.com/xlzy520/typor</a></li>
 </ul>
 <br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
@@ -178,6 +174,8 @@
 </blockquote>
 <h2>部署</h2>
 <p>直接上干货，够可以吧😄</p>
+<h3><s>创建Repl</s>Fork</h3>
+<p>老步骤</p>
 <br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
@@ -192,6 +190,10 @@
         <link href="https://blog.mnxy.eu.org/posts/tech/reader"/>
         <updated>2023-09-06T14:30:00.000Z</updated>
         <content type="html"><![CDATA[<h2>阅读</h2>
+<blockquote>
+<p>阅读Web版GitHub链接：<a href="https://github.com/hectorqin/reader">https://github.com/hectorqin/reader</a></p>
+</blockquote>
+<p>老书虫应该都听过用过<code>阅读</code>这个APP吧？但很可惜的是，它并没</p>
 <br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
@@ -221,6 +223,10 @@
         <link href="https://blog.mnxy.eu.org/posts/meihua/meihua11"/>
         <updated>2022-12-06T22:30:00.000Z</updated>
         <content type="html"><![CDATA[<h3>引入样式文件</h3>
+<p>修改主题配置文件</p>
+<pre><code class="language-yaml">inject:
+  head:
+    - &lt;script src=&quot;https://unpkg.com/vue@2.7.13/dist/</code></pre>
 <br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
@@ -238,8 +244,7 @@
 <p>本篇是可选操作教程</p>
 </blockquote>
 <p>::: tip</p>
-<p>参考文档: <a href="https://blog.csdn.net/sinat_16395609/article/details/120806098">hexo配合github action 自动构建（多种形式）</a></p>
-<p>:::</p>
+<p>参考文档: [hexo配合github action 自动构建（多种形式）](<a href="https://blog.csdn.net/sinat_16395609/a">https://blog.csdn.net/sinat_16395609/a</a></p>
 <br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
@@ -255,8 +260,7 @@
         <updated>2022-11-19T22:30:00.000Z</updated>
         <content type="html"><![CDATA[<p>:::tip</p>
 <p>参考了安知鱼的方案进行修改<br>
-原教程<a href="https://anzhiy.cn/posts/sdxhu.html#%E8%8F%9C%E5%8D%95%E6%A0%8F%E5%A4%9A%E8%89%B2%E5%9B%BE%E6%A0%87%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B">butterfly 重装日记</a></p>
-<p>:::</p>
+原教程[butterfly 重装日记](<a href="https://anzhiy.cn/posts/sdxhu.html#%E8%8F%9C%E5%8D%95%E6%25">https://anzhiy.cn/posts/sdxhu.html#菜单�%</a></p>
 <br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
@@ -272,8 +276,7 @@
         <updated>2022-11-07T22:30:00.000Z</updated>
         <content type="html"><![CDATA[<p>::: tip</p>
 <p>参考了安知鱼的方案进行修改<br>
-原教程<a href="https://anzhiy.cn/posts/sdxhu.html#%E9%85%8D%E7%BD%AE-pwa">butterfly 重装日记</a></p>
-<p>:::</p>
+原教程[butterfly 重装日记](<a href="https://anzhiy.cn/posts/sdxhu.html#%E9%85%8D%E7%BD%AE-pw">https://anzhiy.cn/posts/sdxhu.html#配置-pw</a></p>
 <br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
@@ -290,6 +293,7 @@
         <content type="html"><![CDATA[<blockquote>
 <p><a href="https://pan.baidu.com/s/1X0EILzEg6OEAk3q0qSRPFg?pwd=368y">stable-diffusion-webui下载</a></p>
 </blockquote>
+<h2>安装dee</h2>
 <br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
@@ -304,6 +308,7 @@
         <link href="https://blog.mnxy.eu.org/posts/novelai/novelai1"/>
         <updated>2022-10-16T14:30:00.000Z</updated>
         <content type="html"><![CDATA[<h2>更新</h2>
+<p>前往<a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui">GitHub仓库</a>，下载最新版代码压缩包；或者使用`git</p>
 <br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
@@ -319,10 +324,8 @@
         <updated>2022-10-14T14:30:00.000Z</updated>
         <content type="html"><![CDATA[<p>::: info NovalAI</p>
 <ul>
-<li><a href="https://pan.baidu.com/s/1X0EILzEg6OEAk3q0qSRPFg?pwd=368y">stable-diffusion-webui</a></li>
-<li><a href="https://pan.baidu.com/s/128fha-fXuv7yj3kvmPkCTQ?pwd=pbrk">novel-naifu</a></li>
+<li>[stable-diffusion-webui](<a href="https://pan.baidu.com/s/1X0EILzEg6OEAk3q0qSRPFg?pwd=36">https://pan.baidu.com/s/1X0EILzEg6OEAk3q0qSRPFg?pwd=36</a></li>
 </ul>
-<p>:::</p>
 <br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
@@ -339,6 +342,7 @@
         <content type="html"><![CDATA[<blockquote>
 <p>具体文档地址：<a href="https://twikoo.js.org/quick-start.html#vercel-%E9%83%A8%E7%BD%B2">https://twikoo.js.org/quick-start.html#vercel-部署</a></p>
 </blockquote>
+<h2>数据库搭建(MongoDB)</h2>
 <br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
@@ -356,6 +360,7 @@
 <p>参考了安知鱼的方案进行修改<br>
 原教程<a href="https://anzhiy.cn/posts/fc18.html">给butterfly添加侧边栏电子钟</a></p>
 <p>:::</p>
+<h2></h2>
 <br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
@@ -371,8 +376,7 @@
         <updated>2022-09-30T19:30:00.000Z</updated>
         <content type="html"><![CDATA[<p>::: tip</p>
 <p>参考了安知鱼的方案进行修改<br>
-原教程<a href="https://anzhiy.cn/posts/sdxhu.html#random.js%E9%9A%8F%E6%9C%BA%E8%B7%B3%E8%BD%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0">butterfly 重装日记</a></p>
-<p>:::</p>
+原教程[butterfly 重装日记](<a href="https://anzhiy.cn/posts/sdxhu.html#random.js%E9%9A%258">https://anzhiy.cn/posts/sdxhu.html#random.js��%8</a></p>
 <br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
@@ -391,6 +395,7 @@
 推荐使用LeanCloud国际版<br>
 具体文档地址：<a href="https://github.com/HCLonely/Valine">https://github.com/HCLonely/Valine</a></p>
 <p>:::</p>
+<h2></h2>
 <br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
@@ -407,6 +412,11 @@
         <content type="html"><![CDATA[<p>::: tip</p>
 <p>本篇为美化教程的合集（暂未彻底完成）</p>
 <p>:::</p>
+<h2>自定义CSS</h2>
+<blockquote>
+<p>参考了安知鱼的方案进行修改<br>
+原教程[butterfly 重装日记](<a href="https://anzhiy.c">https://anzhiy.c</a></p>
+</blockquote>
 <br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
@@ -423,7 +433,6 @@
         <content type="html"><![CDATA[<p>::: tip</p>
 <p>具体操作请参考以下文档：<br>
 <a href="https://github.com/EYHN/hexo-helper-live2d/blob/master/README.zh-CN.md">https://github.com/EYHN/hexo-helper-live2d/blob/master/README.zh-CN.md</a></p>
-<p>:::</p>
 <br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
@@ -441,9 +450,6 @@
 <p>参考了安知鱼的方案进行修改<br>
 原教程<a href="https://anzhiy.cn/posts/8e53.html">butterfly导航栏修改方案(自用方案)</a></p>
 <p>:::</p>
-<blockquote>
-<p>回到顶部按钮使用的方法引用右键菜单中定义的方法，没有定义的请查看相应位置的注释进行修改</p>
-</blockquote>
 <br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
@@ -473,9 +479,7 @@
         <content type="html"><![CDATA[<p>::: tip</p>
 <p>参考了LYX的方案进行修改<br>
 原教程<a href="https://yisous.xyz/posts/11eb4aac/">butterfly博客自定义右键菜单升级版</a></p>
-<p>2022.09.20 加入F12弹窗提示<br>
-2022.09.22 修复百度搜索和转到链接功能点击后页面刷新的问题</p>
-<p>:::</p>
+<p>2022.0</p>
 <br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
@@ -492,8 +496,7 @@
         <content type="html"><![CDATA[<p>::: tip</p>
 <p>参考了店长的方案进行修改<br>
 原教程<a href="https://akilar.top/posts/d0d69f76/">SAO-UI-PLAN-Notify</a><br>
-原教程<a href="https://akilar.top/posts/1b4fa1dd/">SAO-UI-PLAN-LINK-START</a></p>
-<p>:::</p>
+原教程[SAO-UI-P</p>
 <br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
@@ -509,6 +512,8 @@
         <updated>2022-09-05T22:20:00.000Z</updated>
         <content type="html"><![CDATA[<h2>前言</h2>
 <p>每年的大学开学，新生总是很多。刚进入大学校园的新生们，啥也不懂，然后······</p>
+<h2>需要注意的坑（一）：远离热心的学长学姐以及办校园卡</h2>
+<p>这里不是讽刺啊，亲生经历啊</p>
 <br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
@@ -527,6 +532,9 @@
 ::: tip</p>
 <p>前提条件：完成前面两篇的全部操作</p>
 <p>:::</p>
+<h2>安装后台插件</h2>
+<p>终端输入</p>
+<pre><code class="language-shell">np</code></pre>
 <br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
@@ -543,6 +551,8 @@
         <content type="html"><![CDATA[<h2>注册GitHub账号</h2>
 <p>进入<a href="https://github.com">GitHub</a>官网，注册账号</p>
 <h2>获取SSH</h2>
+<p>打开<code>Git bash</code></p>
+<p>依次输入以下命令</p>
 <br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
@@ -560,6 +570,10 @@
 <p>本篇教程为网站重建后重写</p>
 <p>以Hexo框架以及Butterfly主题为例</p>
 <p>:::</p>
+<h2>环境配置</h2>
+<h3>工具下载</h3>
+<h4>Git</h4>
+<p>进入[Git官网](https://</p>
 <br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
