@@ -4,7 +4,7 @@
         <title>梦念逍遥のBLOG</title>
         <link>https://blog.mnxy.eu.org/</link>
         <description>这是一个很棒的博客</description>
-        <lastBuildDate>Thu, 04 Jul 2024 13:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jul 2024 14:58:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -15,10 +15,21 @@
         <copyright>CC BY-NC-SA 4.0 2024 © 梦念逍遥</copyright>
         <atom:link href="https://blog.mnxy.eu.org/atom.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Vercel被GFW、Netlify打不开？一招解决！]]></title>
+            <link>https://blog.mnxy.eu.org/posts/source/source2</link>
+            <guid>https://blog.mnxy.eu.org/posts/source/source2</guid>
+            <pubDate>Thu, 04 Jul 2024 22:54:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>前言</h2>
+<p>在10月份的时候，博客突然无法访问了，后续得知是<code>Vercel</code>被<code>GFW</code>了，我就换成了<code>Netlify</code>进行托管。好景不长，在12月份的时候就出现部分运营商网络打不开的情况。</p>
+<h1></h1>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content:encoded>
+            <author>email@mnxy.eu.org (梦念逍遥)</author>
+        </item>
+        <item>
             <title><![CDATA[白嫖永久无限可收发邮箱]]></title>
             <link>https://blog.mnxy.eu.org/posts/tech/email</link>
             <guid>https://blog.mnxy.eu.org/posts/tech/email</guid>
-            <pubDate>Sat, 29 Jun 2024 14:30:00 GMT</pubDate>
+            <pubDate>Thu, 04 Jul 2024 22:54:00 GMT</pubDate>
             <content:encoded><![CDATA[<p>::: tip</p>
 <p>eu.org域名白嫖可看<a href="https://blog.mnxy.eu.org/posts/tech/domain">永久免费域名白嫖——eu.org</a></p>
 <p>:::</p>
@@ -50,17 +61,6 @@
 <h2>拓展配置</h2>
 <p>这里选几个来说吧</p>
 <h3>使用</h3>
-<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content:encoded>
-            <author>email@mnxy.eu.org (梦念逍遥)</author>
-        </item>
-        <item>
-            <title><![CDATA[Vercel被GFW、Netlify打不开？一招解决！]]></title>
-            <link>https://blog.mnxy.eu.org/posts/source/source2</link>
-            <guid>https://blog.mnxy.eu.org/posts/source/source2</guid>
-            <pubDate>Thu, 04 Jan 2024 14:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[<h2>前言</h2>
-<p>在10月份的时候，博客突然无法访问了，后续得知是<code>Vercel</code>被<code>GFW</code>了，我就换成了<code>Netlify</code>进行托管。好景不长，在12月份的时候就出现部分运营商网络打不开的情况。</p>
-<h1></h1>
 <br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content:encoded>
             <author>email@mnxy.eu.org (梦念逍遥)</author>
         </item>

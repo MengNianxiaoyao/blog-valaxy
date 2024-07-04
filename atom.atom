@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.mnxy.eu.org/</id>
     <title>梦念逍遥のBLOG</title>
-    <updated>2024-07-04T13:23:21.421Z</updated>
+    <updated>2024-07-04T14:58:51.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>梦念逍遥</name>
@@ -15,6 +15,22 @@
     <logo>https://blog.mnxy.eu.org/favicon.svg</logo>
     <icon>https://blog.mnxy.eu.orghttps://blog.mnxy.eu.org/favicon.svg</icon>
     <rights>CC BY-NC-SA 4.0 2024 © 梦念逍遥</rights>
+    <entry>
+        <title type="html"><![CDATA[Vercel被GFW、Netlify打不开？一招解决！]]></title>
+        <id>https://blog.mnxy.eu.org/posts/source/source2</id>
+        <link href="https://blog.mnxy.eu.org/posts/source/source2"/>
+        <updated>2024-01-04T14:30:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>前言</h2>
+<p>在10月份的时候，博客突然无法访问了，后续得知是<code>Vercel</code>被<code>GFW</code>了，我就换成了<code>Netlify</code>进行托管。好景不长，在12月份的时候就出现部分运营商网络打不开的情况。</p>
+<h1></h1>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
+        <author>
+            <name>梦念逍遥</name>
+            <email>email@mnxy.eu.org</email>
+            <uri>https://blog.mnxy.eu.org</uri>
+        </author>
+        <published>2024-07-04T22:54:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[白嫖永久无限可收发邮箱]]></title>
         <id>https://blog.mnxy.eu.org/posts/tech/email</id>
@@ -30,7 +46,7 @@
             <email>email@mnxy.eu.org</email>
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
-        <published>2024-06-29T14:30:00.000Z</published>
+        <published>2024-07-04T22:54:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[小米路由器4A千兆版刷机openwrt(含刷回官方)]]></title>
@@ -68,22 +84,6 @@
             <uri>https://blog.mnxy.eu.org</uri>
         </author>
         <published>2024-02-05T21:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vercel被GFW、Netlify打不开？一招解决！]]></title>
-        <id>https://blog.mnxy.eu.org/posts/source/source2</id>
-        <link href="https://blog.mnxy.eu.org/posts/source/source2"/>
-        <updated>2024-01-04T14:30:00.000Z</updated>
-        <content type="html"><![CDATA[<h2>前言</h2>
-<p>在10月份的时候，博客突然无法访问了，后续得知是<code>Vercel</code>被<code>GFW</code>了，我就换成了<code>Netlify</code>进行托管。好景不长，在12月份的时候就出现部分运营商网络打不开的情况。</p>
-<h1></h1>
-<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
-        <author>
-            <name>梦念逍遥</name>
-            <email>email@mnxy.eu.org</email>
-            <uri>https://blog.mnxy.eu.org</uri>
-        </author>
-        <published>2024-01-04T14:30:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ohook——离线永久激活office全家桶]]></title>
