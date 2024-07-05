@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.mnxy.eu.org/</id>
     <title>梦念逍遥のBLOG</title>
-    <updated>2024-07-05T06:05:48.283Z</updated>
+    <updated>2024-07-05T13:41:25.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>梦念逍遥</name>
@@ -15,6 +15,43 @@
     <logo>https://blog.mnxy.eu.org/favicon.svg</logo>
     <icon>https://blog.mnxy.eu.orghttps://blog.mnxy.eu.org/favicon.svg</icon>
     <rights>CC BY-NC-SA 4.0 2024 © 梦念逍遥</rights>
+    <entry>
+        <title type="html"><![CDATA[赛尔号Flash页游各种工具下载]]></title>
+        <id>https://blog.mnxy.eu.org/posts/seer/tools</id>
+        <link href="https://blog.mnxy.eu.org/posts/seer/tools"/>
+        <updated>2024-07-05T21:16:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>chika</h2>
+<blockquote>
+<p>下载链接：<a href="https://yoso.lanzouq.com/b015y77ch">https://yoso.lanzouq.com/b015y77ch</a></p>
+</blockquote>
+<p>老牌登录器，庞大</p>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
+        <author>
+            <name>梦念逍遥</name>
+            <email>email@mnxy.eu.org</email>
+            <uri>https://blog.mnxy.eu.org</uri>
+        </author>
+        <published>2024-07-05T21:16:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[白嫖Cloudflare优选IP给Vercel网站加速]]></title>
+        <id>https://blog.mnxy.eu.org/posts/tech/cdn</id>
+        <link href="https://blog.mnxy.eu.org/posts/tech/cdn"/>
+        <updated>2024-07-05T18:45:00.000Z</updated>
+        <content type="html"><![CDATA[<p>::: tip</p>
+<p>本教程参考以下内容</p>
+<blockquote>
+<p><a href="https://www.baota.me/post-411.html">CloudFlare公共优选Cname域名地址</a></p>
+<p>[CloudFlare</p>
+</blockquote>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
+        <author>
+            <name>梦念逍遥</name>
+            <email>email@mnxy.eu.org</email>
+            <uri>https://blog.mnxy.eu.org</uri>
+        </author>
+        <published>2024-07-05T18:45:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vercel被GFW、Netlify打不开？一招解决！]]></title>
         <id>https://blog.mnxy.eu.org/posts/source/source2</id>
