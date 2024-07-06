@@ -4,7 +4,7 @@
         <title>梦念逍遥のBLOG</title>
         <link>https://blog.mnxy.eu.org/</link>
         <description>这是一个很棒的博客</description>
-        <lastBuildDate>Fri, 05 Jul 2024 13:41:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Jul 2024 14:23:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -92,7 +92,7 @@
             <author>email@mnxy.eu.org (梦念逍遥)</author>
         </item>
         <item>
-            <title><![CDATA[Ohook——离线永久激活office全家桶]]></title>
+            <title><![CDATA[Ohook——离线永久激活Office全家桶]]></title>
             <link>https://blog.mnxy.eu.org/posts/tech/ohook</link>
             <guid>https://blog.mnxy.eu.org/posts/tech/ohook</guid>
             <pubDate>Fri, 29 Sep 2023 16:00:00 GMT</pubDate>
@@ -356,8 +356,8 @@
         </item>
         <item>
             <title><![CDATA[【白夜极光】Celestite - 第三方DMM Game Player]]></title>
-            <link>https://blog.mnxy.eu.org/posts/byjg/baiye3</link>
-            <guid>https://blog.mnxy.eu.org/posts/byjg/baiye3</guid>
+            <link>https://blog.mnxy.eu.org/posts/byjg/byjg3</link>
+            <guid>https://blog.mnxy.eu.org/posts/byjg/byjg3</guid>
             <pubDate>Fri, 16 Sep 2022 22:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<iframe src="https://blog.mnxy.eu.org//player.bilibili.com/player.html?bvid=BV15g411h7YV&page=1" scrolling="no" border="0" <br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content:encoded>
             <author>email@mnxy.eu.org (梦念逍遥)</author>
@@ -444,9 +444,17 @@
             <author>email@mnxy.eu.org (梦念逍遥)</author>
         </item>
         <item>
+            <title><![CDATA[【白夜极光】免加速游戏教程，使用直连速度起飞]]></title>
+            <link>https://blog.mnxy.eu.org/posts/byjg/byjg1</link>
+            <guid>https://blog.mnxy.eu.org/posts/byjg/byjg1</guid>
+            <pubDate>Fri, 19 Aug 2022 16:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<iframe src="https://blog.mnxy.eu.org//player.bilibili.com/player.html?aid=514478015&bvid=BV1rg411k7CZ&cid=803453532&page=1<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content:encoded>
+            <author>email@mnxy.eu.org (梦念逍遥)</author>
+        </item>
+        <item>
             <title><![CDATA[【白夜极光】启动器反向代理搭建教程]]></title>
-            <link>https://blog.mnxy.eu.org/posts/byjg/baiye2</link>
-            <guid>https://blog.mnxy.eu.org/posts/byjg/baiye2</guid>
+            <link>https://blog.mnxy.eu.org/posts/byjg/byjg2</link>
+            <guid>https://blog.mnxy.eu.org/posts/byjg/byjg2</guid>
             <pubDate>Fri, 19 Aug 2022 16:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<blockquote>
 <p>项目地址：<a href="https://github.com/MengNianxiaoyao/AlchemyStarsLauncher">https://github.com/MengNianxiaoyao/AlchemyStarsLauncher</a></p>
@@ -454,14 +462,6 @@
 <p>::: tip 说明</p>
 <p>时间截止到9月14日，4.7版本的启动器已</p>
 <br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content:encoded>
-            <author>email@mnxy.eu.org (梦念逍遥)</author>
-        </item>
-        <item>
-            <title><![CDATA[【白夜极光】免加速游戏教程，使用直连速度起飞]]></title>
-            <link>https://blog.mnxy.eu.org/posts/byjg/byjg1</link>
-            <guid>https://blog.mnxy.eu.org/posts/byjg/byjg1</guid>
-            <pubDate>Fri, 19 Aug 2022 16:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<iframe src="https://blog.mnxy.eu.org//player.bilibili.com/player.html?aid=514478015&bvid=BV1rg411k7CZ&cid=803453532&page=1<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content:encoded>
             <author>email@mnxy.eu.org (梦念逍遥)</author>
         </item>
         <item>
