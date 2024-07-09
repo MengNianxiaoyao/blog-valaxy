@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.mnxy.eu.org/</id>
     <title>梦念逍遥のBLOG</title>
-    <updated>2024-07-09T06:20:54.827Z</updated>
+    <updated>2024-07-09T07:52:38.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>梦念逍遥</name>
@@ -15,6 +15,25 @@
     <logo>https://blog.mnxy.eu.org/favicon.svg</logo>
     <icon>https://blog.mnxy.eu.orghttps://blog.mnxy.eu.org/favicon.svg</icon>
     <rights>CC BY-NC-SA 4.0 2024 © 梦念逍遥</rights>
+    <entry>
+        <title type="html"><![CDATA[赛尔号Flash页游工具使用答疑]]></title>
+        <id>https://blog.mnxy.eu.org/posts/seer/faq</id>
+        <link href="https://blog.mnxy.eu.org/posts/seer/faq"/>
+        <updated>2024-07-09T07:00:00.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p><a href="https://blog.mnxy.eu.org/posts/seer/tools">赛尔号Flash页游各种工具下载</a></p>
+</blockquote>
+<h2>chika</h2>
+<h3>flash版本过低或太旧</h3>
+<p>直接刷新看是</p>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
+        <author>
+            <name>梦念逍遥</name>
+            <email>email@mnxy.eu.org</email>
+            <uri>https://blog.mnxy.eu.org</uri>
+        </author>
+        <published>2024-07-09T07:50:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[赛尔号Flash页游各种工具下载]]></title>
         <id>https://blog.mnxy.eu.org/posts/seer/tools</id>
