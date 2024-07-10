@@ -4,7 +4,7 @@
         <title>梦念逍遥のBLOG</title>
         <link>https://blog.mnxy.eu.org/</link>
         <description>这是一个很棒的博客</description>
-        <lastBuildDate>Tue, 09 Jul 2024 13:23:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jul 2024 07:12:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -18,7 +18,7 @@
             <title><![CDATA[【个人博客网站】从零开始搭建博客网站（四）：使用Resend配置评论送信]]></title>
             <link>https://blog.mnxy.eu.org/posts/boke/boke5</link>
             <guid>https://blog.mnxy.eu.org/posts/boke/boke5</guid>
-            <pubDate>Tue, 09 Jul 2024 13:20:00 GMT</pubDate>
+            <pubDate>Wed, 10 Jul 2024 07:06:00 GMT</pubDate>
             <content:encoded><![CDATA[<h2>前言</h2>
 <p>在<a href="https://blog.mnxy.eu.org/posts/tech/email">白嫖永久无限可收发邮箱</a>中，提到了利用Gmail的smtp可以使用自定义域名作为发信邮箱。因此</p>
 <br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content:encoded>
@@ -28,13 +28,27 @@
             <title><![CDATA[赛尔号Flash页游工具使用答疑]]></title>
             <link>https://blog.mnxy.eu.org/posts/seer/faq</link>
             <guid>https://blog.mnxy.eu.org/posts/seer/faq</guid>
-            <pubDate>Tue, 09 Jul 2024 07:00:00 GMT</pubDate>
+            <pubDate>Wed, 10 Jul 2024 07:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<blockquote>
 <p><a href="https://blog.mnxy.eu.org/posts/seer/tools">赛尔号Flash页游各种工具下载</a></p>
 </blockquote>
 <h2>chika</h2>
 <h3>flash版本过低或太旧</h3>
 <p>直接刷新看是</p>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content:encoded>
+            <author>email@mnxy.eu.org (梦念逍遥)</author>
+        </item>
+        <item>
+            <title><![CDATA[白嫖Cloudflare优选IP给Vercel网站加速]]></title>
+            <link>https://blog.mnxy.eu.org/posts/tech/cdn</link>
+            <guid>https://blog.mnxy.eu.org/posts/tech/cdn</guid>
+            <pubDate>Wed, 10 Jul 2024 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>::: tip</p>
+<p>本教程参考以下内容</p>
+<blockquote>
+<p><a href="https://www.baota.me/post-411.html">CloudFlare公共优选Cname域名地址</a></p>
+<p>[CloudFlare</p>
+</blockquote>
 <br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content:encoded>
             <author>email@mnxy.eu.org (梦念逍遥)</author>
         </item>
@@ -48,20 +62,6 @@
 <p>下载链接：<a href="https://yoso.lanzouq.com/b015y77ch">https://yoso.lanzouq.com/b015y77ch</a></p>
 </blockquote>
 <p>老牌登录器，庞大</p>
-<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content:encoded>
-            <author>email@mnxy.eu.org (梦念逍遥)</author>
-        </item>
-        <item>
-            <title><![CDATA[白嫖Cloudflare优选IP给Vercel网站加速]]></title>
-            <link>https://blog.mnxy.eu.org/posts/tech/cdn</link>
-            <guid>https://blog.mnxy.eu.org/posts/tech/cdn</guid>
-            <pubDate>Fri, 05 Jul 2024 10:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[<p>::: tip</p>
-<p>本教程参考以下内容</p>
-<blockquote>
-<p><a href="https://www.baota.me/post-411.html">CloudFlare公共优选Cname域名地址</a></p>
-<p>[CloudFlare</p>
-</blockquote>
 <br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content:encoded>
             <author>email@mnxy.eu.org (梦念逍遥)</author>
         </item>
