@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.mnxy.eu.org/</id>
     <title>梦念逍遥のBLOG</title>
-    <updated>2024-07-10T07:12:07.616Z</updated>
+    <updated>2024-07-10T14:06:06.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>梦念逍遥</name>
@@ -15,6 +15,25 @@
     <logo>https://blog.mnxy.eu.org/favicon.svg</logo>
     <icon>https://blog.mnxy.eu.orghttps://blog.mnxy.eu.org/favicon.svg</icon>
     <rights>CC BY-NC-SA 4.0 2024 © 梦念逍遥</rights>
+    <entry>
+        <title type="html"><![CDATA[白嫖Cloudflare优选IP给Vercel网站加速]]></title>
+        <id>https://blog.mnxy.eu.org/posts/tech/cdn</id>
+        <link href="https://blog.mnxy.eu.org/posts/tech/cdn"/>
+        <updated>2024-07-05T10:45:00.000Z</updated>
+        <content type="html"><![CDATA[<p>::: tip</p>
+<p>本教程参考以下内容</p>
+<blockquote>
+<p><a href="https://www.baota.me/post-411.html">CloudFlare公共优选Cname域名地址</a></p>
+<p>[CloudFlare</p>
+</blockquote>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
+        <author>
+            <name>梦念逍遥</name>
+            <email>email@mnxy.eu.org</email>
+            <uri>https://blog.mnxy.eu.org</uri>
+        </author>
+        <published>2024-07-10T14:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【个人博客网站】从零开始搭建博客网站（四）：使用Resend配置评论送信]]></title>
         <id>https://blog.mnxy.eu.org/posts/boke/boke5</id>
@@ -41,25 +60,6 @@
 <h2>chika</h2>
 <h3>flash版本过低或太旧</h3>
 <p>直接刷新看是</p>
-<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
-        <author>
-            <name>梦念逍遥</name>
-            <email>email@mnxy.eu.org</email>
-            <uri>https://blog.mnxy.eu.org</uri>
-        </author>
-        <published>2024-07-10T07:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[白嫖Cloudflare优选IP给Vercel网站加速]]></title>
-        <id>https://blog.mnxy.eu.org/posts/tech/cdn</id>
-        <link href="https://blog.mnxy.eu.org/posts/tech/cdn"/>
-        <updated>2024-07-05T10:45:00.000Z</updated>
-        <content type="html"><![CDATA[<p>::: tip</p>
-<p>本教程参考以下内容</p>
-<blockquote>
-<p><a href="https://www.baota.me/post-411.html">CloudFlare公共优选Cname域名地址</a></p>
-<p>[CloudFlare</p>
-</blockquote>
 <br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
