@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.mnxy.eu.org/</id>
     <title>梦念逍遥のBLOG</title>
-    <updated>2024-07-16T06:16:06.701Z</updated>
+    <updated>2024-07-16T07:35:19.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>梦念逍遥</name>
@@ -15,6 +15,24 @@
     <logo>https://blog.mnxy.eu.org/favicon.svg</logo>
     <icon>https://blog.mnxy.eu.orghttps://blog.mnxy.eu.org/favicon.svg</icon>
     <rights>CC BY-NC-SA 4.0 2024 © 梦念逍遥</rights>
+    <entry>
+        <title type="html"><![CDATA[使用Cloudflare Workers搭建UptimeRobot官方API反代]]></title>
+        <id>https://blog.mnxy.eu.org/posts/tech/uptimeapi</id>
+        <link href="https://blog.mnxy.eu.org/posts/tech/uptimeapi"/>
+        <updated>2024-07-16T07:30:00.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>代码来源：<a href="https://github.com/yb/uptime-status">https://github.com/yb/uptime-status</a></p>
+</blockquote>
+<h2>代码</h2>
+<pre><code class="language-javascript">const handleRequest = async ({ r</code></pre>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
+        <author>
+            <name>梦念逍遥</name>
+            <email>email@mnxy.eu.org</email>
+            <uri>https://blog.mnxy.eu.org</uri>
+        </author>
+        <published>2024-07-16T07:30:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[白嫖Cloudflare优选IP给Vercel网站加速]]></title>
         <id>https://blog.mnxy.eu.org/posts/tech/cdn</id>

@@ -4,7 +4,7 @@
         <title>梦念逍遥のBLOG</title>
         <link>https://blog.mnxy.eu.org/</link>
         <description>这是一个很棒的博客</description>
-        <lastBuildDate>Tue, 16 Jul 2024 06:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jul 2024 07:35:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -14,6 +14,19 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2024 © 梦念逍遥</copyright>
         <atom:link href="https://blog.mnxy.eu.org/atom.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[使用Cloudflare Workers搭建UptimeRobot官方API反代]]></title>
+            <link>https://blog.mnxy.eu.org/posts/tech/uptimeapi</link>
+            <guid>https://blog.mnxy.eu.org/posts/tech/uptimeapi</guid>
+            <pubDate>Tue, 16 Jul 2024 07:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[<blockquote>
+<p>代码来源：<a href="https://github.com/yb/uptime-status">https://github.com/yb/uptime-status</a></p>
+</blockquote>
+<h2>代码</h2>
+<pre><code class="language-javascript">const handleRequest = async ({ r</code></pre>
+<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content:encoded>
+            <author>email@mnxy.eu.org (梦念逍遥)</author>
+        </item>
         <item>
             <title><![CDATA[白嫖Cloudflare优选IP给Vercel网站加速]]></title>
             <link>https://blog.mnxy.eu.org/posts/tech/cdn</link>
