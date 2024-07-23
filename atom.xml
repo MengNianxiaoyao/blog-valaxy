@@ -4,7 +4,7 @@
         <title>梦念逍遥のBLOG</title>
         <link>https://blog.mnxy.eu.org/</link>
         <description>这是一个很棒的博客</description>
-        <lastBuildDate>Tue, 23 Jul 2024 01:02:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jul 2024 06:48:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -113,7 +113,7 @@
             <author>email@mnxy.eu.org (梦念逍遥)</author>
         </item>
         <item>
-            <title><![CDATA[valaxy博客框架配置]]></title>
+            <title><![CDATA[Valaxy博客框架配置]]></title>
             <link>https://blog.mnxy.eu.org/posts/valaxy/config</link>
             <guid>https://blog.mnxy.eu.org/posts/valaxy/config</guid>
             <pubDate>Mon, 05 Feb 2024 13:00:00 GMT</pubDate>

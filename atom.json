@@ -110,7 +110,7 @@
             "id": "",
             "content_html": "<blockquote>\n<p>文档地址：<a href=\"https://valaxy.site/guide/config/\">https://valaxy.site/guide/config/</a></p>\n</blockquote>\n<h2>基础配置</h2>\n<p>基础配置不多说，官方文档给的还算详细</p>\n<h2>拓展配置</h2>\n<p>这里选几个来说吧</p>\n<h3>使用</h3>\n<br/><p>访问 <a href=\"\" target=\"_blank\"></a> 阅读全文。</p>",
             "url": "https://blog.mnxy.eu.org/posts/valaxy/config",
-            "title": "valaxy博客框架配置",
+            "title": "Valaxy博客框架配置",
             "date_modified": "2024-02-05T13:00:00.000Z",
             "date_published": "2024-02-05T13:00:00.000Z",
             "author": {
