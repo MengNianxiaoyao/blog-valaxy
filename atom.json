@@ -432,7 +432,7 @@
         },
         {
             "id": "",
-            "content_html": "<h2>说明</h2>\n<p>本篇是可选操作教程，为安装Hexo的后台，可方便服务器写文操作<br>\n::: tip</p>\n<p>前提条件：完成前面两篇的全部操作</p>\n<p>:::</p>\n<h2>安装后台插件</h2>\n<p>终端输入</p>\n<pre><code class=\"language-shell\">np</code></pre>\n<br/><p>访问 <a href=\"https://blog.mnxy.eu.org/posts/boke/boke3\" target=\"_blank\">https://blog.mnxy.eu.org/posts/boke/boke3</a> 阅读全文。</p>",
+            "content_html": "<h2>说明</h2>\n<p>本篇是可选操作教程，为安装Hexo的后台，可方便服务器写文操作</p>\n<p>::: tip</p>\n<p>前提条件：完成前面两篇的全部操作</p>\n<p>:::</p>\n<h2>安装后台插件</h2>\n<p>终端输入</p>\n<pre><code class=\"language-shell\">n</code></pre>\n<br/><p>访问 <a href=\"https://blog.mnxy.eu.org/posts/boke/boke3\" target=\"_blank\">https://blog.mnxy.eu.org/posts/boke/boke3</a> 阅读全文。</p>",
             "url": "https://blog.mnxy.eu.org/posts/boke/boke3",
             "title": "【个人博客网站】从零开始搭建博客网站（三）：安装后台插件",
             "date_modified": "2022-08-29T08:00:00.000Z",

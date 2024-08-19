@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.mnxy.eu.org/</id>
     <title>梦念逍遥のBLOG</title>
-    <updated>2024-08-18T23:42:35.010Z</updated>
+    <updated>2024-08-19T23:21:24.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>梦念逍遥</name>
@@ -617,13 +617,13 @@
         <link href="https://blog.mnxy.eu.org/posts/boke/boke3"/>
         <updated>2022-08-29T08:00:00.000Z</updated>
         <content type="html"><![CDATA[<h2>说明</h2>
-<p>本篇是可选操作教程，为安装Hexo的后台，可方便服务器写文操作<br>
-::: tip</p>
+<p>本篇是可选操作教程，为安装Hexo的后台，可方便服务器写文操作</p>
+<p>::: tip</p>
 <p>前提条件：完成前面两篇的全部操作</p>
 <p>:::</p>
 <h2>安装后台插件</h2>
 <p>终端输入</p>
-<pre><code class="language-shell">np</code></pre>
+<pre><code class="language-shell">n</code></pre>
 <br/><p>访问 <a href="https://blog.mnxy.eu.org/posts/boke/boke3" target="_blank">https://blog.mnxy.eu.org/posts/boke/boke3</a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
