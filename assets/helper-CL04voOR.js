@@ -1,1 +1,0 @@
-import{n as i,ak as l,al as t}from"./app-DyyUPKcg.js";function r(e){const s=i(!1),{top:n}=l(e);return t(e,([{isIntersecting:o}])=>{s.value=o}),{show:()=>{s.value||window.scrollTo(0,n.value)}}}export{r as u};
