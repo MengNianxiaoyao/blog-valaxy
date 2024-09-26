@@ -1,0 +1,1 @@
+import{l,al as i,am as t}from"./app-9K8rPuaF.js";function r(e){const s=l(!1),{top:o}=i(e);return t(e,([{isIntersecting:n}])=>{s.value=n}),{show:()=>{s.value||window.scrollTo(0,o.value)}}}export{r as u};
