@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.mnxy.eu.org/</id>
     <title>梦念逍遥のBLOG</title>
-    <updated>2024-12-29T21:04:10.254Z</updated>
+    <updated>2024-12-31T21:03:36.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>梦念逍遥</name>
@@ -14,7 +14,7 @@
     <subtitle>这是一个很棒的博客</subtitle>
     <logo>https://blog.mnxy.eu.org/favicon.svg</logo>
     <icon>https://blog.mnxy.eu.orghttps://blog.mnxy.eu.org/favicon.svg</icon>
-    <rights>CC BY-NC-SA 4.0 2024 © 梦念逍遥</rights>
+    <rights>CC BY-NC-SA 4.0 2025 © 梦念逍遥</rights>
     <entry>
         <title type="html"><![CDATA[白嫖Cloudflare优选IP给Vercel网站加速]]></title>
         <id>https://blog.mnxy.eu.org/posts/tech/cdn</id>
