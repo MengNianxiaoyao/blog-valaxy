@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.mnxy.eu.org/</id>
     <title>梦念逍遥のBLOG</title>
-    <updated>2025-04-09T09:19:55.643Z</updated>
+    <updated>2025-04-09T13:09:36.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>梦念逍遥</name>
@@ -27,6 +27,23 @@
 <h3>flash版本过低或太旧</h3>
 <p>直接刷新看是</p>
 <br/><p>访问 <a href="https://blog.mnxy.eu.org/posts/seer/faq" target="_blank">https://blog.mnxy.eu.org/posts/seer/faq</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>梦念逍遥</name>
+            <email>email@mnxy.eu.org</email>
+            <uri>https://blog.mnxy.eu.org</uri>
+        </author>
+        <published>2025-04-01T14:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[赛尔号辅助启动器]]></title>
+        <id>https://blog.mnxy.eu.org/posts/seer/launcher</id>
+        <link href="https://blog.mnxy.eu.org/posts/seer/launcher"/>
+        <updated>2025-04-01T14:30:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>简介</h2>
+<p>你是否因为辅助程序的文件过多而浪费大量时间去寻找本体程序？你是否因为辅助程序所在位置不同而要去浪费时间寻找？现在<code>赛尔号辅助启动器</code>就可以解决这些问题！</p>
+<h2>功能介绍</h2>
+<h4>关</h4>
+<br/><p>访问 <a href="https://blog.mnxy.eu.org/posts/seer/launcher" target="_blank">https://blog.mnxy.eu.org/posts/seer/launcher</a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
             <email>email@mnxy.eu.org</email>
