@@ -42,136 +42,10 @@
     "/assets/animation.BmKSPrMr.js"
   ],
   "../../../../../../\u0000/home/runner/work/blog/blog/node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js?commonjs-es-import": [
-    "/assets/chunks/nprogress.D5EDvs9V.js"
+    "/assets/chunks/nprogress.Bmgvrz1e.js"
   ],
   "../../../../../../\u0000/home/runner/work/blog/blog/node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js?commonjs-module": [
-    "/assets/chunks/nprogress.D5EDvs9V.js"
-  ],
-  "../../../../../../\u0000/home/runner/work/blog/blog/node_modules/.pnpm/sdp@3.2.0/node_modules/sdp/sdp.js?commonjs-es-import": [
-    "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
-    "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
-    "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
-    "/assets/KaTeX_Caligraphic-Bold.Dq_IR9rO.woff2",
-    "/assets/KaTeX_Caligraphic-Bold.BEiXGLvX.woff",
-    "/assets/KaTeX_Caligraphic-Bold.ATXxdsX0.ttf",
-    "/assets/KaTeX_Caligraphic-Regular.Di6jR-x-.woff2",
-    "/assets/KaTeX_Caligraphic-Regular.CTRA-rTL.woff",
-    "/assets/KaTeX_Caligraphic-Regular.wX97UBjC.ttf",
-    "/assets/KaTeX_Fraktur-Bold.CL6g_b3V.woff2",
-    "/assets/KaTeX_Fraktur-Bold.BsDP51OF.woff",
-    "/assets/KaTeX_Fraktur-Bold.BdnERNNW.ttf",
-    "/assets/KaTeX_Fraktur-Regular.CTYiF6lA.woff2",
-    "/assets/KaTeX_Fraktur-Regular.Dxdc4cR9.woff",
-    "/assets/KaTeX_Fraktur-Regular.CB_wures.ttf",
-    "/assets/KaTeX_Main-Bold.Cx986IdX.woff2",
-    "/assets/KaTeX_Main-Bold.Jm3AIy58.woff",
-    "/assets/KaTeX_Main-Bold.waoOVXN0.ttf",
-    "/assets/KaTeX_Main-BoldItalic.DxDJ3AOS.woff2",
-    "/assets/KaTeX_Main-BoldItalic.SpSLRI95.woff",
-    "/assets/KaTeX_Main-BoldItalic.DzxPMmG6.ttf",
-    "/assets/KaTeX_Main-Italic.NWA7e6Wa.woff2",
-    "/assets/KaTeX_Main-Italic.BMLOBm91.woff",
-    "/assets/KaTeX_Main-Italic.3WenGoN9.ttf",
-    "/assets/KaTeX_Main-Regular.B22Nviop.woff2",
-    "/assets/KaTeX_Main-Regular.Dr94JaBh.woff",
-    "/assets/KaTeX_Main-Regular.ypZvNtVU.ttf",
-    "/assets/KaTeX_Math-BoldItalic.CZnvNsCZ.woff2",
-    "/assets/KaTeX_Math-BoldItalic.iY-2wyZ7.woff",
-    "/assets/KaTeX_Math-BoldItalic.B3XSjfu4.ttf",
-    "/assets/KaTeX_Math-Italic.t53AETM-.woff2",
-    "/assets/KaTeX_Math-Italic.DA0__PXp.woff",
-    "/assets/KaTeX_Math-Italic.flOr_0UB.ttf",
-    "/assets/KaTeX_SansSerif-Bold.D1sUS0GD.woff2",
-    "/assets/KaTeX_SansSerif-Bold.DbIhKOiC.woff",
-    "/assets/KaTeX_SansSerif-Bold.CFMepnvq.ttf",
-    "/assets/KaTeX_SansSerif-Italic.C3H0VqGB.woff2",
-    "/assets/KaTeX_SansSerif-Italic.DN2j7dab.woff",
-    "/assets/KaTeX_SansSerif-Italic.YYjJ1zSn.ttf",
-    "/assets/KaTeX_SansSerif-Regular.DDBCnlJ7.woff2",
-    "/assets/KaTeX_SansSerif-Regular.CS6fqUqJ.woff",
-    "/assets/KaTeX_SansSerif-Regular.BNo7hRIc.ttf",
-    "/assets/KaTeX_Script-Regular.D3wIWfF6.woff2",
-    "/assets/KaTeX_Script-Regular.D5yQViql.woff",
-    "/assets/KaTeX_Script-Regular.C5JkGWo-.ttf",
-    "/assets/KaTeX_Size1-Regular.mCD8mA8B.woff2",
-    "/assets/KaTeX_Size1-Regular.C195tn64.woff",
-    "/assets/KaTeX_Size1-Regular.Dbsnue_I.ttf",
-    "/assets/KaTeX_Size2-Regular.Dy4dx90m.woff2",
-    "/assets/KaTeX_Size2-Regular.oD1tc_U0.woff",
-    "/assets/KaTeX_Size2-Regular.B7gKUWhC.ttf",
-    "/assets/KaTeX_Size3-Regular.CTq5MqoE.woff",
-    "/assets/KaTeX_Size3-Regular.DgpXs0kz.ttf",
-    "/assets/KaTeX_Size4-Regular.Dl5lxZxV.woff2",
-    "/assets/KaTeX_Size4-Regular.BF-4gkZK.woff",
-    "/assets/KaTeX_Size4-Regular.DWFBv043.ttf",
-    "/assets/KaTeX_Typewriter-Regular.CO6r4hn1.woff2",
-    "/assets/KaTeX_Typewriter-Regular.C0xS9mPB.woff",
-    "/assets/KaTeX_Typewriter-Regular.D3Ib7_Hf.ttf",
-    "/assets/bg-img.kXdNMxcF.jpg",
-    "/assets/sidebar-bg-img.mp54gEws.webp"
-  ],
-  "../../../../../../\u0000/home/runner/work/blog/blog/node_modules/.pnpm/sdp@3.2.0/node_modules/sdp/sdp.js?commonjs-module": [
-    "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
-    "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
-    "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
-    "/assets/KaTeX_Caligraphic-Bold.Dq_IR9rO.woff2",
-    "/assets/KaTeX_Caligraphic-Bold.BEiXGLvX.woff",
-    "/assets/KaTeX_Caligraphic-Bold.ATXxdsX0.ttf",
-    "/assets/KaTeX_Caligraphic-Regular.Di6jR-x-.woff2",
-    "/assets/KaTeX_Caligraphic-Regular.CTRA-rTL.woff",
-    "/assets/KaTeX_Caligraphic-Regular.wX97UBjC.ttf",
-    "/assets/KaTeX_Fraktur-Bold.CL6g_b3V.woff2",
-    "/assets/KaTeX_Fraktur-Bold.BsDP51OF.woff",
-    "/assets/KaTeX_Fraktur-Bold.BdnERNNW.ttf",
-    "/assets/KaTeX_Fraktur-Regular.CTYiF6lA.woff2",
-    "/assets/KaTeX_Fraktur-Regular.Dxdc4cR9.woff",
-    "/assets/KaTeX_Fraktur-Regular.CB_wures.ttf",
-    "/assets/KaTeX_Main-Bold.Cx986IdX.woff2",
-    "/assets/KaTeX_Main-Bold.Jm3AIy58.woff",
-    "/assets/KaTeX_Main-Bold.waoOVXN0.ttf",
-    "/assets/KaTeX_Main-BoldItalic.DxDJ3AOS.woff2",
-    "/assets/KaTeX_Main-BoldItalic.SpSLRI95.woff",
-    "/assets/KaTeX_Main-BoldItalic.DzxPMmG6.ttf",
-    "/assets/KaTeX_Main-Italic.NWA7e6Wa.woff2",
-    "/assets/KaTeX_Main-Italic.BMLOBm91.woff",
-    "/assets/KaTeX_Main-Italic.3WenGoN9.ttf",
-    "/assets/KaTeX_Main-Regular.B22Nviop.woff2",
-    "/assets/KaTeX_Main-Regular.Dr94JaBh.woff",
-    "/assets/KaTeX_Main-Regular.ypZvNtVU.ttf",
-    "/assets/KaTeX_Math-BoldItalic.CZnvNsCZ.woff2",
-    "/assets/KaTeX_Math-BoldItalic.iY-2wyZ7.woff",
-    "/assets/KaTeX_Math-BoldItalic.B3XSjfu4.ttf",
-    "/assets/KaTeX_Math-Italic.t53AETM-.woff2",
-    "/assets/KaTeX_Math-Italic.DA0__PXp.woff",
-    "/assets/KaTeX_Math-Italic.flOr_0UB.ttf",
-    "/assets/KaTeX_SansSerif-Bold.D1sUS0GD.woff2",
-    "/assets/KaTeX_SansSerif-Bold.DbIhKOiC.woff",
-    "/assets/KaTeX_SansSerif-Bold.CFMepnvq.ttf",
-    "/assets/KaTeX_SansSerif-Italic.C3H0VqGB.woff2",
-    "/assets/KaTeX_SansSerif-Italic.DN2j7dab.woff",
-    "/assets/KaTeX_SansSerif-Italic.YYjJ1zSn.ttf",
-    "/assets/KaTeX_SansSerif-Regular.DDBCnlJ7.woff2",
-    "/assets/KaTeX_SansSerif-Regular.CS6fqUqJ.woff",
-    "/assets/KaTeX_SansSerif-Regular.BNo7hRIc.ttf",
-    "/assets/KaTeX_Script-Regular.D3wIWfF6.woff2",
-    "/assets/KaTeX_Script-Regular.D5yQViql.woff",
-    "/assets/KaTeX_Script-Regular.C5JkGWo-.ttf",
-    "/assets/KaTeX_Size1-Regular.mCD8mA8B.woff2",
-    "/assets/KaTeX_Size1-Regular.C195tn64.woff",
-    "/assets/KaTeX_Size1-Regular.Dbsnue_I.ttf",
-    "/assets/KaTeX_Size2-Regular.Dy4dx90m.woff2",
-    "/assets/KaTeX_Size2-Regular.oD1tc_U0.woff",
-    "/assets/KaTeX_Size2-Regular.B7gKUWhC.ttf",
-    "/assets/KaTeX_Size3-Regular.CTq5MqoE.woff",
-    "/assets/KaTeX_Size3-Regular.DgpXs0kz.ttf",
-    "/assets/KaTeX_Size4-Regular.Dl5lxZxV.woff2",
-    "/assets/KaTeX_Size4-Regular.BF-4gkZK.woff",
-    "/assets/KaTeX_Size4-Regular.DWFBv043.ttf",
-    "/assets/KaTeX_Typewriter-Regular.CO6r4hn1.woff2",
-    "/assets/KaTeX_Typewriter-Regular.C0xS9mPB.woff",
-    "/assets/KaTeX_Typewriter-Regular.D3Ib7_Hf.ttf",
-    "/assets/bg-img.kXdNMxcF.jpg",
-    "/assets/sidebar-bg-img.mp54gEws.webp"
+    "/assets/chunks/nprogress.Bmgvrz1e.js"
   ],
   "../../../../../../\u0000commonjsHelpers.js": [
     "/assets/chunks/dayjs.Byk5cVHE.js"
@@ -567,7 +441,7 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "../../../../../../../../../../../__/vue-router/auto/route-block": [
-    "/assets/chunks/vue-router.C2zzJYG-.js"
+    "/assets/chunks/vue-router.BkcolTQi.js"
   ],
   "../../../../../../../../../../../__uno.css": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
@@ -633,7 +507,7 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "../../../../../../../../../../../__vue-router/auto-routes": [
-    "/assets/chunks/vue-router.C2zzJYG-.js"
+    "/assets/chunks/vue-router.BkcolTQi.js"
   ],
   "../../../../../../App.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
@@ -825,7 +699,7 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "../../../../../../components/YunPostMeta.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/YunPostMeta.vue_vue_type_script_setup_true_lang.C8IVTKnq.js",
+    "/assets/YunPostMeta.vue_vue_type_script_setup_true_lang.C8os6dl8.js",
     "/assets/YunPostMeta.DCrVMfuT.css"
   ],
   "../../../../../../locales/en.yml": [
@@ -954,349 +828,160 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../../../packages/valaxy-addon-vercount/client/composable.ts": [
-    "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
-    "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
-    "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
-    "/assets/KaTeX_Caligraphic-Bold.Dq_IR9rO.woff2",
-    "/assets/KaTeX_Caligraphic-Bold.BEiXGLvX.woff",
-    "/assets/KaTeX_Caligraphic-Bold.ATXxdsX0.ttf",
-    "/assets/KaTeX_Caligraphic-Regular.Di6jR-x-.woff2",
-    "/assets/KaTeX_Caligraphic-Regular.CTRA-rTL.woff",
-    "/assets/KaTeX_Caligraphic-Regular.wX97UBjC.ttf",
-    "/assets/KaTeX_Fraktur-Bold.CL6g_b3V.woff2",
-    "/assets/KaTeX_Fraktur-Bold.BsDP51OF.woff",
-    "/assets/KaTeX_Fraktur-Bold.BdnERNNW.ttf",
-    "/assets/KaTeX_Fraktur-Regular.CTYiF6lA.woff2",
-    "/assets/KaTeX_Fraktur-Regular.Dxdc4cR9.woff",
-    "/assets/KaTeX_Fraktur-Regular.CB_wures.ttf",
-    "/assets/KaTeX_Main-Bold.Cx986IdX.woff2",
-    "/assets/KaTeX_Main-Bold.Jm3AIy58.woff",
-    "/assets/KaTeX_Main-Bold.waoOVXN0.ttf",
-    "/assets/KaTeX_Main-BoldItalic.DxDJ3AOS.woff2",
-    "/assets/KaTeX_Main-BoldItalic.SpSLRI95.woff",
-    "/assets/KaTeX_Main-BoldItalic.DzxPMmG6.ttf",
-    "/assets/KaTeX_Main-Italic.NWA7e6Wa.woff2",
-    "/assets/KaTeX_Main-Italic.BMLOBm91.woff",
-    "/assets/KaTeX_Main-Italic.3WenGoN9.ttf",
-    "/assets/KaTeX_Main-Regular.B22Nviop.woff2",
-    "/assets/KaTeX_Main-Regular.Dr94JaBh.woff",
-    "/assets/KaTeX_Main-Regular.ypZvNtVU.ttf",
-    "/assets/KaTeX_Math-BoldItalic.CZnvNsCZ.woff2",
-    "/assets/KaTeX_Math-BoldItalic.iY-2wyZ7.woff",
-    "/assets/KaTeX_Math-BoldItalic.B3XSjfu4.ttf",
-    "/assets/KaTeX_Math-Italic.t53AETM-.woff2",
-    "/assets/KaTeX_Math-Italic.DA0__PXp.woff",
-    "/assets/KaTeX_Math-Italic.flOr_0UB.ttf",
-    "/assets/KaTeX_SansSerif-Bold.D1sUS0GD.woff2",
-    "/assets/KaTeX_SansSerif-Bold.DbIhKOiC.woff",
-    "/assets/KaTeX_SansSerif-Bold.CFMepnvq.ttf",
-    "/assets/KaTeX_SansSerif-Italic.C3H0VqGB.woff2",
-    "/assets/KaTeX_SansSerif-Italic.DN2j7dab.woff",
-    "/assets/KaTeX_SansSerif-Italic.YYjJ1zSn.ttf",
-    "/assets/KaTeX_SansSerif-Regular.DDBCnlJ7.woff2",
-    "/assets/KaTeX_SansSerif-Regular.CS6fqUqJ.woff",
-    "/assets/KaTeX_SansSerif-Regular.BNo7hRIc.ttf",
-    "/assets/KaTeX_Script-Regular.D3wIWfF6.woff2",
-    "/assets/KaTeX_Script-Regular.D5yQViql.woff",
-    "/assets/KaTeX_Script-Regular.C5JkGWo-.ttf",
-    "/assets/KaTeX_Size1-Regular.mCD8mA8B.woff2",
-    "/assets/KaTeX_Size1-Regular.C195tn64.woff",
-    "/assets/KaTeX_Size1-Regular.Dbsnue_I.ttf",
-    "/assets/KaTeX_Size2-Regular.Dy4dx90m.woff2",
-    "/assets/KaTeX_Size2-Regular.oD1tc_U0.woff",
-    "/assets/KaTeX_Size2-Regular.B7gKUWhC.ttf",
-    "/assets/KaTeX_Size3-Regular.CTq5MqoE.woff",
-    "/assets/KaTeX_Size3-Regular.DgpXs0kz.ttf",
-    "/assets/KaTeX_Size4-Regular.Dl5lxZxV.woff2",
-    "/assets/KaTeX_Size4-Regular.BF-4gkZK.woff",
-    "/assets/KaTeX_Size4-Regular.DWFBv043.ttf",
-    "/assets/KaTeX_Typewriter-Regular.CO6r4hn1.woff2",
-    "/assets/KaTeX_Typewriter-Regular.C0xS9mPB.woff",
-    "/assets/KaTeX_Typewriter-Regular.D3Ib7_Hf.ttf",
-    "/assets/bg-img.kXdNMxcF.jpg",
-    "/assets/sidebar-bg-img.mp54gEws.webp"
-  ],
-  "../../../../../../packages/valaxy-addon-vercount/client/options.ts": [
-    "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
-    "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
-    "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
-    "/assets/KaTeX_Caligraphic-Bold.Dq_IR9rO.woff2",
-    "/assets/KaTeX_Caligraphic-Bold.BEiXGLvX.woff",
-    "/assets/KaTeX_Caligraphic-Bold.ATXxdsX0.ttf",
-    "/assets/KaTeX_Caligraphic-Regular.Di6jR-x-.woff2",
-    "/assets/KaTeX_Caligraphic-Regular.CTRA-rTL.woff",
-    "/assets/KaTeX_Caligraphic-Regular.wX97UBjC.ttf",
-    "/assets/KaTeX_Fraktur-Bold.CL6g_b3V.woff2",
-    "/assets/KaTeX_Fraktur-Bold.BsDP51OF.woff",
-    "/assets/KaTeX_Fraktur-Bold.BdnERNNW.ttf",
-    "/assets/KaTeX_Fraktur-Regular.CTYiF6lA.woff2",
-    "/assets/KaTeX_Fraktur-Regular.Dxdc4cR9.woff",
-    "/assets/KaTeX_Fraktur-Regular.CB_wures.ttf",
-    "/assets/KaTeX_Main-Bold.Cx986IdX.woff2",
-    "/assets/KaTeX_Main-Bold.Jm3AIy58.woff",
-    "/assets/KaTeX_Main-Bold.waoOVXN0.ttf",
-    "/assets/KaTeX_Main-BoldItalic.DxDJ3AOS.woff2",
-    "/assets/KaTeX_Main-BoldItalic.SpSLRI95.woff",
-    "/assets/KaTeX_Main-BoldItalic.DzxPMmG6.ttf",
-    "/assets/KaTeX_Main-Italic.NWA7e6Wa.woff2",
-    "/assets/KaTeX_Main-Italic.BMLOBm91.woff",
-    "/assets/KaTeX_Main-Italic.3WenGoN9.ttf",
-    "/assets/KaTeX_Main-Regular.B22Nviop.woff2",
-    "/assets/KaTeX_Main-Regular.Dr94JaBh.woff",
-    "/assets/KaTeX_Main-Regular.ypZvNtVU.ttf",
-    "/assets/KaTeX_Math-BoldItalic.CZnvNsCZ.woff2",
-    "/assets/KaTeX_Math-BoldItalic.iY-2wyZ7.woff",
-    "/assets/KaTeX_Math-BoldItalic.B3XSjfu4.ttf",
-    "/assets/KaTeX_Math-Italic.t53AETM-.woff2",
-    "/assets/KaTeX_Math-Italic.DA0__PXp.woff",
-    "/assets/KaTeX_Math-Italic.flOr_0UB.ttf",
-    "/assets/KaTeX_SansSerif-Bold.D1sUS0GD.woff2",
-    "/assets/KaTeX_SansSerif-Bold.DbIhKOiC.woff",
-    "/assets/KaTeX_SansSerif-Bold.CFMepnvq.ttf",
-    "/assets/KaTeX_SansSerif-Italic.C3H0VqGB.woff2",
-    "/assets/KaTeX_SansSerif-Italic.DN2j7dab.woff",
-    "/assets/KaTeX_SansSerif-Italic.YYjJ1zSn.ttf",
-    "/assets/KaTeX_SansSerif-Regular.DDBCnlJ7.woff2",
-    "/assets/KaTeX_SansSerif-Regular.CS6fqUqJ.woff",
-    "/assets/KaTeX_SansSerif-Regular.BNo7hRIc.ttf",
-    "/assets/KaTeX_Script-Regular.D3wIWfF6.woff2",
-    "/assets/KaTeX_Script-Regular.D5yQViql.woff",
-    "/assets/KaTeX_Script-Regular.C5JkGWo-.ttf",
-    "/assets/KaTeX_Size1-Regular.mCD8mA8B.woff2",
-    "/assets/KaTeX_Size1-Regular.C195tn64.woff",
-    "/assets/KaTeX_Size1-Regular.Dbsnue_I.ttf",
-    "/assets/KaTeX_Size2-Regular.Dy4dx90m.woff2",
-    "/assets/KaTeX_Size2-Regular.oD1tc_U0.woff",
-    "/assets/KaTeX_Size2-Regular.B7gKUWhC.ttf",
-    "/assets/KaTeX_Size3-Regular.CTq5MqoE.woff",
-    "/assets/KaTeX_Size3-Regular.DgpXs0kz.ttf",
-    "/assets/KaTeX_Size4-Regular.Dl5lxZxV.woff2",
-    "/assets/KaTeX_Size4-Regular.BF-4gkZK.woff",
-    "/assets/KaTeX_Size4-Regular.DWFBv043.ttf",
-    "/assets/KaTeX_Typewriter-Regular.CO6r4hn1.woff2",
-    "/assets/KaTeX_Typewriter-Regular.C0xS9mPB.woff",
-    "/assets/KaTeX_Typewriter-Regular.D3Ib7_Hf.ttf",
-    "/assets/bg-img.kXdNMxcF.jpg",
-    "/assets/sidebar-bg-img.mp54gEws.webp"
-  ],
-  "../../../../../../packages/valaxy-addon-vercount/helpers/oneline.ts": [
-    "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
-    "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
-    "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
-    "/assets/KaTeX_Caligraphic-Bold.Dq_IR9rO.woff2",
-    "/assets/KaTeX_Caligraphic-Bold.BEiXGLvX.woff",
-    "/assets/KaTeX_Caligraphic-Bold.ATXxdsX0.ttf",
-    "/assets/KaTeX_Caligraphic-Regular.Di6jR-x-.woff2",
-    "/assets/KaTeX_Caligraphic-Regular.CTRA-rTL.woff",
-    "/assets/KaTeX_Caligraphic-Regular.wX97UBjC.ttf",
-    "/assets/KaTeX_Fraktur-Bold.CL6g_b3V.woff2",
-    "/assets/KaTeX_Fraktur-Bold.BsDP51OF.woff",
-    "/assets/KaTeX_Fraktur-Bold.BdnERNNW.ttf",
-    "/assets/KaTeX_Fraktur-Regular.CTYiF6lA.woff2",
-    "/assets/KaTeX_Fraktur-Regular.Dxdc4cR9.woff",
-    "/assets/KaTeX_Fraktur-Regular.CB_wures.ttf",
-    "/assets/KaTeX_Main-Bold.Cx986IdX.woff2",
-    "/assets/KaTeX_Main-Bold.Jm3AIy58.woff",
-    "/assets/KaTeX_Main-Bold.waoOVXN0.ttf",
-    "/assets/KaTeX_Main-BoldItalic.DxDJ3AOS.woff2",
-    "/assets/KaTeX_Main-BoldItalic.SpSLRI95.woff",
-    "/assets/KaTeX_Main-BoldItalic.DzxPMmG6.ttf",
-    "/assets/KaTeX_Main-Italic.NWA7e6Wa.woff2",
-    "/assets/KaTeX_Main-Italic.BMLOBm91.woff",
-    "/assets/KaTeX_Main-Italic.3WenGoN9.ttf",
-    "/assets/KaTeX_Main-Regular.B22Nviop.woff2",
-    "/assets/KaTeX_Main-Regular.Dr94JaBh.woff",
-    "/assets/KaTeX_Main-Regular.ypZvNtVU.ttf",
-    "/assets/KaTeX_Math-BoldItalic.CZnvNsCZ.woff2",
-    "/assets/KaTeX_Math-BoldItalic.iY-2wyZ7.woff",
-    "/assets/KaTeX_Math-BoldItalic.B3XSjfu4.ttf",
-    "/assets/KaTeX_Math-Italic.t53AETM-.woff2",
-    "/assets/KaTeX_Math-Italic.DA0__PXp.woff",
-    "/assets/KaTeX_Math-Italic.flOr_0UB.ttf",
-    "/assets/KaTeX_SansSerif-Bold.D1sUS0GD.woff2",
-    "/assets/KaTeX_SansSerif-Bold.DbIhKOiC.woff",
-    "/assets/KaTeX_SansSerif-Bold.CFMepnvq.ttf",
-    "/assets/KaTeX_SansSerif-Italic.C3H0VqGB.woff2",
-    "/assets/KaTeX_SansSerif-Italic.DN2j7dab.woff",
-    "/assets/KaTeX_SansSerif-Italic.YYjJ1zSn.ttf",
-    "/assets/KaTeX_SansSerif-Regular.DDBCnlJ7.woff2",
-    "/assets/KaTeX_SansSerif-Regular.CS6fqUqJ.woff",
-    "/assets/KaTeX_SansSerif-Regular.BNo7hRIc.ttf",
-    "/assets/KaTeX_Script-Regular.D3wIWfF6.woff2",
-    "/assets/KaTeX_Script-Regular.D5yQViql.woff",
-    "/assets/KaTeX_Script-Regular.C5JkGWo-.ttf",
-    "/assets/KaTeX_Size1-Regular.mCD8mA8B.woff2",
-    "/assets/KaTeX_Size1-Regular.C195tn64.woff",
-    "/assets/KaTeX_Size1-Regular.Dbsnue_I.ttf",
-    "/assets/KaTeX_Size2-Regular.Dy4dx90m.woff2",
-    "/assets/KaTeX_Size2-Regular.oD1tc_U0.woff",
-    "/assets/KaTeX_Size2-Regular.B7gKUWhC.ttf",
-    "/assets/KaTeX_Size3-Regular.CTq5MqoE.woff",
-    "/assets/KaTeX_Size3-Regular.DgpXs0kz.ttf",
-    "/assets/KaTeX_Size4-Regular.Dl5lxZxV.woff2",
-    "/assets/KaTeX_Size4-Regular.BF-4gkZK.woff",
-    "/assets/KaTeX_Size4-Regular.DWFBv043.ttf",
-    "/assets/KaTeX_Typewriter-Regular.CO6r4hn1.woff2",
-    "/assets/KaTeX_Typewriter-Regular.C0xS9mPB.woff",
-    "/assets/KaTeX_Typewriter-Regular.D3Ib7_Hf.ttf",
-    "/assets/bg-img.kXdNMxcF.jpg",
-    "/assets/sidebar-bg-img.mp54gEws.webp"
-  ],
   "../../../../../../pages/404.md": [
-    "/assets/404.CznnJHZq.js"
+    "/assets/404.B6r9vQ2b.js"
   ],
   "../../../../../../pages/about/index.md": [
-    "/assets/index._ozXrCKZ.js"
+    "/assets/index.fmb9UiZA.js"
   ],
   "../../../../../../pages/about/site.md": [
-    "/assets/site.BVGAkDRh.js"
+    "/assets/site.C8m-JMw1.js"
   ],
   "../../../../../../pages/archives/index.md": [
-    "/assets/index.DavO3kQ9.js"
+    "/assets/index.CZuV86pv.js"
   ],
   "../../../../../../pages/bangumi/index.md": [
-    "/assets/index.BKow-ACK.js",
+    "/assets/index.BzjQux54.js",
     "/assets/index.Cch_mg4D.css"
   ],
   "../../../../../../pages/categories/index.md": [
-    "/assets/index._CBfWQje.js"
+    "/assets/index.BU9mwnH2.js"
   ],
   "../../../../../../pages/comments/index.md": [
-    "/assets/index.1mSeAUJV.js"
+    "/assets/index.CaPFBI7C.js"
   ],
   "../../../../../../pages/links/index.md": [
-    "/assets/index.DcfGn8Ue.js",
+    "/assets/index.Cx7WbAUN.js",
     "/assets/index.DfXt1eUW.css"
   ],
   "../../../../../../pages/posts/boke/boke1.md": [
-    "/assets/boke1.C0zJY0FJ.js"
+    "/assets/boke1.CoQBh551.js"
   ],
   "../../../../../../pages/posts/boke/boke2.md": [
-    "/assets/boke2.CaAgda5E.js"
+    "/assets/boke2.ChXqlM8g.js"
   ],
   "../../../../../../pages/posts/boke/boke3.md": [
-    "/assets/boke3.uchTT9yP.js"
+    "/assets/boke3.CrFNS_Bd.js"
   ],
   "../../../../../../pages/posts/boke/boke4.md": [
-    "/assets/boke4.C2BfRe7n.js"
+    "/assets/boke4.DqnFJ3yn.js"
   ],
   "../../../../../../pages/posts/boke/boke5.md": [
-    "/assets/boke5.BUY5-m1k.js"
+    "/assets/boke5.B0pnuvMT.js"
   ],
   "../../../../../../pages/posts/byjg/byjg1.md": [
-    "/assets/byjg1.yrNGYwY_.js"
+    "/assets/byjg1.Cq60PPik.js"
   ],
   "../../../../../../pages/posts/byjg/byjg2.md": [
-    "/assets/byjg2.Dt0K4bbw.js"
+    "/assets/byjg2.DNszJZ-s.js"
   ],
   "../../../../../../pages/posts/byjg/byjg3.md": [
-    "/assets/byjg3.0qpuC1iI.js"
+    "/assets/byjg3.BxIbS1R9.js"
   ],
   "../../../../../../pages/posts/meihua/meihua.md": [
-    "/assets/meihua.DQ9qvjkS.js"
+    "/assets/meihua.CZ2DuFM3.js"
   ],
   "../../../../../../pages/posts/meihua/meihua1.md": [
-    "/assets/meihua1.EWXMAObU.js"
+    "/assets/meihua1.BnD7STGe.js"
   ],
   "../../../../../../pages/posts/meihua/meihua10.md": [
-    "/assets/meihua10.BUmiJV0X.js"
+    "/assets/meihua10.BzD9CVX2.js"
   ],
   "../../../../../../pages/posts/meihua/meihua11.md": [
-    "/assets/meihua11.CLbfur7f.js"
+    "/assets/meihua11.BZgCK8Xb.js"
   ],
   "../../../../../../pages/posts/meihua/meihua2.md": [
-    "/assets/meihua2.r11Hzcra.js"
+    "/assets/meihua2.B7iSJ7ML.js"
   ],
   "../../../../../../pages/posts/meihua/meihua3.md": [
-    "/assets/meihua3.Cg_90u2b.js"
+    "/assets/meihua3.D3c83kvi.js"
   ],
   "../../../../../../pages/posts/meihua/meihua4.md": [
-    "/assets/meihua4.B0_G23E5.js"
+    "/assets/meihua4.DC2x62Ej.js"
   ],
   "../../../../../../pages/posts/meihua/meihua5.md": [
-    "/assets/meihua5.C18uFnc8.js"
+    "/assets/meihua5.BvTtC0pu.js"
   ],
   "../../../../../../pages/posts/meihua/meihua6.md": [
-    "/assets/meihua6.Cxv04n8l.js"
+    "/assets/meihua6.BqGtabk1.js"
   ],
   "../../../../../../pages/posts/meihua/meihua7.md": [
-    "/assets/meihua7.HeVawjlg.js"
+    "/assets/meihua7.1N2tSq7C.js"
   ],
   "../../../../../../pages/posts/meihua/meihua8.md": [
-    "/assets/meihua8.C57ddvNf.js"
+    "/assets/meihua8.Dbl97N4p.js"
   ],
   "../../../../../../pages/posts/meihua/meihua9.md": [
-    "/assets/meihua9.hSfUIpee.js"
+    "/assets/meihua9.BThTigp0.js"
   ],
   "../../../../../../pages/posts/novelai/novelai.md": [
-    "/assets/novelai.Dpa_BPDs.js"
+    "/assets/novelai.CqbvNRCE.js"
   ],
   "../../../../../../pages/posts/novelai/novelai1.md": [
-    "/assets/novelai1.S7rVt5ti.js"
+    "/assets/novelai1.CNYcKEGR.js"
   ],
   "../../../../../../pages/posts/novelai/novelai2.md": [
-    "/assets/novelai2.CLD4srt-.js"
+    "/assets/novelai2.hFsCaPb0.js"
   ],
   "../../../../../../pages/posts/other/baodao.md": [
-    "/assets/baodao.CBtn4Lb8.js"
+    "/assets/baodao.DyA0PqqQ.js"
   ],
   "../../../../../../pages/posts/other/welcome.md": [
-    "/assets/welcome.DqFfVNbC.js"
+    "/assets/welcome.Da1257mX.js"
   ],
   "../../../../../../pages/posts/seer/faq.md": [
-    "/assets/faq.CQreqtX2.js"
+    "/assets/faq.Db4y93Dq.js"
   ],
   "../../../../../../pages/posts/seer/tools.md": [
-    "/assets/tools.BJub6K8r.js"
+    "/assets/tools.D2dwCTch.js"
   ],
   "../../../../../../pages/posts/source/source1.md": [
-    "/assets/source1.COsAmfsJ.js"
+    "/assets/source1.oEJ6N8Zq.js"
   ],
   "../../../../../../pages/posts/source/source2.md": [
-    "/assets/source2.IhIS8zUm.js"
+    "/assets/source2.CeaSfWlz.js"
   ],
   "../../../../../../pages/posts/tech/cdn.md": [
-    "/assets/cdn.L_1PJvku.js"
+    "/assets/cdn.Z3k49O7v.js"
   ],
   "../../../../../../pages/posts/tech/domain.md": [
-    "/assets/domain.cWII8Viw.js"
+    "/assets/domain.9OJPubWp.js"
   ],
   "../../../../../../pages/posts/tech/email.md": [
-    "/assets/email.wF_Mzn9c.js"
+    "/assets/email.39xPlCIr.js"
   ],
   "../../../../../../pages/posts/tech/ghproxy.md": [
-    "/assets/ghproxy.B3n-xo27.js"
+    "/assets/ghproxy.HC9DZHP2.js"
   ],
   "../../../../../../pages/posts/tech/image.md": [
-    "/assets/image.rrSh9jcu.js"
+    "/assets/image.2wiyrafT.js"
   ],
   "../../../../../../pages/posts/tech/lyq.md": [
-    "/assets/lyq.BAnc85y-.js"
+    "/assets/lyq.CZr_Zoff.js"
   ],
   "../../../../../../pages/posts/tech/ohook.md": [
-    "/assets/ohook.R0-qrJ9N.js"
+    "/assets/ohook.B4V7efP5.js"
   ],
   "../../../../../../pages/posts/tech/reader.md": [
-    "/assets/reader.PLdrDKGQ.js"
+    "/assets/reader.CVYsbGIX.js"
   ],
   "../../../../../../pages/posts/tech/typora.md": [
-    "/assets/typora.DNZfTNxb.js"
+    "/assets/typora.hei_oKCH.js"
   ],
   "../../../../../../pages/posts/tech/uptime.md": [
-    "/assets/uptime.CbNn7HBs.js"
+    "/assets/uptime.Bb0FVoW5.js"
   ],
   "../../../../../../pages/posts/tech/uptimeapi.md": [
-    "/assets/uptimeapi.Rjkr4LAb.js"
+    "/assets/uptimeapi.ChfgUfVM.js"
   ],
   "../../../../../../pages/posts/valaxy/config.md": [
-    "/assets/config.D5h4sPZo.js"
+    "/assets/config.C6-w_wRR.js"
   ],
   "../../../../../../pages/privacy/index.md": [
-    "/assets/index.B8v78vXC.js"
+    "/assets/index.I3B9v5HV.js"
   ],
   "../../../../../../pages/tags/index.md": [
-    "/assets/index.BffDnXjd.js"
+    "/assets/index.uV5qn1yD.js"
   ],
   "../../../../../../setup/main.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
@@ -3261,10 +2946,10 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "../../../../@vercel+analytics@1.5.0_vue-router@4.5.0_vue@3.5.13_typescript@5.8.3___vue@3.5.13_typescript@5.8.3_/node_modules/@vercel/analytics/dist/index.mjs": [
-    "/assets/chunks/vue-router.C2zzJYG-.js"
+    "/assets/chunks/vue-router.BkcolTQi.js"
   ],
   "../../../../@vercel+speed-insights@1.2.0_vue-router@4.5.0_vue@3.5.13_typescript@5.8.3___vue@3.5.13_typescript@5.8.3_/node_modules/@vercel/speed-insights/dist/index.mjs": [
-    "/assets/chunks/vue-router.C2zzJYG-.js"
+    "/assets/chunks/vue-router.BkcolTQi.js"
   ],
   "../../../../@vue+compiler-core@3.5.13/node_modules/@vue/compiler-core/dist/compiler-core.esm-bundler.js": [
     "/assets/chunks/@vueuse/motion.BltUbIEt.js"
@@ -3399,13 +3084,13 @@
     "/assets/chunks/@vueuse/motion.BltUbIEt.js"
   ],
   "../../../../@vueuse+integrations@12.0.0-beta.1_axios@1.8.4_fuse.js@7.1.0_nprogress@0.2.0_qrcode@1.5.4_typescript@5.8.3/node_modules/@vueuse/integrations/useFuse.mjs": [
-    "/assets/chunks/nprogress.D5EDvs9V.js"
+    "/assets/chunks/nprogress.Bmgvrz1e.js"
   ],
   "../../../../@vueuse+motion@3.0.3_vue@3.5.13_typescript@5.8.3_/node_modules/@vueuse/motion/dist/index.mjs": [
     "/assets/chunks/@vueuse/motion.BltUbIEt.js"
   ],
   "../../../../@vueuse+shared@12.0.0-beta.1_typescript@5.8.3/node_modules/@vueuse/shared/index.mjs": [
-    "/assets/chunks/nprogress.D5EDvs9V.js"
+    "/assets/chunks/nprogress.Bmgvrz1e.js"
   ],
   "../../../../@vueuse+shared@13.1.0_vue@3.5.13_typescript@5.8.3_/node_modules/@vueuse/shared/index.mjs": [
     "/assets/chunks/@vueuse/motion.BltUbIEt.js"
@@ -3771,7 +3456,7 @@
     "/assets/chunks/@vueuse/motion.BltUbIEt.js"
   ],
   "../../../../fuse.js@7.1.0/node_modules/fuse.js/dist/fuse.mjs": [
-    "/assets/chunks/nprogress.D5EDvs9V.js"
+    "/assets/chunks/nprogress.Bmgvrz1e.js"
   ],
   "../../../../gsap@3.12.7/node_modules/gsap/CSSPlugin.js": [
     "/assets/animation.BmKSPrMr.js"
@@ -3855,11 +3540,11 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "../../../../medium-zoom@1.1.0/node_modules/medium-zoom/dist/medium-zoom.esm.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Dv2MygBm.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.BFZmfyEH.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../nprogress@0.2.0/node_modules/nprogress/nprogress.js": [
-    "/assets/chunks/nprogress.D5EDvs9V.js"
+    "/assets/chunks/nprogress.Bmgvrz1e.js"
   ],
   "../../../../ohash@1.1.6/node_modules/ohash/dist/index.mjs": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
@@ -3988,132 +3673,6 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "../../../../packrup@0.1.2/node_modules/packrup/dist/index.mjs": [
-    "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
-    "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
-    "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
-    "/assets/KaTeX_Caligraphic-Bold.Dq_IR9rO.woff2",
-    "/assets/KaTeX_Caligraphic-Bold.BEiXGLvX.woff",
-    "/assets/KaTeX_Caligraphic-Bold.ATXxdsX0.ttf",
-    "/assets/KaTeX_Caligraphic-Regular.Di6jR-x-.woff2",
-    "/assets/KaTeX_Caligraphic-Regular.CTRA-rTL.woff",
-    "/assets/KaTeX_Caligraphic-Regular.wX97UBjC.ttf",
-    "/assets/KaTeX_Fraktur-Bold.CL6g_b3V.woff2",
-    "/assets/KaTeX_Fraktur-Bold.BsDP51OF.woff",
-    "/assets/KaTeX_Fraktur-Bold.BdnERNNW.ttf",
-    "/assets/KaTeX_Fraktur-Regular.CTYiF6lA.woff2",
-    "/assets/KaTeX_Fraktur-Regular.Dxdc4cR9.woff",
-    "/assets/KaTeX_Fraktur-Regular.CB_wures.ttf",
-    "/assets/KaTeX_Main-Bold.Cx986IdX.woff2",
-    "/assets/KaTeX_Main-Bold.Jm3AIy58.woff",
-    "/assets/KaTeX_Main-Bold.waoOVXN0.ttf",
-    "/assets/KaTeX_Main-BoldItalic.DxDJ3AOS.woff2",
-    "/assets/KaTeX_Main-BoldItalic.SpSLRI95.woff",
-    "/assets/KaTeX_Main-BoldItalic.DzxPMmG6.ttf",
-    "/assets/KaTeX_Main-Italic.NWA7e6Wa.woff2",
-    "/assets/KaTeX_Main-Italic.BMLOBm91.woff",
-    "/assets/KaTeX_Main-Italic.3WenGoN9.ttf",
-    "/assets/KaTeX_Main-Regular.B22Nviop.woff2",
-    "/assets/KaTeX_Main-Regular.Dr94JaBh.woff",
-    "/assets/KaTeX_Main-Regular.ypZvNtVU.ttf",
-    "/assets/KaTeX_Math-BoldItalic.CZnvNsCZ.woff2",
-    "/assets/KaTeX_Math-BoldItalic.iY-2wyZ7.woff",
-    "/assets/KaTeX_Math-BoldItalic.B3XSjfu4.ttf",
-    "/assets/KaTeX_Math-Italic.t53AETM-.woff2",
-    "/assets/KaTeX_Math-Italic.DA0__PXp.woff",
-    "/assets/KaTeX_Math-Italic.flOr_0UB.ttf",
-    "/assets/KaTeX_SansSerif-Bold.D1sUS0GD.woff2",
-    "/assets/KaTeX_SansSerif-Bold.DbIhKOiC.woff",
-    "/assets/KaTeX_SansSerif-Bold.CFMepnvq.ttf",
-    "/assets/KaTeX_SansSerif-Italic.C3H0VqGB.woff2",
-    "/assets/KaTeX_SansSerif-Italic.DN2j7dab.woff",
-    "/assets/KaTeX_SansSerif-Italic.YYjJ1zSn.ttf",
-    "/assets/KaTeX_SansSerif-Regular.DDBCnlJ7.woff2",
-    "/assets/KaTeX_SansSerif-Regular.CS6fqUqJ.woff",
-    "/assets/KaTeX_SansSerif-Regular.BNo7hRIc.ttf",
-    "/assets/KaTeX_Script-Regular.D3wIWfF6.woff2",
-    "/assets/KaTeX_Script-Regular.D5yQViql.woff",
-    "/assets/KaTeX_Script-Regular.C5JkGWo-.ttf",
-    "/assets/KaTeX_Size1-Regular.mCD8mA8B.woff2",
-    "/assets/KaTeX_Size1-Regular.C195tn64.woff",
-    "/assets/KaTeX_Size1-Regular.Dbsnue_I.ttf",
-    "/assets/KaTeX_Size2-Regular.Dy4dx90m.woff2",
-    "/assets/KaTeX_Size2-Regular.oD1tc_U0.woff",
-    "/assets/KaTeX_Size2-Regular.B7gKUWhC.ttf",
-    "/assets/KaTeX_Size3-Regular.CTq5MqoE.woff",
-    "/assets/KaTeX_Size3-Regular.DgpXs0kz.ttf",
-    "/assets/KaTeX_Size4-Regular.Dl5lxZxV.woff2",
-    "/assets/KaTeX_Size4-Regular.BF-4gkZK.woff",
-    "/assets/KaTeX_Size4-Regular.DWFBv043.ttf",
-    "/assets/KaTeX_Typewriter-Regular.CO6r4hn1.woff2",
-    "/assets/KaTeX_Typewriter-Regular.C0xS9mPB.woff",
-    "/assets/KaTeX_Typewriter-Regular.D3Ib7_Hf.ttf",
-    "/assets/bg-img.kXdNMxcF.jpg",
-    "/assets/sidebar-bg-img.mp54gEws.webp"
-  ],
-  "../../../../peerjs-js-binarypack@2.1.0/node_modules/peerjs-js-binarypack/dist/binarypack.mjs": [
-    "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
-    "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
-    "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
-    "/assets/KaTeX_Caligraphic-Bold.Dq_IR9rO.woff2",
-    "/assets/KaTeX_Caligraphic-Bold.BEiXGLvX.woff",
-    "/assets/KaTeX_Caligraphic-Bold.ATXxdsX0.ttf",
-    "/assets/KaTeX_Caligraphic-Regular.Di6jR-x-.woff2",
-    "/assets/KaTeX_Caligraphic-Regular.CTRA-rTL.woff",
-    "/assets/KaTeX_Caligraphic-Regular.wX97UBjC.ttf",
-    "/assets/KaTeX_Fraktur-Bold.CL6g_b3V.woff2",
-    "/assets/KaTeX_Fraktur-Bold.BsDP51OF.woff",
-    "/assets/KaTeX_Fraktur-Bold.BdnERNNW.ttf",
-    "/assets/KaTeX_Fraktur-Regular.CTYiF6lA.woff2",
-    "/assets/KaTeX_Fraktur-Regular.Dxdc4cR9.woff",
-    "/assets/KaTeX_Fraktur-Regular.CB_wures.ttf",
-    "/assets/KaTeX_Main-Bold.Cx986IdX.woff2",
-    "/assets/KaTeX_Main-Bold.Jm3AIy58.woff",
-    "/assets/KaTeX_Main-Bold.waoOVXN0.ttf",
-    "/assets/KaTeX_Main-BoldItalic.DxDJ3AOS.woff2",
-    "/assets/KaTeX_Main-BoldItalic.SpSLRI95.woff",
-    "/assets/KaTeX_Main-BoldItalic.DzxPMmG6.ttf",
-    "/assets/KaTeX_Main-Italic.NWA7e6Wa.woff2",
-    "/assets/KaTeX_Main-Italic.BMLOBm91.woff",
-    "/assets/KaTeX_Main-Italic.3WenGoN9.ttf",
-    "/assets/KaTeX_Main-Regular.B22Nviop.woff2",
-    "/assets/KaTeX_Main-Regular.Dr94JaBh.woff",
-    "/assets/KaTeX_Main-Regular.ypZvNtVU.ttf",
-    "/assets/KaTeX_Math-BoldItalic.CZnvNsCZ.woff2",
-    "/assets/KaTeX_Math-BoldItalic.iY-2wyZ7.woff",
-    "/assets/KaTeX_Math-BoldItalic.B3XSjfu4.ttf",
-    "/assets/KaTeX_Math-Italic.t53AETM-.woff2",
-    "/assets/KaTeX_Math-Italic.DA0__PXp.woff",
-    "/assets/KaTeX_Math-Italic.flOr_0UB.ttf",
-    "/assets/KaTeX_SansSerif-Bold.D1sUS0GD.woff2",
-    "/assets/KaTeX_SansSerif-Bold.DbIhKOiC.woff",
-    "/assets/KaTeX_SansSerif-Bold.CFMepnvq.ttf",
-    "/assets/KaTeX_SansSerif-Italic.C3H0VqGB.woff2",
-    "/assets/KaTeX_SansSerif-Italic.DN2j7dab.woff",
-    "/assets/KaTeX_SansSerif-Italic.YYjJ1zSn.ttf",
-    "/assets/KaTeX_SansSerif-Regular.DDBCnlJ7.woff2",
-    "/assets/KaTeX_SansSerif-Regular.CS6fqUqJ.woff",
-    "/assets/KaTeX_SansSerif-Regular.BNo7hRIc.ttf",
-    "/assets/KaTeX_Script-Regular.D3wIWfF6.woff2",
-    "/assets/KaTeX_Script-Regular.D5yQViql.woff",
-    "/assets/KaTeX_Script-Regular.C5JkGWo-.ttf",
-    "/assets/KaTeX_Size1-Regular.mCD8mA8B.woff2",
-    "/assets/KaTeX_Size1-Regular.C195tn64.woff",
-    "/assets/KaTeX_Size1-Regular.Dbsnue_I.ttf",
-    "/assets/KaTeX_Size2-Regular.Dy4dx90m.woff2",
-    "/assets/KaTeX_Size2-Regular.oD1tc_U0.woff",
-    "/assets/KaTeX_Size2-Regular.B7gKUWhC.ttf",
-    "/assets/KaTeX_Size3-Regular.CTq5MqoE.woff",
-    "/assets/KaTeX_Size3-Regular.DgpXs0kz.ttf",
-    "/assets/KaTeX_Size4-Regular.Dl5lxZxV.woff2",
-    "/assets/KaTeX_Size4-Regular.BF-4gkZK.woff",
-    "/assets/KaTeX_Size4-Regular.DWFBv043.ttf",
-    "/assets/KaTeX_Typewriter-Regular.CO6r4hn1.woff2",
-    "/assets/KaTeX_Typewriter-Regular.C0xS9mPB.woff",
-    "/assets/KaTeX_Typewriter-Regular.D3Ib7_Hf.ttf",
-    "/assets/bg-img.kXdNMxcF.jpg",
-    "/assets/sidebar-bg-img.mp54gEws.webp"
-  ],
-  "../../../../peerjs@1.5.4/node_modules/peerjs/dist/bundler.mjs": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -4485,69 +4044,6 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../sdp@3.2.0/node_modules/sdp/sdp.js": [
-    "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
-    "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
-    "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
-    "/assets/KaTeX_Caligraphic-Bold.Dq_IR9rO.woff2",
-    "/assets/KaTeX_Caligraphic-Bold.BEiXGLvX.woff",
-    "/assets/KaTeX_Caligraphic-Bold.ATXxdsX0.ttf",
-    "/assets/KaTeX_Caligraphic-Regular.Di6jR-x-.woff2",
-    "/assets/KaTeX_Caligraphic-Regular.CTRA-rTL.woff",
-    "/assets/KaTeX_Caligraphic-Regular.wX97UBjC.ttf",
-    "/assets/KaTeX_Fraktur-Bold.CL6g_b3V.woff2",
-    "/assets/KaTeX_Fraktur-Bold.BsDP51OF.woff",
-    "/assets/KaTeX_Fraktur-Bold.BdnERNNW.ttf",
-    "/assets/KaTeX_Fraktur-Regular.CTYiF6lA.woff2",
-    "/assets/KaTeX_Fraktur-Regular.Dxdc4cR9.woff",
-    "/assets/KaTeX_Fraktur-Regular.CB_wures.ttf",
-    "/assets/KaTeX_Main-Bold.Cx986IdX.woff2",
-    "/assets/KaTeX_Main-Bold.Jm3AIy58.woff",
-    "/assets/KaTeX_Main-Bold.waoOVXN0.ttf",
-    "/assets/KaTeX_Main-BoldItalic.DxDJ3AOS.woff2",
-    "/assets/KaTeX_Main-BoldItalic.SpSLRI95.woff",
-    "/assets/KaTeX_Main-BoldItalic.DzxPMmG6.ttf",
-    "/assets/KaTeX_Main-Italic.NWA7e6Wa.woff2",
-    "/assets/KaTeX_Main-Italic.BMLOBm91.woff",
-    "/assets/KaTeX_Main-Italic.3WenGoN9.ttf",
-    "/assets/KaTeX_Main-Regular.B22Nviop.woff2",
-    "/assets/KaTeX_Main-Regular.Dr94JaBh.woff",
-    "/assets/KaTeX_Main-Regular.ypZvNtVU.ttf",
-    "/assets/KaTeX_Math-BoldItalic.CZnvNsCZ.woff2",
-    "/assets/KaTeX_Math-BoldItalic.iY-2wyZ7.woff",
-    "/assets/KaTeX_Math-BoldItalic.B3XSjfu4.ttf",
-    "/assets/KaTeX_Math-Italic.t53AETM-.woff2",
-    "/assets/KaTeX_Math-Italic.DA0__PXp.woff",
-    "/assets/KaTeX_Math-Italic.flOr_0UB.ttf",
-    "/assets/KaTeX_SansSerif-Bold.D1sUS0GD.woff2",
-    "/assets/KaTeX_SansSerif-Bold.DbIhKOiC.woff",
-    "/assets/KaTeX_SansSerif-Bold.CFMepnvq.ttf",
-    "/assets/KaTeX_SansSerif-Italic.C3H0VqGB.woff2",
-    "/assets/KaTeX_SansSerif-Italic.DN2j7dab.woff",
-    "/assets/KaTeX_SansSerif-Italic.YYjJ1zSn.ttf",
-    "/assets/KaTeX_SansSerif-Regular.DDBCnlJ7.woff2",
-    "/assets/KaTeX_SansSerif-Regular.CS6fqUqJ.woff",
-    "/assets/KaTeX_SansSerif-Regular.BNo7hRIc.ttf",
-    "/assets/KaTeX_Script-Regular.D3wIWfF6.woff2",
-    "/assets/KaTeX_Script-Regular.D5yQViql.woff",
-    "/assets/KaTeX_Script-Regular.C5JkGWo-.ttf",
-    "/assets/KaTeX_Size1-Regular.mCD8mA8B.woff2",
-    "/assets/KaTeX_Size1-Regular.C195tn64.woff",
-    "/assets/KaTeX_Size1-Regular.Dbsnue_I.ttf",
-    "/assets/KaTeX_Size2-Regular.Dy4dx90m.woff2",
-    "/assets/KaTeX_Size2-Regular.oD1tc_U0.woff",
-    "/assets/KaTeX_Size2-Regular.B7gKUWhC.ttf",
-    "/assets/KaTeX_Size3-Regular.CTq5MqoE.woff",
-    "/assets/KaTeX_Size3-Regular.DgpXs0kz.ttf",
-    "/assets/KaTeX_Size4-Regular.Dl5lxZxV.woff2",
-    "/assets/KaTeX_Size4-Regular.BF-4gkZK.woff",
-    "/assets/KaTeX_Size4-Regular.DWFBv043.ttf",
-    "/assets/KaTeX_Typewriter-Regular.CO6r4hn1.woff2",
-    "/assets/KaTeX_Typewriter-Regular.C0xS9mPB.woff",
-    "/assets/KaTeX_Typewriter-Regular.D3Ib7_Hf.ttf",
-    "/assets/bg-img.kXdNMxcF.jpg",
-    "/assets/sidebar-bg-img.mp54gEws.webp"
-  ],
   "../../../../style-value-types@5.1.2/node_modules/style-value-types/dist/es/color/hex.mjs": [
     "/assets/chunks/@vueuse/motion.BltUbIEt.js"
   ],
@@ -4711,465 +4207,24 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "../../../../unplugin-vue-router@0.12.0_vue-router@4.5.0_vue@3.5.13_typescript@5.8.3___vue@3.5.13_typescript@5.8.3_/node_modules/unplugin-vue-router/dist/data-loaders/basic.js": [
-    "/assets/chunks/vue-router.C2zzJYG-.js"
+    "/assets/chunks/vue-router.BkcolTQi.js"
   ],
   "../../../../unplugin-vue-router@0.12.0_vue-router@4.5.0_vue@3.5.13_typescript@5.8.3___vue@3.5.13_typescript@5.8.3_/node_modules/unplugin-vue-router/dist/data-loaders/chunk-4MKZ4JDN.js": [
-    "/assets/chunks/vue-router.C2zzJYG-.js"
+    "/assets/chunks/vue-router.BkcolTQi.js"
   ],
   "../../../../unplugin-vue-router@0.12.0_vue-router@4.5.0_vue@3.5.13_typescript@5.8.3___vue@3.5.13_typescript@5.8.3_/node_modules/unplugin-vue-router/dist/data-loaders/index.js": [
-    "/assets/chunks/vue-router.C2zzJYG-.js"
-  ],
-  "../../../../uuid@10.0.0/node_modules/uuid/dist/esm-browser/parse.js": [
-    "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
-    "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
-    "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
-    "/assets/KaTeX_Caligraphic-Bold.Dq_IR9rO.woff2",
-    "/assets/KaTeX_Caligraphic-Bold.BEiXGLvX.woff",
-    "/assets/KaTeX_Caligraphic-Bold.ATXxdsX0.ttf",
-    "/assets/KaTeX_Caligraphic-Regular.Di6jR-x-.woff2",
-    "/assets/KaTeX_Caligraphic-Regular.CTRA-rTL.woff",
-    "/assets/KaTeX_Caligraphic-Regular.wX97UBjC.ttf",
-    "/assets/KaTeX_Fraktur-Bold.CL6g_b3V.woff2",
-    "/assets/KaTeX_Fraktur-Bold.BsDP51OF.woff",
-    "/assets/KaTeX_Fraktur-Bold.BdnERNNW.ttf",
-    "/assets/KaTeX_Fraktur-Regular.CTYiF6lA.woff2",
-    "/assets/KaTeX_Fraktur-Regular.Dxdc4cR9.woff",
-    "/assets/KaTeX_Fraktur-Regular.CB_wures.ttf",
-    "/assets/KaTeX_Main-Bold.Cx986IdX.woff2",
-    "/assets/KaTeX_Main-Bold.Jm3AIy58.woff",
-    "/assets/KaTeX_Main-Bold.waoOVXN0.ttf",
-    "/assets/KaTeX_Main-BoldItalic.DxDJ3AOS.woff2",
-    "/assets/KaTeX_Main-BoldItalic.SpSLRI95.woff",
-    "/assets/KaTeX_Main-BoldItalic.DzxPMmG6.ttf",
-    "/assets/KaTeX_Main-Italic.NWA7e6Wa.woff2",
-    "/assets/KaTeX_Main-Italic.BMLOBm91.woff",
-    "/assets/KaTeX_Main-Italic.3WenGoN9.ttf",
-    "/assets/KaTeX_Main-Regular.B22Nviop.woff2",
-    "/assets/KaTeX_Main-Regular.Dr94JaBh.woff",
-    "/assets/KaTeX_Main-Regular.ypZvNtVU.ttf",
-    "/assets/KaTeX_Math-BoldItalic.CZnvNsCZ.woff2",
-    "/assets/KaTeX_Math-BoldItalic.iY-2wyZ7.woff",
-    "/assets/KaTeX_Math-BoldItalic.B3XSjfu4.ttf",
-    "/assets/KaTeX_Math-Italic.t53AETM-.woff2",
-    "/assets/KaTeX_Math-Italic.DA0__PXp.woff",
-    "/assets/KaTeX_Math-Italic.flOr_0UB.ttf",
-    "/assets/KaTeX_SansSerif-Bold.D1sUS0GD.woff2",
-    "/assets/KaTeX_SansSerif-Bold.DbIhKOiC.woff",
-    "/assets/KaTeX_SansSerif-Bold.CFMepnvq.ttf",
-    "/assets/KaTeX_SansSerif-Italic.C3H0VqGB.woff2",
-    "/assets/KaTeX_SansSerif-Italic.DN2j7dab.woff",
-    "/assets/KaTeX_SansSerif-Italic.YYjJ1zSn.ttf",
-    "/assets/KaTeX_SansSerif-Regular.DDBCnlJ7.woff2",
-    "/assets/KaTeX_SansSerif-Regular.CS6fqUqJ.woff",
-    "/assets/KaTeX_SansSerif-Regular.BNo7hRIc.ttf",
-    "/assets/KaTeX_Script-Regular.D3wIWfF6.woff2",
-    "/assets/KaTeX_Script-Regular.D5yQViql.woff",
-    "/assets/KaTeX_Script-Regular.C5JkGWo-.ttf",
-    "/assets/KaTeX_Size1-Regular.mCD8mA8B.woff2",
-    "/assets/KaTeX_Size1-Regular.C195tn64.woff",
-    "/assets/KaTeX_Size1-Regular.Dbsnue_I.ttf",
-    "/assets/KaTeX_Size2-Regular.Dy4dx90m.woff2",
-    "/assets/KaTeX_Size2-Regular.oD1tc_U0.woff",
-    "/assets/KaTeX_Size2-Regular.B7gKUWhC.ttf",
-    "/assets/KaTeX_Size3-Regular.CTq5MqoE.woff",
-    "/assets/KaTeX_Size3-Regular.DgpXs0kz.ttf",
-    "/assets/KaTeX_Size4-Regular.Dl5lxZxV.woff2",
-    "/assets/KaTeX_Size4-Regular.BF-4gkZK.woff",
-    "/assets/KaTeX_Size4-Regular.DWFBv043.ttf",
-    "/assets/KaTeX_Typewriter-Regular.CO6r4hn1.woff2",
-    "/assets/KaTeX_Typewriter-Regular.C0xS9mPB.woff",
-    "/assets/KaTeX_Typewriter-Regular.D3Ib7_Hf.ttf",
-    "/assets/bg-img.kXdNMxcF.jpg",
-    "/assets/sidebar-bg-img.mp54gEws.webp"
-  ],
-  "../../../../uuid@10.0.0/node_modules/uuid/dist/esm-browser/regex.js": [
-    "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
-    "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
-    "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
-    "/assets/KaTeX_Caligraphic-Bold.Dq_IR9rO.woff2",
-    "/assets/KaTeX_Caligraphic-Bold.BEiXGLvX.woff",
-    "/assets/KaTeX_Caligraphic-Bold.ATXxdsX0.ttf",
-    "/assets/KaTeX_Caligraphic-Regular.Di6jR-x-.woff2",
-    "/assets/KaTeX_Caligraphic-Regular.CTRA-rTL.woff",
-    "/assets/KaTeX_Caligraphic-Regular.wX97UBjC.ttf",
-    "/assets/KaTeX_Fraktur-Bold.CL6g_b3V.woff2",
-    "/assets/KaTeX_Fraktur-Bold.BsDP51OF.woff",
-    "/assets/KaTeX_Fraktur-Bold.BdnERNNW.ttf",
-    "/assets/KaTeX_Fraktur-Regular.CTYiF6lA.woff2",
-    "/assets/KaTeX_Fraktur-Regular.Dxdc4cR9.woff",
-    "/assets/KaTeX_Fraktur-Regular.CB_wures.ttf",
-    "/assets/KaTeX_Main-Bold.Cx986IdX.woff2",
-    "/assets/KaTeX_Main-Bold.Jm3AIy58.woff",
-    "/assets/KaTeX_Main-Bold.waoOVXN0.ttf",
-    "/assets/KaTeX_Main-BoldItalic.DxDJ3AOS.woff2",
-    "/assets/KaTeX_Main-BoldItalic.SpSLRI95.woff",
-    "/assets/KaTeX_Main-BoldItalic.DzxPMmG6.ttf",
-    "/assets/KaTeX_Main-Italic.NWA7e6Wa.woff2",
-    "/assets/KaTeX_Main-Italic.BMLOBm91.woff",
-    "/assets/KaTeX_Main-Italic.3WenGoN9.ttf",
-    "/assets/KaTeX_Main-Regular.B22Nviop.woff2",
-    "/assets/KaTeX_Main-Regular.Dr94JaBh.woff",
-    "/assets/KaTeX_Main-Regular.ypZvNtVU.ttf",
-    "/assets/KaTeX_Math-BoldItalic.CZnvNsCZ.woff2",
-    "/assets/KaTeX_Math-BoldItalic.iY-2wyZ7.woff",
-    "/assets/KaTeX_Math-BoldItalic.B3XSjfu4.ttf",
-    "/assets/KaTeX_Math-Italic.t53AETM-.woff2",
-    "/assets/KaTeX_Math-Italic.DA0__PXp.woff",
-    "/assets/KaTeX_Math-Italic.flOr_0UB.ttf",
-    "/assets/KaTeX_SansSerif-Bold.D1sUS0GD.woff2",
-    "/assets/KaTeX_SansSerif-Bold.DbIhKOiC.woff",
-    "/assets/KaTeX_SansSerif-Bold.CFMepnvq.ttf",
-    "/assets/KaTeX_SansSerif-Italic.C3H0VqGB.woff2",
-    "/assets/KaTeX_SansSerif-Italic.DN2j7dab.woff",
-    "/assets/KaTeX_SansSerif-Italic.YYjJ1zSn.ttf",
-    "/assets/KaTeX_SansSerif-Regular.DDBCnlJ7.woff2",
-    "/assets/KaTeX_SansSerif-Regular.CS6fqUqJ.woff",
-    "/assets/KaTeX_SansSerif-Regular.BNo7hRIc.ttf",
-    "/assets/KaTeX_Script-Regular.D3wIWfF6.woff2",
-    "/assets/KaTeX_Script-Regular.D5yQViql.woff",
-    "/assets/KaTeX_Script-Regular.C5JkGWo-.ttf",
-    "/assets/KaTeX_Size1-Regular.mCD8mA8B.woff2",
-    "/assets/KaTeX_Size1-Regular.C195tn64.woff",
-    "/assets/KaTeX_Size1-Regular.Dbsnue_I.ttf",
-    "/assets/KaTeX_Size2-Regular.Dy4dx90m.woff2",
-    "/assets/KaTeX_Size2-Regular.oD1tc_U0.woff",
-    "/assets/KaTeX_Size2-Regular.B7gKUWhC.ttf",
-    "/assets/KaTeX_Size3-Regular.CTq5MqoE.woff",
-    "/assets/KaTeX_Size3-Regular.DgpXs0kz.ttf",
-    "/assets/KaTeX_Size4-Regular.Dl5lxZxV.woff2",
-    "/assets/KaTeX_Size4-Regular.BF-4gkZK.woff",
-    "/assets/KaTeX_Size4-Regular.DWFBv043.ttf",
-    "/assets/KaTeX_Typewriter-Regular.CO6r4hn1.woff2",
-    "/assets/KaTeX_Typewriter-Regular.C0xS9mPB.woff",
-    "/assets/KaTeX_Typewriter-Regular.D3Ib7_Hf.ttf",
-    "/assets/bg-img.kXdNMxcF.jpg",
-    "/assets/sidebar-bg-img.mp54gEws.webp"
-  ],
-  "../../../../uuid@10.0.0/node_modules/uuid/dist/esm-browser/sha1.js": [
-    "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
-    "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
-    "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
-    "/assets/KaTeX_Caligraphic-Bold.Dq_IR9rO.woff2",
-    "/assets/KaTeX_Caligraphic-Bold.BEiXGLvX.woff",
-    "/assets/KaTeX_Caligraphic-Bold.ATXxdsX0.ttf",
-    "/assets/KaTeX_Caligraphic-Regular.Di6jR-x-.woff2",
-    "/assets/KaTeX_Caligraphic-Regular.CTRA-rTL.woff",
-    "/assets/KaTeX_Caligraphic-Regular.wX97UBjC.ttf",
-    "/assets/KaTeX_Fraktur-Bold.CL6g_b3V.woff2",
-    "/assets/KaTeX_Fraktur-Bold.BsDP51OF.woff",
-    "/assets/KaTeX_Fraktur-Bold.BdnERNNW.ttf",
-    "/assets/KaTeX_Fraktur-Regular.CTYiF6lA.woff2",
-    "/assets/KaTeX_Fraktur-Regular.Dxdc4cR9.woff",
-    "/assets/KaTeX_Fraktur-Regular.CB_wures.ttf",
-    "/assets/KaTeX_Main-Bold.Cx986IdX.woff2",
-    "/assets/KaTeX_Main-Bold.Jm3AIy58.woff",
-    "/assets/KaTeX_Main-Bold.waoOVXN0.ttf",
-    "/assets/KaTeX_Main-BoldItalic.DxDJ3AOS.woff2",
-    "/assets/KaTeX_Main-BoldItalic.SpSLRI95.woff",
-    "/assets/KaTeX_Main-BoldItalic.DzxPMmG6.ttf",
-    "/assets/KaTeX_Main-Italic.NWA7e6Wa.woff2",
-    "/assets/KaTeX_Main-Italic.BMLOBm91.woff",
-    "/assets/KaTeX_Main-Italic.3WenGoN9.ttf",
-    "/assets/KaTeX_Main-Regular.B22Nviop.woff2",
-    "/assets/KaTeX_Main-Regular.Dr94JaBh.woff",
-    "/assets/KaTeX_Main-Regular.ypZvNtVU.ttf",
-    "/assets/KaTeX_Math-BoldItalic.CZnvNsCZ.woff2",
-    "/assets/KaTeX_Math-BoldItalic.iY-2wyZ7.woff",
-    "/assets/KaTeX_Math-BoldItalic.B3XSjfu4.ttf",
-    "/assets/KaTeX_Math-Italic.t53AETM-.woff2",
-    "/assets/KaTeX_Math-Italic.DA0__PXp.woff",
-    "/assets/KaTeX_Math-Italic.flOr_0UB.ttf",
-    "/assets/KaTeX_SansSerif-Bold.D1sUS0GD.woff2",
-    "/assets/KaTeX_SansSerif-Bold.DbIhKOiC.woff",
-    "/assets/KaTeX_SansSerif-Bold.CFMepnvq.ttf",
-    "/assets/KaTeX_SansSerif-Italic.C3H0VqGB.woff2",
-    "/assets/KaTeX_SansSerif-Italic.DN2j7dab.woff",
-    "/assets/KaTeX_SansSerif-Italic.YYjJ1zSn.ttf",
-    "/assets/KaTeX_SansSerif-Regular.DDBCnlJ7.woff2",
-    "/assets/KaTeX_SansSerif-Regular.CS6fqUqJ.woff",
-    "/assets/KaTeX_SansSerif-Regular.BNo7hRIc.ttf",
-    "/assets/KaTeX_Script-Regular.D3wIWfF6.woff2",
-    "/assets/KaTeX_Script-Regular.D5yQViql.woff",
-    "/assets/KaTeX_Script-Regular.C5JkGWo-.ttf",
-    "/assets/KaTeX_Size1-Regular.mCD8mA8B.woff2",
-    "/assets/KaTeX_Size1-Regular.C195tn64.woff",
-    "/assets/KaTeX_Size1-Regular.Dbsnue_I.ttf",
-    "/assets/KaTeX_Size2-Regular.Dy4dx90m.woff2",
-    "/assets/KaTeX_Size2-Regular.oD1tc_U0.woff",
-    "/assets/KaTeX_Size2-Regular.B7gKUWhC.ttf",
-    "/assets/KaTeX_Size3-Regular.CTq5MqoE.woff",
-    "/assets/KaTeX_Size3-Regular.DgpXs0kz.ttf",
-    "/assets/KaTeX_Size4-Regular.Dl5lxZxV.woff2",
-    "/assets/KaTeX_Size4-Regular.BF-4gkZK.woff",
-    "/assets/KaTeX_Size4-Regular.DWFBv043.ttf",
-    "/assets/KaTeX_Typewriter-Regular.CO6r4hn1.woff2",
-    "/assets/KaTeX_Typewriter-Regular.C0xS9mPB.woff",
-    "/assets/KaTeX_Typewriter-Regular.D3Ib7_Hf.ttf",
-    "/assets/bg-img.kXdNMxcF.jpg",
-    "/assets/sidebar-bg-img.mp54gEws.webp"
-  ],
-  "../../../../uuid@10.0.0/node_modules/uuid/dist/esm-browser/stringify.js": [
-    "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
-    "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
-    "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
-    "/assets/KaTeX_Caligraphic-Bold.Dq_IR9rO.woff2",
-    "/assets/KaTeX_Caligraphic-Bold.BEiXGLvX.woff",
-    "/assets/KaTeX_Caligraphic-Bold.ATXxdsX0.ttf",
-    "/assets/KaTeX_Caligraphic-Regular.Di6jR-x-.woff2",
-    "/assets/KaTeX_Caligraphic-Regular.CTRA-rTL.woff",
-    "/assets/KaTeX_Caligraphic-Regular.wX97UBjC.ttf",
-    "/assets/KaTeX_Fraktur-Bold.CL6g_b3V.woff2",
-    "/assets/KaTeX_Fraktur-Bold.BsDP51OF.woff",
-    "/assets/KaTeX_Fraktur-Bold.BdnERNNW.ttf",
-    "/assets/KaTeX_Fraktur-Regular.CTYiF6lA.woff2",
-    "/assets/KaTeX_Fraktur-Regular.Dxdc4cR9.woff",
-    "/assets/KaTeX_Fraktur-Regular.CB_wures.ttf",
-    "/assets/KaTeX_Main-Bold.Cx986IdX.woff2",
-    "/assets/KaTeX_Main-Bold.Jm3AIy58.woff",
-    "/assets/KaTeX_Main-Bold.waoOVXN0.ttf",
-    "/assets/KaTeX_Main-BoldItalic.DxDJ3AOS.woff2",
-    "/assets/KaTeX_Main-BoldItalic.SpSLRI95.woff",
-    "/assets/KaTeX_Main-BoldItalic.DzxPMmG6.ttf",
-    "/assets/KaTeX_Main-Italic.NWA7e6Wa.woff2",
-    "/assets/KaTeX_Main-Italic.BMLOBm91.woff",
-    "/assets/KaTeX_Main-Italic.3WenGoN9.ttf",
-    "/assets/KaTeX_Main-Regular.B22Nviop.woff2",
-    "/assets/KaTeX_Main-Regular.Dr94JaBh.woff",
-    "/assets/KaTeX_Main-Regular.ypZvNtVU.ttf",
-    "/assets/KaTeX_Math-BoldItalic.CZnvNsCZ.woff2",
-    "/assets/KaTeX_Math-BoldItalic.iY-2wyZ7.woff",
-    "/assets/KaTeX_Math-BoldItalic.B3XSjfu4.ttf",
-    "/assets/KaTeX_Math-Italic.t53AETM-.woff2",
-    "/assets/KaTeX_Math-Italic.DA0__PXp.woff",
-    "/assets/KaTeX_Math-Italic.flOr_0UB.ttf",
-    "/assets/KaTeX_SansSerif-Bold.D1sUS0GD.woff2",
-    "/assets/KaTeX_SansSerif-Bold.DbIhKOiC.woff",
-    "/assets/KaTeX_SansSerif-Bold.CFMepnvq.ttf",
-    "/assets/KaTeX_SansSerif-Italic.C3H0VqGB.woff2",
-    "/assets/KaTeX_SansSerif-Italic.DN2j7dab.woff",
-    "/assets/KaTeX_SansSerif-Italic.YYjJ1zSn.ttf",
-    "/assets/KaTeX_SansSerif-Regular.DDBCnlJ7.woff2",
-    "/assets/KaTeX_SansSerif-Regular.CS6fqUqJ.woff",
-    "/assets/KaTeX_SansSerif-Regular.BNo7hRIc.ttf",
-    "/assets/KaTeX_Script-Regular.D3wIWfF6.woff2",
-    "/assets/KaTeX_Script-Regular.D5yQViql.woff",
-    "/assets/KaTeX_Script-Regular.C5JkGWo-.ttf",
-    "/assets/KaTeX_Size1-Regular.mCD8mA8B.woff2",
-    "/assets/KaTeX_Size1-Regular.C195tn64.woff",
-    "/assets/KaTeX_Size1-Regular.Dbsnue_I.ttf",
-    "/assets/KaTeX_Size2-Regular.Dy4dx90m.woff2",
-    "/assets/KaTeX_Size2-Regular.oD1tc_U0.woff",
-    "/assets/KaTeX_Size2-Regular.B7gKUWhC.ttf",
-    "/assets/KaTeX_Size3-Regular.CTq5MqoE.woff",
-    "/assets/KaTeX_Size3-Regular.DgpXs0kz.ttf",
-    "/assets/KaTeX_Size4-Regular.Dl5lxZxV.woff2",
-    "/assets/KaTeX_Size4-Regular.BF-4gkZK.woff",
-    "/assets/KaTeX_Size4-Regular.DWFBv043.ttf",
-    "/assets/KaTeX_Typewriter-Regular.CO6r4hn1.woff2",
-    "/assets/KaTeX_Typewriter-Regular.C0xS9mPB.woff",
-    "/assets/KaTeX_Typewriter-Regular.D3Ib7_Hf.ttf",
-    "/assets/bg-img.kXdNMxcF.jpg",
-    "/assets/sidebar-bg-img.mp54gEws.webp"
-  ],
-  "../../../../uuid@10.0.0/node_modules/uuid/dist/esm-browser/v35.js": [
-    "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
-    "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
-    "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
-    "/assets/KaTeX_Caligraphic-Bold.Dq_IR9rO.woff2",
-    "/assets/KaTeX_Caligraphic-Bold.BEiXGLvX.woff",
-    "/assets/KaTeX_Caligraphic-Bold.ATXxdsX0.ttf",
-    "/assets/KaTeX_Caligraphic-Regular.Di6jR-x-.woff2",
-    "/assets/KaTeX_Caligraphic-Regular.CTRA-rTL.woff",
-    "/assets/KaTeX_Caligraphic-Regular.wX97UBjC.ttf",
-    "/assets/KaTeX_Fraktur-Bold.CL6g_b3V.woff2",
-    "/assets/KaTeX_Fraktur-Bold.BsDP51OF.woff",
-    "/assets/KaTeX_Fraktur-Bold.BdnERNNW.ttf",
-    "/assets/KaTeX_Fraktur-Regular.CTYiF6lA.woff2",
-    "/assets/KaTeX_Fraktur-Regular.Dxdc4cR9.woff",
-    "/assets/KaTeX_Fraktur-Regular.CB_wures.ttf",
-    "/assets/KaTeX_Main-Bold.Cx986IdX.woff2",
-    "/assets/KaTeX_Main-Bold.Jm3AIy58.woff",
-    "/assets/KaTeX_Main-Bold.waoOVXN0.ttf",
-    "/assets/KaTeX_Main-BoldItalic.DxDJ3AOS.woff2",
-    "/assets/KaTeX_Main-BoldItalic.SpSLRI95.woff",
-    "/assets/KaTeX_Main-BoldItalic.DzxPMmG6.ttf",
-    "/assets/KaTeX_Main-Italic.NWA7e6Wa.woff2",
-    "/assets/KaTeX_Main-Italic.BMLOBm91.woff",
-    "/assets/KaTeX_Main-Italic.3WenGoN9.ttf",
-    "/assets/KaTeX_Main-Regular.B22Nviop.woff2",
-    "/assets/KaTeX_Main-Regular.Dr94JaBh.woff",
-    "/assets/KaTeX_Main-Regular.ypZvNtVU.ttf",
-    "/assets/KaTeX_Math-BoldItalic.CZnvNsCZ.woff2",
-    "/assets/KaTeX_Math-BoldItalic.iY-2wyZ7.woff",
-    "/assets/KaTeX_Math-BoldItalic.B3XSjfu4.ttf",
-    "/assets/KaTeX_Math-Italic.t53AETM-.woff2",
-    "/assets/KaTeX_Math-Italic.DA0__PXp.woff",
-    "/assets/KaTeX_Math-Italic.flOr_0UB.ttf",
-    "/assets/KaTeX_SansSerif-Bold.D1sUS0GD.woff2",
-    "/assets/KaTeX_SansSerif-Bold.DbIhKOiC.woff",
-    "/assets/KaTeX_SansSerif-Bold.CFMepnvq.ttf",
-    "/assets/KaTeX_SansSerif-Italic.C3H0VqGB.woff2",
-    "/assets/KaTeX_SansSerif-Italic.DN2j7dab.woff",
-    "/assets/KaTeX_SansSerif-Italic.YYjJ1zSn.ttf",
-    "/assets/KaTeX_SansSerif-Regular.DDBCnlJ7.woff2",
-    "/assets/KaTeX_SansSerif-Regular.CS6fqUqJ.woff",
-    "/assets/KaTeX_SansSerif-Regular.BNo7hRIc.ttf",
-    "/assets/KaTeX_Script-Regular.D3wIWfF6.woff2",
-    "/assets/KaTeX_Script-Regular.D5yQViql.woff",
-    "/assets/KaTeX_Script-Regular.C5JkGWo-.ttf",
-    "/assets/KaTeX_Size1-Regular.mCD8mA8B.woff2",
-    "/assets/KaTeX_Size1-Regular.C195tn64.woff",
-    "/assets/KaTeX_Size1-Regular.Dbsnue_I.ttf",
-    "/assets/KaTeX_Size2-Regular.Dy4dx90m.woff2",
-    "/assets/KaTeX_Size2-Regular.oD1tc_U0.woff",
-    "/assets/KaTeX_Size2-Regular.B7gKUWhC.ttf",
-    "/assets/KaTeX_Size3-Regular.CTq5MqoE.woff",
-    "/assets/KaTeX_Size3-Regular.DgpXs0kz.ttf",
-    "/assets/KaTeX_Size4-Regular.Dl5lxZxV.woff2",
-    "/assets/KaTeX_Size4-Regular.BF-4gkZK.woff",
-    "/assets/KaTeX_Size4-Regular.DWFBv043.ttf",
-    "/assets/KaTeX_Typewriter-Regular.CO6r4hn1.woff2",
-    "/assets/KaTeX_Typewriter-Regular.C0xS9mPB.woff",
-    "/assets/KaTeX_Typewriter-Regular.D3Ib7_Hf.ttf",
-    "/assets/bg-img.kXdNMxcF.jpg",
-    "/assets/sidebar-bg-img.mp54gEws.webp"
-  ],
-  "../../../../uuid@10.0.0/node_modules/uuid/dist/esm-browser/v5.js": [
-    "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
-    "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
-    "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
-    "/assets/KaTeX_Caligraphic-Bold.Dq_IR9rO.woff2",
-    "/assets/KaTeX_Caligraphic-Bold.BEiXGLvX.woff",
-    "/assets/KaTeX_Caligraphic-Bold.ATXxdsX0.ttf",
-    "/assets/KaTeX_Caligraphic-Regular.Di6jR-x-.woff2",
-    "/assets/KaTeX_Caligraphic-Regular.CTRA-rTL.woff",
-    "/assets/KaTeX_Caligraphic-Regular.wX97UBjC.ttf",
-    "/assets/KaTeX_Fraktur-Bold.CL6g_b3V.woff2",
-    "/assets/KaTeX_Fraktur-Bold.BsDP51OF.woff",
-    "/assets/KaTeX_Fraktur-Bold.BdnERNNW.ttf",
-    "/assets/KaTeX_Fraktur-Regular.CTYiF6lA.woff2",
-    "/assets/KaTeX_Fraktur-Regular.Dxdc4cR9.woff",
-    "/assets/KaTeX_Fraktur-Regular.CB_wures.ttf",
-    "/assets/KaTeX_Main-Bold.Cx986IdX.woff2",
-    "/assets/KaTeX_Main-Bold.Jm3AIy58.woff",
-    "/assets/KaTeX_Main-Bold.waoOVXN0.ttf",
-    "/assets/KaTeX_Main-BoldItalic.DxDJ3AOS.woff2",
-    "/assets/KaTeX_Main-BoldItalic.SpSLRI95.woff",
-    "/assets/KaTeX_Main-BoldItalic.DzxPMmG6.ttf",
-    "/assets/KaTeX_Main-Italic.NWA7e6Wa.woff2",
-    "/assets/KaTeX_Main-Italic.BMLOBm91.woff",
-    "/assets/KaTeX_Main-Italic.3WenGoN9.ttf",
-    "/assets/KaTeX_Main-Regular.B22Nviop.woff2",
-    "/assets/KaTeX_Main-Regular.Dr94JaBh.woff",
-    "/assets/KaTeX_Main-Regular.ypZvNtVU.ttf",
-    "/assets/KaTeX_Math-BoldItalic.CZnvNsCZ.woff2",
-    "/assets/KaTeX_Math-BoldItalic.iY-2wyZ7.woff",
-    "/assets/KaTeX_Math-BoldItalic.B3XSjfu4.ttf",
-    "/assets/KaTeX_Math-Italic.t53AETM-.woff2",
-    "/assets/KaTeX_Math-Italic.DA0__PXp.woff",
-    "/assets/KaTeX_Math-Italic.flOr_0UB.ttf",
-    "/assets/KaTeX_SansSerif-Bold.D1sUS0GD.woff2",
-    "/assets/KaTeX_SansSerif-Bold.DbIhKOiC.woff",
-    "/assets/KaTeX_SansSerif-Bold.CFMepnvq.ttf",
-    "/assets/KaTeX_SansSerif-Italic.C3H0VqGB.woff2",
-    "/assets/KaTeX_SansSerif-Italic.DN2j7dab.woff",
-    "/assets/KaTeX_SansSerif-Italic.YYjJ1zSn.ttf",
-    "/assets/KaTeX_SansSerif-Regular.DDBCnlJ7.woff2",
-    "/assets/KaTeX_SansSerif-Regular.CS6fqUqJ.woff",
-    "/assets/KaTeX_SansSerif-Regular.BNo7hRIc.ttf",
-    "/assets/KaTeX_Script-Regular.D3wIWfF6.woff2",
-    "/assets/KaTeX_Script-Regular.D5yQViql.woff",
-    "/assets/KaTeX_Script-Regular.C5JkGWo-.ttf",
-    "/assets/KaTeX_Size1-Regular.mCD8mA8B.woff2",
-    "/assets/KaTeX_Size1-Regular.C195tn64.woff",
-    "/assets/KaTeX_Size1-Regular.Dbsnue_I.ttf",
-    "/assets/KaTeX_Size2-Regular.Dy4dx90m.woff2",
-    "/assets/KaTeX_Size2-Regular.oD1tc_U0.woff",
-    "/assets/KaTeX_Size2-Regular.B7gKUWhC.ttf",
-    "/assets/KaTeX_Size3-Regular.CTq5MqoE.woff",
-    "/assets/KaTeX_Size3-Regular.DgpXs0kz.ttf",
-    "/assets/KaTeX_Size4-Regular.Dl5lxZxV.woff2",
-    "/assets/KaTeX_Size4-Regular.BF-4gkZK.woff",
-    "/assets/KaTeX_Size4-Regular.DWFBv043.ttf",
-    "/assets/KaTeX_Typewriter-Regular.CO6r4hn1.woff2",
-    "/assets/KaTeX_Typewriter-Regular.C0xS9mPB.woff",
-    "/assets/KaTeX_Typewriter-Regular.D3Ib7_Hf.ttf",
-    "/assets/bg-img.kXdNMxcF.jpg",
-    "/assets/sidebar-bg-img.mp54gEws.webp"
-  ],
-  "../../../../uuid@10.0.0/node_modules/uuid/dist/esm-browser/validate.js": [
-    "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
-    "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
-    "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
-    "/assets/KaTeX_Caligraphic-Bold.Dq_IR9rO.woff2",
-    "/assets/KaTeX_Caligraphic-Bold.BEiXGLvX.woff",
-    "/assets/KaTeX_Caligraphic-Bold.ATXxdsX0.ttf",
-    "/assets/KaTeX_Caligraphic-Regular.Di6jR-x-.woff2",
-    "/assets/KaTeX_Caligraphic-Regular.CTRA-rTL.woff",
-    "/assets/KaTeX_Caligraphic-Regular.wX97UBjC.ttf",
-    "/assets/KaTeX_Fraktur-Bold.CL6g_b3V.woff2",
-    "/assets/KaTeX_Fraktur-Bold.BsDP51OF.woff",
-    "/assets/KaTeX_Fraktur-Bold.BdnERNNW.ttf",
-    "/assets/KaTeX_Fraktur-Regular.CTYiF6lA.woff2",
-    "/assets/KaTeX_Fraktur-Regular.Dxdc4cR9.woff",
-    "/assets/KaTeX_Fraktur-Regular.CB_wures.ttf",
-    "/assets/KaTeX_Main-Bold.Cx986IdX.woff2",
-    "/assets/KaTeX_Main-Bold.Jm3AIy58.woff",
-    "/assets/KaTeX_Main-Bold.waoOVXN0.ttf",
-    "/assets/KaTeX_Main-BoldItalic.DxDJ3AOS.woff2",
-    "/assets/KaTeX_Main-BoldItalic.SpSLRI95.woff",
-    "/assets/KaTeX_Main-BoldItalic.DzxPMmG6.ttf",
-    "/assets/KaTeX_Main-Italic.NWA7e6Wa.woff2",
-    "/assets/KaTeX_Main-Italic.BMLOBm91.woff",
-    "/assets/KaTeX_Main-Italic.3WenGoN9.ttf",
-    "/assets/KaTeX_Main-Regular.B22Nviop.woff2",
-    "/assets/KaTeX_Main-Regular.Dr94JaBh.woff",
-    "/assets/KaTeX_Main-Regular.ypZvNtVU.ttf",
-    "/assets/KaTeX_Math-BoldItalic.CZnvNsCZ.woff2",
-    "/assets/KaTeX_Math-BoldItalic.iY-2wyZ7.woff",
-    "/assets/KaTeX_Math-BoldItalic.B3XSjfu4.ttf",
-    "/assets/KaTeX_Math-Italic.t53AETM-.woff2",
-    "/assets/KaTeX_Math-Italic.DA0__PXp.woff",
-    "/assets/KaTeX_Math-Italic.flOr_0UB.ttf",
-    "/assets/KaTeX_SansSerif-Bold.D1sUS0GD.woff2",
-    "/assets/KaTeX_SansSerif-Bold.DbIhKOiC.woff",
-    "/assets/KaTeX_SansSerif-Bold.CFMepnvq.ttf",
-    "/assets/KaTeX_SansSerif-Italic.C3H0VqGB.woff2",
-    "/assets/KaTeX_SansSerif-Italic.DN2j7dab.woff",
-    "/assets/KaTeX_SansSerif-Italic.YYjJ1zSn.ttf",
-    "/assets/KaTeX_SansSerif-Regular.DDBCnlJ7.woff2",
-    "/assets/KaTeX_SansSerif-Regular.CS6fqUqJ.woff",
-    "/assets/KaTeX_SansSerif-Regular.BNo7hRIc.ttf",
-    "/assets/KaTeX_Script-Regular.D3wIWfF6.woff2",
-    "/assets/KaTeX_Script-Regular.D5yQViql.woff",
-    "/assets/KaTeX_Script-Regular.C5JkGWo-.ttf",
-    "/assets/KaTeX_Size1-Regular.mCD8mA8B.woff2",
-    "/assets/KaTeX_Size1-Regular.C195tn64.woff",
-    "/assets/KaTeX_Size1-Regular.Dbsnue_I.ttf",
-    "/assets/KaTeX_Size2-Regular.Dy4dx90m.woff2",
-    "/assets/KaTeX_Size2-Regular.oD1tc_U0.woff",
-    "/assets/KaTeX_Size2-Regular.B7gKUWhC.ttf",
-    "/assets/KaTeX_Size3-Regular.CTq5MqoE.woff",
-    "/assets/KaTeX_Size3-Regular.DgpXs0kz.ttf",
-    "/assets/KaTeX_Size4-Regular.Dl5lxZxV.woff2",
-    "/assets/KaTeX_Size4-Regular.BF-4gkZK.woff",
-    "/assets/KaTeX_Size4-Regular.DWFBv043.ttf",
-    "/assets/KaTeX_Typewriter-Regular.CO6r4hn1.woff2",
-    "/assets/KaTeX_Typewriter-Regular.C0xS9mPB.woff",
-    "/assets/KaTeX_Typewriter-Regular.D3Ib7_Hf.ttf",
-    "/assets/bg-img.kXdNMxcF.jpg",
-    "/assets/sidebar-bg-img.mp54gEws.webp"
+    "/assets/chunks/vue-router.BkcolTQi.js"
   ],
   "../../../../valaxy-addon-bangumi@0.2.2_valaxy@0.22.17_@babel+parser@7.27.0_@nuxt+kit@3.16.2_@types+_dbe667181a330d8f7c77c803593f8672/node_modules/valaxy-addon-bangumi/client/index.ts": [
-    "/assets/index.BKow-ACK.js",
+    "/assets/index.BzjQux54.js",
     "/assets/index.Cch_mg4D.css"
   ],
   "../../../../valaxy-addon-bangumi@0.2.2_valaxy@0.22.17_@babel+parser@7.27.0_@nuxt+kit@3.16.2_@types+_dbe667181a330d8f7c77c803593f8672/node_modules/valaxy-addon-bangumi/components/ValaxyBangumi.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index.BKow-ACK.js",
+    "/assets/index.BzjQux54.js",
     "/assets/index.Cch_mg4D.css"
   ],
   "../../../../valaxy-addon-bangumi@0.2.2_valaxy@0.22.17_@babel+parser@7.27.0_@nuxt+kit@3.16.2_@types+_dbe667181a330d8f7c77c803593f8672/node_modules/valaxy-addon-bangumi/components/ValaxyBangumi.vue?vue&type=style&index=0&lang.css": [
-    "/assets/index.BKow-ACK.js",
+    "/assets/index.BzjQux54.js",
     "/assets/index.Cch_mg4D.css"
   ],
   "../../../../valaxy-addon-components@0.1.0/node_modules/valaxy-addon-components/components/VCLiveTime.vue?vue&type=script&setup=true&lang.ts": [
@@ -5614,20 +4669,146 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "../../../../valaxy-addon-twikoo@0.0.3_valaxy@0.22.17_@babel+parser@7.27.0_@nuxt+kit@3.16.2_@types+m_44eb31220db1cb1e1a3e16a351cde432/node_modules/valaxy-addon-twikoo/client/index.ts": [
-    "/assets/YunComment.vue_vue_type_style_index_0_lang.Bilcx1Rp.js",
+    "/assets/YunComment.vue_vue_type_style_index_0_lang.Dv2DjFyo.js",
     "/assets/YunComment.Jrg_E_v_.css"
   ],
   "../../../../valaxy-addon-twikoo@0.0.3_valaxy@0.22.17_@babel+parser@7.27.0_@nuxt+kit@3.16.2_@types+m_44eb31220db1cb1e1a3e16a351cde432/node_modules/valaxy-addon-twikoo/client/options.ts": [
-    "/assets/YunComment.vue_vue_type_style_index_0_lang.Bilcx1Rp.js",
+    "/assets/YunComment.vue_vue_type_style_index_0_lang.Dv2DjFyo.js",
     "/assets/YunComment.Jrg_E_v_.css"
   ],
   "../../../../valaxy-addon-twikoo@0.0.3_valaxy@0.22.17_@babel+parser@7.27.0_@nuxt+kit@3.16.2_@types+m_44eb31220db1cb1e1a3e16a351cde432/node_modules/valaxy-addon-twikoo/client/styles/index.scss": [
-    "/assets/YunComment.vue_vue_type_style_index_0_lang.Bilcx1Rp.js",
+    "/assets/YunComment.vue_vue_type_style_index_0_lang.Dv2DjFyo.js",
     "/assets/YunComment.Jrg_E_v_.css"
   ],
   "../../../../valaxy-addon-twikoo@0.0.3_valaxy@0.22.17_@babel+parser@7.27.0_@nuxt+kit@3.16.2_@types+m_44eb31220db1cb1e1a3e16a351cde432/node_modules/valaxy-addon-twikoo/client/twikoo.ts": [
-    "/assets/YunComment.vue_vue_type_style_index_0_lang.Bilcx1Rp.js",
+    "/assets/YunComment.vue_vue_type_style_index_0_lang.Dv2DjFyo.js",
     "/assets/YunComment.Jrg_E_v_.css"
+  ],
+  "../../../../valaxy-addon-vercount@0.0.5/node_modules/valaxy-addon-vercount/client/composable.ts": [
+    "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
+    "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
+    "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
+    "/assets/KaTeX_Caligraphic-Bold.Dq_IR9rO.woff2",
+    "/assets/KaTeX_Caligraphic-Bold.BEiXGLvX.woff",
+    "/assets/KaTeX_Caligraphic-Bold.ATXxdsX0.ttf",
+    "/assets/KaTeX_Caligraphic-Regular.Di6jR-x-.woff2",
+    "/assets/KaTeX_Caligraphic-Regular.CTRA-rTL.woff",
+    "/assets/KaTeX_Caligraphic-Regular.wX97UBjC.ttf",
+    "/assets/KaTeX_Fraktur-Bold.CL6g_b3V.woff2",
+    "/assets/KaTeX_Fraktur-Bold.BsDP51OF.woff",
+    "/assets/KaTeX_Fraktur-Bold.BdnERNNW.ttf",
+    "/assets/KaTeX_Fraktur-Regular.CTYiF6lA.woff2",
+    "/assets/KaTeX_Fraktur-Regular.Dxdc4cR9.woff",
+    "/assets/KaTeX_Fraktur-Regular.CB_wures.ttf",
+    "/assets/KaTeX_Main-Bold.Cx986IdX.woff2",
+    "/assets/KaTeX_Main-Bold.Jm3AIy58.woff",
+    "/assets/KaTeX_Main-Bold.waoOVXN0.ttf",
+    "/assets/KaTeX_Main-BoldItalic.DxDJ3AOS.woff2",
+    "/assets/KaTeX_Main-BoldItalic.SpSLRI95.woff",
+    "/assets/KaTeX_Main-BoldItalic.DzxPMmG6.ttf",
+    "/assets/KaTeX_Main-Italic.NWA7e6Wa.woff2",
+    "/assets/KaTeX_Main-Italic.BMLOBm91.woff",
+    "/assets/KaTeX_Main-Italic.3WenGoN9.ttf",
+    "/assets/KaTeX_Main-Regular.B22Nviop.woff2",
+    "/assets/KaTeX_Main-Regular.Dr94JaBh.woff",
+    "/assets/KaTeX_Main-Regular.ypZvNtVU.ttf",
+    "/assets/KaTeX_Math-BoldItalic.CZnvNsCZ.woff2",
+    "/assets/KaTeX_Math-BoldItalic.iY-2wyZ7.woff",
+    "/assets/KaTeX_Math-BoldItalic.B3XSjfu4.ttf",
+    "/assets/KaTeX_Math-Italic.t53AETM-.woff2",
+    "/assets/KaTeX_Math-Italic.DA0__PXp.woff",
+    "/assets/KaTeX_Math-Italic.flOr_0UB.ttf",
+    "/assets/KaTeX_SansSerif-Bold.D1sUS0GD.woff2",
+    "/assets/KaTeX_SansSerif-Bold.DbIhKOiC.woff",
+    "/assets/KaTeX_SansSerif-Bold.CFMepnvq.ttf",
+    "/assets/KaTeX_SansSerif-Italic.C3H0VqGB.woff2",
+    "/assets/KaTeX_SansSerif-Italic.DN2j7dab.woff",
+    "/assets/KaTeX_SansSerif-Italic.YYjJ1zSn.ttf",
+    "/assets/KaTeX_SansSerif-Regular.DDBCnlJ7.woff2",
+    "/assets/KaTeX_SansSerif-Regular.CS6fqUqJ.woff",
+    "/assets/KaTeX_SansSerif-Regular.BNo7hRIc.ttf",
+    "/assets/KaTeX_Script-Regular.D3wIWfF6.woff2",
+    "/assets/KaTeX_Script-Regular.D5yQViql.woff",
+    "/assets/KaTeX_Script-Regular.C5JkGWo-.ttf",
+    "/assets/KaTeX_Size1-Regular.mCD8mA8B.woff2",
+    "/assets/KaTeX_Size1-Regular.C195tn64.woff",
+    "/assets/KaTeX_Size1-Regular.Dbsnue_I.ttf",
+    "/assets/KaTeX_Size2-Regular.Dy4dx90m.woff2",
+    "/assets/KaTeX_Size2-Regular.oD1tc_U0.woff",
+    "/assets/KaTeX_Size2-Regular.B7gKUWhC.ttf",
+    "/assets/KaTeX_Size3-Regular.CTq5MqoE.woff",
+    "/assets/KaTeX_Size3-Regular.DgpXs0kz.ttf",
+    "/assets/KaTeX_Size4-Regular.Dl5lxZxV.woff2",
+    "/assets/KaTeX_Size4-Regular.BF-4gkZK.woff",
+    "/assets/KaTeX_Size4-Regular.DWFBv043.ttf",
+    "/assets/KaTeX_Typewriter-Regular.CO6r4hn1.woff2",
+    "/assets/KaTeX_Typewriter-Regular.C0xS9mPB.woff",
+    "/assets/KaTeX_Typewriter-Regular.D3Ib7_Hf.ttf",
+    "/assets/bg-img.kXdNMxcF.jpg",
+    "/assets/sidebar-bg-img.mp54gEws.webp"
+  ],
+  "../../../../valaxy-addon-vercount@0.0.5/node_modules/valaxy-addon-vercount/client/options.ts": [
+    "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
+    "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
+    "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
+    "/assets/KaTeX_Caligraphic-Bold.Dq_IR9rO.woff2",
+    "/assets/KaTeX_Caligraphic-Bold.BEiXGLvX.woff",
+    "/assets/KaTeX_Caligraphic-Bold.ATXxdsX0.ttf",
+    "/assets/KaTeX_Caligraphic-Regular.Di6jR-x-.woff2",
+    "/assets/KaTeX_Caligraphic-Regular.CTRA-rTL.woff",
+    "/assets/KaTeX_Caligraphic-Regular.wX97UBjC.ttf",
+    "/assets/KaTeX_Fraktur-Bold.CL6g_b3V.woff2",
+    "/assets/KaTeX_Fraktur-Bold.BsDP51OF.woff",
+    "/assets/KaTeX_Fraktur-Bold.BdnERNNW.ttf",
+    "/assets/KaTeX_Fraktur-Regular.CTYiF6lA.woff2",
+    "/assets/KaTeX_Fraktur-Regular.Dxdc4cR9.woff",
+    "/assets/KaTeX_Fraktur-Regular.CB_wures.ttf",
+    "/assets/KaTeX_Main-Bold.Cx986IdX.woff2",
+    "/assets/KaTeX_Main-Bold.Jm3AIy58.woff",
+    "/assets/KaTeX_Main-Bold.waoOVXN0.ttf",
+    "/assets/KaTeX_Main-BoldItalic.DxDJ3AOS.woff2",
+    "/assets/KaTeX_Main-BoldItalic.SpSLRI95.woff",
+    "/assets/KaTeX_Main-BoldItalic.DzxPMmG6.ttf",
+    "/assets/KaTeX_Main-Italic.NWA7e6Wa.woff2",
+    "/assets/KaTeX_Main-Italic.BMLOBm91.woff",
+    "/assets/KaTeX_Main-Italic.3WenGoN9.ttf",
+    "/assets/KaTeX_Main-Regular.B22Nviop.woff2",
+    "/assets/KaTeX_Main-Regular.Dr94JaBh.woff",
+    "/assets/KaTeX_Main-Regular.ypZvNtVU.ttf",
+    "/assets/KaTeX_Math-BoldItalic.CZnvNsCZ.woff2",
+    "/assets/KaTeX_Math-BoldItalic.iY-2wyZ7.woff",
+    "/assets/KaTeX_Math-BoldItalic.B3XSjfu4.ttf",
+    "/assets/KaTeX_Math-Italic.t53AETM-.woff2",
+    "/assets/KaTeX_Math-Italic.DA0__PXp.woff",
+    "/assets/KaTeX_Math-Italic.flOr_0UB.ttf",
+    "/assets/KaTeX_SansSerif-Bold.D1sUS0GD.woff2",
+    "/assets/KaTeX_SansSerif-Bold.DbIhKOiC.woff",
+    "/assets/KaTeX_SansSerif-Bold.CFMepnvq.ttf",
+    "/assets/KaTeX_SansSerif-Italic.C3H0VqGB.woff2",
+    "/assets/KaTeX_SansSerif-Italic.DN2j7dab.woff",
+    "/assets/KaTeX_SansSerif-Italic.YYjJ1zSn.ttf",
+    "/assets/KaTeX_SansSerif-Regular.DDBCnlJ7.woff2",
+    "/assets/KaTeX_SansSerif-Regular.CS6fqUqJ.woff",
+    "/assets/KaTeX_SansSerif-Regular.BNo7hRIc.ttf",
+    "/assets/KaTeX_Script-Regular.D3wIWfF6.woff2",
+    "/assets/KaTeX_Script-Regular.D5yQViql.woff",
+    "/assets/KaTeX_Script-Regular.C5JkGWo-.ttf",
+    "/assets/KaTeX_Size1-Regular.mCD8mA8B.woff2",
+    "/assets/KaTeX_Size1-Regular.C195tn64.woff",
+    "/assets/KaTeX_Size1-Regular.Dbsnue_I.ttf",
+    "/assets/KaTeX_Size2-Regular.Dy4dx90m.woff2",
+    "/assets/KaTeX_Size2-Regular.oD1tc_U0.woff",
+    "/assets/KaTeX_Size2-Regular.B7gKUWhC.ttf",
+    "/assets/KaTeX_Size3-Regular.CTq5MqoE.woff",
+    "/assets/KaTeX_Size3-Regular.DgpXs0kz.ttf",
+    "/assets/KaTeX_Size4-Regular.Dl5lxZxV.woff2",
+    "/assets/KaTeX_Size4-Regular.BF-4gkZK.woff",
+    "/assets/KaTeX_Size4-Regular.DWFBv043.ttf",
+    "/assets/KaTeX_Typewriter-Regular.CO6r4hn1.woff2",
+    "/assets/KaTeX_Typewriter-Regular.C0xS9mPB.woff",
+    "/assets/KaTeX_Typewriter-Regular.D3Ib7_Hf.ttf",
+    "/assets/bg-img.kXdNMxcF.jpg",
+    "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/App.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
@@ -5693,18 +4874,18 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/assets/images/none.jpg": [
-    "/assets/index.C0H_zG8J.js",
+    "/assets/index.D__IMBdw.js",
     "/assets/none.DLM1AMsD.jpg"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/client/constants/index.ts": [
     "/assets/index.BRXJGymZ.js"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/ValaxyMain.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Dv2MygBm.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.BFZmfyEH.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/ValaxyMain.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Dv2MygBm.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.BFZmfyEH.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunAdBoard.vue": [
@@ -5771,23 +4952,23 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunAiExcerpt.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Dv2MygBm.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.BFZmfyEH.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunAlbum.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/albums.BC2oMqch.js",
+    "/assets/albums.B1NQJfRw.js",
     "/assets/albums.B673jvUl.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunAlbum.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/albums.BC2oMqch.js",
+    "/assets/albums.B1NQJfRw.js",
     "/assets/albums.B673jvUl.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunAlbumList.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/albums.BC2oMqch.js",
+    "/assets/albums.B1NQJfRw.js",
     "/assets/albums.B673jvUl.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunAlbumList.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/albums.BC2oMqch.js",
+    "/assets/albums.B1NQJfRw.js",
     "/assets/albums.B673jvUl.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunAside.vue?vue&type=script&setup=true&lang.ts": [
@@ -6043,11 +5224,11 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunBanner.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/home.jQPIVF4i.js",
+    "/assets/home.Ce3vKIjg.js",
     "/assets/home.CdbHDXWN.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunBanner.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/home.jQPIVF4i.js",
+    "/assets/home.Ce3vKIjg.js",
     "/assets/home.CdbHDXWN.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunBg.vue?vue&type=script&setup=true&lang.ts": [
@@ -6240,13 +5421,13 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunCategories.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/categories.DPFOR9Yb.js"
+    "/assets/categories.BCB1Rv02.js"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunCategory.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/categories.DPFOR9Yb.js"
+    "/assets/categories.BCB1Rv02.js"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunCategoryChildItem.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/categories.DPFOR9Yb.js"
+    "/assets/categories.BCB1Rv02.js"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunCloud.vue": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
@@ -6375,11 +5556,11 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunComment.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/YunComment.vue_vue_type_style_index_0_lang.Bilcx1Rp.js",
+    "/assets/YunComment.vue_vue_type_style_index_0_lang.Dv2DjFyo.js",
     "/assets/YunComment.Jrg_E_v_.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunComment.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/YunComment.vue_vue_type_style_index_0_lang.Bilcx1Rp.js",
+    "/assets/YunComment.vue_vue_type_style_index_0_lang.Dv2DjFyo.js",
     "/assets/YunComment.Jrg_E_v_.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunConfig.vue?vue&type=script&setup=true&lang.ts": [
@@ -7013,32 +6194,32 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunGallery.vue": [
-    "/assets/YunGallery.Bbl9u4fM.js"
+    "/assets/YunGallery.BPPQMxAU.js"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunGallery.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/gallery.ChXczxsD.js"
+    "/assets/gallery.nbxtuCzh.js"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunGoDown.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/home.jQPIVF4i.js",
+    "/assets/home.Ce3vKIjg.js",
     "/assets/home.CdbHDXWN.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunGoDown.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/home.jQPIVF4i.js",
+    "/assets/home.Ce3vKIjg.js",
     "/assets/home.CdbHDXWN.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunLayoutPostTag.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/tags.BttqrosH.js"
+    "/assets/tags.gmOAIJZy.js"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunLinkItem.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index.DcfGn8Ue.js",
+    "/assets/index.Cx7WbAUN.js",
     "/assets/index.DfXt1eUW.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunLinks.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index.DcfGn8Ue.js",
+    "/assets/index.Cx7WbAUN.js",
     "/assets/index.DfXt1eUW.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunLinks.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/index.DcfGn8Ue.js",
+    "/assets/index.Cx7WbAUN.js",
     "/assets/index.DfXt1eUW.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunLoading.vue": [
@@ -7105,7 +6286,7 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunMdTimeWarning.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Dv2MygBm.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.BFZmfyEH.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunNavMenu.vue?vue&type=script&setup=true&lang.ts": [
@@ -7172,11 +6353,11 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunNotice.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/home.jQPIVF4i.js",
+    "/assets/home.Ce3vKIjg.js",
     "/assets/home.CdbHDXWN.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunNotice.vue?vue&type=style&index=0&lang.css": [
-    "/assets/home.jQPIVF4i.js",
+    "/assets/home.Ce3vKIjg.js",
     "/assets/home.CdbHDXWN.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunOutline.vue": [
@@ -7687,71 +6868,71 @@
     "/assets/YunPageHeader.vue_vue_type_script_setup_true_lang.BE-4Vecm.js"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPagination.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/YunPostList.vue_vue_type_script_setup_true_lang.0rMqm8F9.js",
+    "/assets/YunPostList.vue_vue_type_script_setup_true_lang.alyuCeWT.js",
     "/assets/YunPostList.BfWGcc9d.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPagination.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/YunPostList.vue_vue_type_script_setup_true_lang.0rMqm8F9.js",
+    "/assets/YunPostList.vue_vue_type_script_setup_true_lang.alyuCeWT.js",
     "/assets/YunPostList.BfWGcc9d.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostCard.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/YunPostList.vue_vue_type_script_setup_true_lang.0rMqm8F9.js",
+    "/assets/YunPostList.vue_vue_type_script_setup_true_lang.alyuCeWT.js",
     "/assets/YunPostList.BfWGcc9d.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostCard.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/YunPostList.vue_vue_type_script_setup_true_lang.0rMqm8F9.js",
+    "/assets/YunPostList.vue_vue_type_script_setup_true_lang.alyuCeWT.js",
     "/assets/YunPostList.BfWGcc9d.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostCategories.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/YunPostMeta.vue_vue_type_script_setup_true_lang.C8IVTKnq.js",
+    "/assets/YunPostMeta.vue_vue_type_script_setup_true_lang.C8os6dl8.js",
     "/assets/YunPostMeta.DCrVMfuT.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostCategoriesAndTags.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/post.JETQaInR.js",
+    "/assets/post.pbixOyOf.js",
     "/assets/post.DDxwAI70.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostCollapse.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/YunPostCollapse.vue_vue_type_style_index_0_lang.BapcybxD.js",
+    "/assets/YunPostCollapse.vue_vue_type_style_index_0_lang.BW_hOj3a.js",
     "/assets/YunPostCollapse.CLDXGmA8.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostCollapse.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/YunPostCollapse.vue_vue_type_style_index_0_lang.BapcybxD.js",
+    "/assets/YunPostCollapse.vue_vue_type_style_index_0_lang.BW_hOj3a.js",
     "/assets/YunPostCollapse.CLDXGmA8.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostCollapseItem.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/YunPostCollapse.vue_vue_type_style_index_0_lang.BapcybxD.js",
+    "/assets/YunPostCollapse.vue_vue_type_style_index_0_lang.BW_hOj3a.js",
     "/assets/YunPostCollapse.CLDXGmA8.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostCollapseItem.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/YunPostCollapse.vue_vue_type_style_index_0_lang.BapcybxD.js",
+    "/assets/YunPostCollapse.vue_vue_type_style_index_0_lang.BW_hOj3a.js",
     "/assets/YunPostCollapse.CLDXGmA8.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostDateMeta.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/YunPostMeta.vue_vue_type_script_setup_true_lang.C8IVTKnq.js",
+    "/assets/YunPostMeta.vue_vue_type_script_setup_true_lang.C8os6dl8.js",
     "/assets/YunPostMeta.DCrVMfuT.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostList.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/YunPostList.vue_vue_type_script_setup_true_lang.0rMqm8F9.js",
+    "/assets/YunPostList.vue_vue_type_script_setup_true_lang.alyuCeWT.js",
     "/assets/YunPostList.BfWGcc9d.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostMeta.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/YunPostMeta.vue_vue_type_script_setup_true_lang.C8IVTKnq.js",
+    "/assets/YunPostMeta.vue_vue_type_script_setup_true_lang.C8os6dl8.js",
     "/assets/YunPostMeta.DCrVMfuT.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostMeta.vue?vue&type=style&index=0&lang.css": [
-    "/assets/YunPostMeta.vue_vue_type_script_setup_true_lang.C8IVTKnq.js",
+    "/assets/YunPostMeta.vue_vue_type_script_setup_true_lang.C8os6dl8.js",
     "/assets/YunPostMeta.DCrVMfuT.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostNav.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Dv2MygBm.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.BFZmfyEH.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostNav.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Dv2MygBm.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.BFZmfyEH.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostTags.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/YunPostMeta.vue_vue_type_script_setup_true_lang.C8IVTKnq.js",
+    "/assets/YunPostMeta.vue_vue_type_script_setup_true_lang.C8os6dl8.js",
     "/assets/YunPostMeta.DCrVMfuT.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostsInfo.vue?vue&type=script&setup=true&lang.ts": [
@@ -7881,19 +7062,19 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPrologue.vue": [
-    "/assets/home.jQPIVF4i.js",
+    "/assets/home.Ce3vKIjg.js",
     "/assets/home.CdbHDXWN.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPrologue.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/home.jQPIVF4i.js",
+    "/assets/home.Ce3vKIjg.js",
     "/assets/home.CdbHDXWN.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunSay.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/home.jQPIVF4i.js",
+    "/assets/home.Ce3vKIjg.js",
     "/assets/home.CdbHDXWN.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunSay.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/home.jQPIVF4i.js",
+    "/assets/home.Ce3vKIjg.js",
     "/assets/home.CdbHDXWN.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunSearchBtn.vue?vue&type=script&setup=true&lang.ts": [
@@ -8086,11 +7267,11 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunSelect.vue": [
-    "/assets/YunComment.vue_vue_type_style_index_0_lang.Bilcx1Rp.js",
+    "/assets/YunComment.vue_vue_type_style_index_0_lang.Dv2DjFyo.js",
     "/assets/YunComment.Jrg_E_v_.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunSelect.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/YunComment.vue_vue_type_style_index_0_lang.Bilcx1Rp.js",
+    "/assets/YunComment.vue_vue_type_style_index_0_lang.Dv2DjFyo.js",
     "/assets/YunComment.Jrg_E_v_.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunSidebarCard.vue?vue&type=script&setup=true&lang.ts": [
@@ -8661,11 +7842,11 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunSponsor.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/YunSponsor.vue_vue_type_style_index_0_lang.DgQlByeP.js",
+    "/assets/YunSponsor.vue_vue_type_style_index_0_lang.CXl3Xvaq.js",
     "/assets/YunSponsor.BJOC5yvc.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunSponsor.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/YunSponsor.vue_vue_type_style_index_0_lang.DgQlByeP.js",
+    "/assets/YunSponsor.vue_vue_type_style_index_0_lang.CXl3Xvaq.js",
     "/assets/YunSponsor.BJOC5yvc.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunToggleLocale.vue?vue&type=script&setup=true&lang.ts": [
@@ -8732,19 +7913,19 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/animation/LineBurstEffects.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/home.jQPIVF4i.js",
+    "/assets/home.Ce3vKIjg.js",
     "/assets/home.CdbHDXWN.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/animation/LineBurstEffects.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/home.jQPIVF4i.js",
+    "/assets/home.Ce3vKIjg.js",
     "/assets/home.CdbHDXWN.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/animation/YunAnimLineDraw.vue": [
-    "/assets/home.jQPIVF4i.js",
+    "/assets/home.Ce3vKIjg.js",
     "/assets/home.CdbHDXWN.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/animation/YunAnimLineDraw.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/home.jQPIVF4i.js",
+    "/assets/home.Ce3vKIjg.js",
     "/assets/home.CdbHDXWN.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/author/YunAuthorAvatar.vue?vue&type=script&setup=true&lang.ts": [
@@ -8874,7 +8055,7 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/author/YunAuthorIntro.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/home.jQPIVF4i.js",
+    "/assets/home.Ce3vKIjg.js",
     "/assets/home.CdbHDXWN.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/author/YunAuthorName.vue?vue&type=script&setup=true&lang.ts": [
@@ -8941,7 +8122,7 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/collection/YunCollectionItem.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/collections.BfOH9l67.js"
+    "/assets/collections.Db_Jb7gQ.js"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/config/YunToggleDark.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
@@ -9637,47 +8818,47 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/project/YunProjectCard.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/projects.BqqIMTe6.js",
+    "/assets/projects.PMTgKVwX.js",
     "/assets/projects.Dti-qd8N.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/project/YunProjectCollection.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/projects.BqqIMTe6.js",
+    "/assets/projects.PMTgKVwX.js",
     "/assets/projects.Dti-qd8N.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/project/YunProjectLinkItem.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/projects.BqqIMTe6.js",
+    "/assets/projects.PMTgKVwX.js",
     "/assets/projects.Dti-qd8N.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/project/YunProjectLinkItem.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/projects.BqqIMTe6.js",
+    "/assets/projects.PMTgKVwX.js",
     "/assets/projects.Dti-qd8N.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/project/YunProjectToggleButton.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/projects.BqqIMTe6.js",
+    "/assets/projects.PMTgKVwX.js",
     "/assets/projects.Dti-qd8N.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/project/YunProjects.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/projects.BqqIMTe6.js",
+    "/assets/projects.PMTgKVwX.js",
     "/assets/projects.Dti-qd8N.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/prologue/YunPrologueSquare.vue": [
-    "/assets/home.jQPIVF4i.js",
+    "/assets/home.Ce3vKIjg.js",
     "/assets/home.CdbHDXWN.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/prologue/YunPrologueSquare.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/home.jQPIVF4i.js",
+    "/assets/home.Ce3vKIjg.js",
     "/assets/home.CdbHDXWN.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/site/YunSiteDescription.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/home.jQPIVF4i.js",
+    "/assets/home.Ce3vKIjg.js",
     "/assets/home.CdbHDXWN.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/site/YunSiteLinkItem.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/home.jQPIVF4i.js",
+    "/assets/home.Ce3vKIjg.js",
     "/assets/home.CdbHDXWN.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/site/YunSiteSubtitle.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/home.jQPIVF4i.js",
+    "/assets/home.Ce3vKIjg.js",
     "/assets/home.CdbHDXWN.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/site/YunSiteTitle.vue?vue&type=script&setup=true&lang.ts": [
@@ -10185,33 +9366,33 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/third/YunAlgoliaSearch.vue": [
-    "/assets/YunAlgoliaSearch.FVAVZKzU.js"
+    "/assets/YunAlgoliaSearch.BlB-lLXN.js"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/third/YunAlgoliaSearch.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/YunAlgoliaSearch.FVAVZKzU.js"
+    "/assets/YunAlgoliaSearch.BlB-lLXN.js"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/third/YunArtalk.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/YunComment.vue_vue_type_style_index_0_lang.Bilcx1Rp.js",
+    "/assets/YunComment.vue_vue_type_style_index_0_lang.Dv2DjFyo.js",
     "/assets/YunComment.Jrg_E_v_.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/third/YunTwikoo.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/YunComment.vue_vue_type_style_index_0_lang.Bilcx1Rp.js",
+    "/assets/YunComment.vue_vue_type_style_index_0_lang.Dv2DjFyo.js",
     "/assets/YunComment.Jrg_E_v_.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/third/YunWaline.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/YunComment.vue_vue_type_style_index_0_lang.Bilcx1Rp.js",
+    "/assets/YunComment.vue_vue_type_style_index_0_lang.Dv2DjFyo.js",
     "/assets/YunComment.Jrg_E_v_.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/third/YunWalineMeta.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/YunPostMeta.vue_vue_type_script_setup_true_lang.C8IVTKnq.js",
+    "/assets/YunPostMeta.vue_vue_type_script_setup_true_lang.C8os6dl8.js",
     "/assets/YunPostMeta.DCrVMfuT.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/ui/YunBannerCharContainer.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/home.jQPIVF4i.js",
+    "/assets/home.Ce3vKIjg.js",
     "/assets/home.CdbHDXWN.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/ui/YunExcerptBottomGradient.vue": [
-    "/assets/YunPostList.vue_vue_type_script_setup_true_lang.0rMqm8F9.js",
+    "/assets/YunPostList.vue_vue_type_script_setup_true_lang.alyuCeWT.js",
     "/assets/YunPostList.BfWGcc9d.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/ui/YunGradientDivider.vue": [
@@ -10341,7 +9522,7 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/composables/animation.ts": [
-    "/assets/animation.DisEomPQ.js"
+    "/assets/animation.B_KCTxDj.js"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/composables/config.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
@@ -10470,54 +9651,54 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/composables/post.ts": [
-    "/assets/post.o2sy2NLS.js"
+    "/assets/post.C4H0uroJ.js"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/composables/tags.ts": [
-    "/assets/tags.BttqrosH.js"
+    "/assets/tags.gmOAIJZy.js"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/composables/useYunBanner.ts": [
-    "/assets/home.jQPIVF4i.js",
+    "/assets/home.Ce3vKIjg.js",
     "/assets/home.CdbHDXWN.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/404.vue": [
-    "/assets/404.BWQV9hD9.js",
+    "/assets/404.yH1mZD6f.js",
     "/assets/404.DXo8DmXT.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/404.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/404.BWQV9hD9.js",
+    "/assets/404.yH1mZD6f.js",
     "/assets/404.DXo8DmXT.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/albums.vue": [
-    "/assets/albums.BC2oMqch.js",
+    "/assets/albums.B1NQJfRw.js",
     "/assets/albums.B673jvUl.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/albums.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/albums.BC2oMqch.js",
+    "/assets/albums.B1NQJfRw.js",
     "/assets/albums.B673jvUl.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/archives.vue": [
-    "/assets/archives.mGoqAATu.js"
+    "/assets/archives.CnE-0xUE.js"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/archives.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/archives.mGoqAATu.js"
+    "/assets/archives.CnE-0xUE.js"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/categories.vue": [
-    "/assets/categories.DPFOR9Yb.js"
+    "/assets/categories.BCB1Rv02.js"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/categories.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/categories.DPFOR9Yb.js"
+    "/assets/categories.BCB1Rv02.js"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/collection.vue": [
-    "/assets/collection.DMyCy1G1.js"
+    "/assets/collection.BZWsIU-T.js"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/collection.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/collection.DMyCy1G1.js"
+    "/assets/collection.BZWsIU-T.js"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/collections.vue": [
-    "/assets/collections.BfOH9l67.js"
+    "/assets/collections.Db_Jb7gQ.js"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/collections.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/collections.BfOH9l67.js"
+    "/assets/collections.Db_Jb7gQ.js"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/default.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
@@ -10583,46 +9764,46 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/gallery.vue": [
-    "/assets/gallery.ChXczxsD.js"
+    "/assets/gallery.nbxtuCzh.js"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/gallery.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/gallery.ChXczxsD.js"
+    "/assets/gallery.nbxtuCzh.js"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/home.vue": [
-    "/assets/home.jQPIVF4i.js",
+    "/assets/home.Ce3vKIjg.js",
     "/assets/home.CdbHDXWN.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/home.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/home.jQPIVF4i.js",
+    "/assets/home.Ce3vKIjg.js",
     "/assets/home.CdbHDXWN.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/post.vue": [
-    "/assets/post.JETQaInR.js",
+    "/assets/post.pbixOyOf.js",
     "/assets/post.DDxwAI70.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/post.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/post.JETQaInR.js",
+    "/assets/post.pbixOyOf.js",
     "/assets/post.DDxwAI70.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/posts.vue": [
-    "/assets/posts.DGK6Khap.js"
+    "/assets/posts.Cf8s7-eM.js"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/posts.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/posts.DGK6Khap.js"
+    "/assets/posts.Cf8s7-eM.js"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/projects.vue": [
-    "/assets/projects.BqqIMTe6.js",
+    "/assets/projects.PMTgKVwX.js",
     "/assets/projects.Dti-qd8N.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/projects.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/projects.BqqIMTe6.js",
+    "/assets/projects.PMTgKVwX.js",
     "/assets/projects.Dti-qd8N.css"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/tags.vue": [
-    "/assets/tags.BttqrosH.js"
+    "/assets/tags.gmOAIJZy.js"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/tags.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/tags.BttqrosH.js"
+    "/assets/tags.gmOAIJZy.js"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/locales/en.yml": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
@@ -10751,19 +9932,19 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/pages/index.vue": [
-    "/assets/index.Dfg4bFGb.js"
+    "/assets/index.C-6PkjbT.js"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/pages/page/[page].vue": [
-    "/assets/_page_.D0TLn2jz.js"
+    "/assets/_page_.D15uhPC2.js"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/pages/page/[page].vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_page_.D0TLn2jz.js"
+    "/assets/_page_.D15uhPC2.js"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/pages/posts/index.vue": [
-    "/assets/index.DM6rAL0j.js"
+    "/assets/index.D79HXxcU.js"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/pages/posts/index.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index.DM6rAL0j.js"
+    "/assets/index.D79HXxcU.js"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/setup/main.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
@@ -11273,107 +10454,107 @@
     "/assets/animation.BmKSPrMr.js"
   ],
   "../../../../valaxy-theme-yun@0.22.17_vue@3.5.13_typescript@5.8.3_/node_modules/valaxy-theme-yun/utils/index.ts": [
-    "/assets/index.C0H_zG8J.js",
+    "/assets/index.D__IMBdw.js",
     "/assets/none.DLM1AMsD.jpg"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/autoInitialize.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Dv2MygBm.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.BFZmfyEH.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/callback.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Dv2MygBm.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.BFZmfyEH.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/cancelOnExit.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Dv2MygBm.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.BFZmfyEH.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/class.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Dv2MygBm.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.BFZmfyEH.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/constants.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Dv2MygBm.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.BFZmfyEH.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/counters.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Dv2MygBm.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.BFZmfyEH.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/data.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Dv2MygBm.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.BFZmfyEH.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/defaults.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Dv2MygBm.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.BFZmfyEH.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/dom.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Dv2MygBm.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.BFZmfyEH.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/elementStatus.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Dv2MygBm.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.BFZmfyEH.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/environment.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Dv2MygBm.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.BFZmfyEH.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/event.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Dv2MygBm.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.BFZmfyEH.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/forEachSource.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Dv2MygBm.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.BFZmfyEH.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/intersectionHandlers.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Dv2MygBm.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.BFZmfyEH.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/intersectionObserver.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Dv2MygBm.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.BFZmfyEH.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/lazyload.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Dv2MygBm.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.BFZmfyEH.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/load.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Dv2MygBm.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.BFZmfyEH.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/native.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Dv2MygBm.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.BFZmfyEH.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/online.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Dv2MygBm.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.BFZmfyEH.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/originalAttributes.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Dv2MygBm.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.BFZmfyEH.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/reset.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Dv2MygBm.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.BFZmfyEH.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/restore.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Dv2MygBm.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.BFZmfyEH.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/set.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Dv2MygBm.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.BFZmfyEH.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/tempImage.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Dv2MygBm.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.BFZmfyEH.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/unobserve.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Dv2MygBm.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.BFZmfyEH.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vite-ssg@25.2.0_beasties@0.2.0_prettier@3.5.1_vite@6.2.5_@types+node@22.14.0_jiti@2.4.2_9dd2b27b103ea17966c39a773dbf8ef3/node_modules/vite-ssg/dist/index.mjs": [
@@ -11572,640 +10753,10 @@
     "/assets/chunks/vue-i18n.CibY5xOG.js"
   ],
   "../../../../vue-router@4.5.0_vue@3.5.13_typescript@5.8.3_/node_modules/vue-router/dist/vue-router.mjs": [
-    "/assets/chunks/vue-router.C2zzJYG-.js"
+    "/assets/chunks/vue-router.BkcolTQi.js"
   ],
   "../../../../vue@3.5.13_typescript@5.8.3/node_modules/vue/dist/vue.esm-bundler.js": [
     "/assets/chunks/@vueuse/motion.BltUbIEt.js"
-  ],
-  "../../../../webrtc-adapter@9.0.1/node_modules/webrtc-adapter/src/js/adapter_core.js": [
-    "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
-    "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
-    "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
-    "/assets/KaTeX_Caligraphic-Bold.Dq_IR9rO.woff2",
-    "/assets/KaTeX_Caligraphic-Bold.BEiXGLvX.woff",
-    "/assets/KaTeX_Caligraphic-Bold.ATXxdsX0.ttf",
-    "/assets/KaTeX_Caligraphic-Regular.Di6jR-x-.woff2",
-    "/assets/KaTeX_Caligraphic-Regular.CTRA-rTL.woff",
-    "/assets/KaTeX_Caligraphic-Regular.wX97UBjC.ttf",
-    "/assets/KaTeX_Fraktur-Bold.CL6g_b3V.woff2",
-    "/assets/KaTeX_Fraktur-Bold.BsDP51OF.woff",
-    "/assets/KaTeX_Fraktur-Bold.BdnERNNW.ttf",
-    "/assets/KaTeX_Fraktur-Regular.CTYiF6lA.woff2",
-    "/assets/KaTeX_Fraktur-Regular.Dxdc4cR9.woff",
-    "/assets/KaTeX_Fraktur-Regular.CB_wures.ttf",
-    "/assets/KaTeX_Main-Bold.Cx986IdX.woff2",
-    "/assets/KaTeX_Main-Bold.Jm3AIy58.woff",
-    "/assets/KaTeX_Main-Bold.waoOVXN0.ttf",
-    "/assets/KaTeX_Main-BoldItalic.DxDJ3AOS.woff2",
-    "/assets/KaTeX_Main-BoldItalic.SpSLRI95.woff",
-    "/assets/KaTeX_Main-BoldItalic.DzxPMmG6.ttf",
-    "/assets/KaTeX_Main-Italic.NWA7e6Wa.woff2",
-    "/assets/KaTeX_Main-Italic.BMLOBm91.woff",
-    "/assets/KaTeX_Main-Italic.3WenGoN9.ttf",
-    "/assets/KaTeX_Main-Regular.B22Nviop.woff2",
-    "/assets/KaTeX_Main-Regular.Dr94JaBh.woff",
-    "/assets/KaTeX_Main-Regular.ypZvNtVU.ttf",
-    "/assets/KaTeX_Math-BoldItalic.CZnvNsCZ.woff2",
-    "/assets/KaTeX_Math-BoldItalic.iY-2wyZ7.woff",
-    "/assets/KaTeX_Math-BoldItalic.B3XSjfu4.ttf",
-    "/assets/KaTeX_Math-Italic.t53AETM-.woff2",
-    "/assets/KaTeX_Math-Italic.DA0__PXp.woff",
-    "/assets/KaTeX_Math-Italic.flOr_0UB.ttf",
-    "/assets/KaTeX_SansSerif-Bold.D1sUS0GD.woff2",
-    "/assets/KaTeX_SansSerif-Bold.DbIhKOiC.woff",
-    "/assets/KaTeX_SansSerif-Bold.CFMepnvq.ttf",
-    "/assets/KaTeX_SansSerif-Italic.C3H0VqGB.woff2",
-    "/assets/KaTeX_SansSerif-Italic.DN2j7dab.woff",
-    "/assets/KaTeX_SansSerif-Italic.YYjJ1zSn.ttf",
-    "/assets/KaTeX_SansSerif-Regular.DDBCnlJ7.woff2",
-    "/assets/KaTeX_SansSerif-Regular.CS6fqUqJ.woff",
-    "/assets/KaTeX_SansSerif-Regular.BNo7hRIc.ttf",
-    "/assets/KaTeX_Script-Regular.D3wIWfF6.woff2",
-    "/assets/KaTeX_Script-Regular.D5yQViql.woff",
-    "/assets/KaTeX_Script-Regular.C5JkGWo-.ttf",
-    "/assets/KaTeX_Size1-Regular.mCD8mA8B.woff2",
-    "/assets/KaTeX_Size1-Regular.C195tn64.woff",
-    "/assets/KaTeX_Size1-Regular.Dbsnue_I.ttf",
-    "/assets/KaTeX_Size2-Regular.Dy4dx90m.woff2",
-    "/assets/KaTeX_Size2-Regular.oD1tc_U0.woff",
-    "/assets/KaTeX_Size2-Regular.B7gKUWhC.ttf",
-    "/assets/KaTeX_Size3-Regular.CTq5MqoE.woff",
-    "/assets/KaTeX_Size3-Regular.DgpXs0kz.ttf",
-    "/assets/KaTeX_Size4-Regular.Dl5lxZxV.woff2",
-    "/assets/KaTeX_Size4-Regular.BF-4gkZK.woff",
-    "/assets/KaTeX_Size4-Regular.DWFBv043.ttf",
-    "/assets/KaTeX_Typewriter-Regular.CO6r4hn1.woff2",
-    "/assets/KaTeX_Typewriter-Regular.C0xS9mPB.woff",
-    "/assets/KaTeX_Typewriter-Regular.D3Ib7_Hf.ttf",
-    "/assets/bg-img.kXdNMxcF.jpg",
-    "/assets/sidebar-bg-img.mp54gEws.webp"
-  ],
-  "../../../../webrtc-adapter@9.0.1/node_modules/webrtc-adapter/src/js/adapter_factory.js": [
-    "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
-    "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
-    "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
-    "/assets/KaTeX_Caligraphic-Bold.Dq_IR9rO.woff2",
-    "/assets/KaTeX_Caligraphic-Bold.BEiXGLvX.woff",
-    "/assets/KaTeX_Caligraphic-Bold.ATXxdsX0.ttf",
-    "/assets/KaTeX_Caligraphic-Regular.Di6jR-x-.woff2",
-    "/assets/KaTeX_Caligraphic-Regular.CTRA-rTL.woff",
-    "/assets/KaTeX_Caligraphic-Regular.wX97UBjC.ttf",
-    "/assets/KaTeX_Fraktur-Bold.CL6g_b3V.woff2",
-    "/assets/KaTeX_Fraktur-Bold.BsDP51OF.woff",
-    "/assets/KaTeX_Fraktur-Bold.BdnERNNW.ttf",
-    "/assets/KaTeX_Fraktur-Regular.CTYiF6lA.woff2",
-    "/assets/KaTeX_Fraktur-Regular.Dxdc4cR9.woff",
-    "/assets/KaTeX_Fraktur-Regular.CB_wures.ttf",
-    "/assets/KaTeX_Main-Bold.Cx986IdX.woff2",
-    "/assets/KaTeX_Main-Bold.Jm3AIy58.woff",
-    "/assets/KaTeX_Main-Bold.waoOVXN0.ttf",
-    "/assets/KaTeX_Main-BoldItalic.DxDJ3AOS.woff2",
-    "/assets/KaTeX_Main-BoldItalic.SpSLRI95.woff",
-    "/assets/KaTeX_Main-BoldItalic.DzxPMmG6.ttf",
-    "/assets/KaTeX_Main-Italic.NWA7e6Wa.woff2",
-    "/assets/KaTeX_Main-Italic.BMLOBm91.woff",
-    "/assets/KaTeX_Main-Italic.3WenGoN9.ttf",
-    "/assets/KaTeX_Main-Regular.B22Nviop.woff2",
-    "/assets/KaTeX_Main-Regular.Dr94JaBh.woff",
-    "/assets/KaTeX_Main-Regular.ypZvNtVU.ttf",
-    "/assets/KaTeX_Math-BoldItalic.CZnvNsCZ.woff2",
-    "/assets/KaTeX_Math-BoldItalic.iY-2wyZ7.woff",
-    "/assets/KaTeX_Math-BoldItalic.B3XSjfu4.ttf",
-    "/assets/KaTeX_Math-Italic.t53AETM-.woff2",
-    "/assets/KaTeX_Math-Italic.DA0__PXp.woff",
-    "/assets/KaTeX_Math-Italic.flOr_0UB.ttf",
-    "/assets/KaTeX_SansSerif-Bold.D1sUS0GD.woff2",
-    "/assets/KaTeX_SansSerif-Bold.DbIhKOiC.woff",
-    "/assets/KaTeX_SansSerif-Bold.CFMepnvq.ttf",
-    "/assets/KaTeX_SansSerif-Italic.C3H0VqGB.woff2",
-    "/assets/KaTeX_SansSerif-Italic.DN2j7dab.woff",
-    "/assets/KaTeX_SansSerif-Italic.YYjJ1zSn.ttf",
-    "/assets/KaTeX_SansSerif-Regular.DDBCnlJ7.woff2",
-    "/assets/KaTeX_SansSerif-Regular.CS6fqUqJ.woff",
-    "/assets/KaTeX_SansSerif-Regular.BNo7hRIc.ttf",
-    "/assets/KaTeX_Script-Regular.D3wIWfF6.woff2",
-    "/assets/KaTeX_Script-Regular.D5yQViql.woff",
-    "/assets/KaTeX_Script-Regular.C5JkGWo-.ttf",
-    "/assets/KaTeX_Size1-Regular.mCD8mA8B.woff2",
-    "/assets/KaTeX_Size1-Regular.C195tn64.woff",
-    "/assets/KaTeX_Size1-Regular.Dbsnue_I.ttf",
-    "/assets/KaTeX_Size2-Regular.Dy4dx90m.woff2",
-    "/assets/KaTeX_Size2-Regular.oD1tc_U0.woff",
-    "/assets/KaTeX_Size2-Regular.B7gKUWhC.ttf",
-    "/assets/KaTeX_Size3-Regular.CTq5MqoE.woff",
-    "/assets/KaTeX_Size3-Regular.DgpXs0kz.ttf",
-    "/assets/KaTeX_Size4-Regular.Dl5lxZxV.woff2",
-    "/assets/KaTeX_Size4-Regular.BF-4gkZK.woff",
-    "/assets/KaTeX_Size4-Regular.DWFBv043.ttf",
-    "/assets/KaTeX_Typewriter-Regular.CO6r4hn1.woff2",
-    "/assets/KaTeX_Typewriter-Regular.C0xS9mPB.woff",
-    "/assets/KaTeX_Typewriter-Regular.D3Ib7_Hf.ttf",
-    "/assets/bg-img.kXdNMxcF.jpg",
-    "/assets/sidebar-bg-img.mp54gEws.webp"
-  ],
-  "../../../../webrtc-adapter@9.0.1/node_modules/webrtc-adapter/src/js/chrome/chrome_shim.js": [
-    "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
-    "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
-    "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
-    "/assets/KaTeX_Caligraphic-Bold.Dq_IR9rO.woff2",
-    "/assets/KaTeX_Caligraphic-Bold.BEiXGLvX.woff",
-    "/assets/KaTeX_Caligraphic-Bold.ATXxdsX0.ttf",
-    "/assets/KaTeX_Caligraphic-Regular.Di6jR-x-.woff2",
-    "/assets/KaTeX_Caligraphic-Regular.CTRA-rTL.woff",
-    "/assets/KaTeX_Caligraphic-Regular.wX97UBjC.ttf",
-    "/assets/KaTeX_Fraktur-Bold.CL6g_b3V.woff2",
-    "/assets/KaTeX_Fraktur-Bold.BsDP51OF.woff",
-    "/assets/KaTeX_Fraktur-Bold.BdnERNNW.ttf",
-    "/assets/KaTeX_Fraktur-Regular.CTYiF6lA.woff2",
-    "/assets/KaTeX_Fraktur-Regular.Dxdc4cR9.woff",
-    "/assets/KaTeX_Fraktur-Regular.CB_wures.ttf",
-    "/assets/KaTeX_Main-Bold.Cx986IdX.woff2",
-    "/assets/KaTeX_Main-Bold.Jm3AIy58.woff",
-    "/assets/KaTeX_Main-Bold.waoOVXN0.ttf",
-    "/assets/KaTeX_Main-BoldItalic.DxDJ3AOS.woff2",
-    "/assets/KaTeX_Main-BoldItalic.SpSLRI95.woff",
-    "/assets/KaTeX_Main-BoldItalic.DzxPMmG6.ttf",
-    "/assets/KaTeX_Main-Italic.NWA7e6Wa.woff2",
-    "/assets/KaTeX_Main-Italic.BMLOBm91.woff",
-    "/assets/KaTeX_Main-Italic.3WenGoN9.ttf",
-    "/assets/KaTeX_Main-Regular.B22Nviop.woff2",
-    "/assets/KaTeX_Main-Regular.Dr94JaBh.woff",
-    "/assets/KaTeX_Main-Regular.ypZvNtVU.ttf",
-    "/assets/KaTeX_Math-BoldItalic.CZnvNsCZ.woff2",
-    "/assets/KaTeX_Math-BoldItalic.iY-2wyZ7.woff",
-    "/assets/KaTeX_Math-BoldItalic.B3XSjfu4.ttf",
-    "/assets/KaTeX_Math-Italic.t53AETM-.woff2",
-    "/assets/KaTeX_Math-Italic.DA0__PXp.woff",
-    "/assets/KaTeX_Math-Italic.flOr_0UB.ttf",
-    "/assets/KaTeX_SansSerif-Bold.D1sUS0GD.woff2",
-    "/assets/KaTeX_SansSerif-Bold.DbIhKOiC.woff",
-    "/assets/KaTeX_SansSerif-Bold.CFMepnvq.ttf",
-    "/assets/KaTeX_SansSerif-Italic.C3H0VqGB.woff2",
-    "/assets/KaTeX_SansSerif-Italic.DN2j7dab.woff",
-    "/assets/KaTeX_SansSerif-Italic.YYjJ1zSn.ttf",
-    "/assets/KaTeX_SansSerif-Regular.DDBCnlJ7.woff2",
-    "/assets/KaTeX_SansSerif-Regular.CS6fqUqJ.woff",
-    "/assets/KaTeX_SansSerif-Regular.BNo7hRIc.ttf",
-    "/assets/KaTeX_Script-Regular.D3wIWfF6.woff2",
-    "/assets/KaTeX_Script-Regular.D5yQViql.woff",
-    "/assets/KaTeX_Script-Regular.C5JkGWo-.ttf",
-    "/assets/KaTeX_Size1-Regular.mCD8mA8B.woff2",
-    "/assets/KaTeX_Size1-Regular.C195tn64.woff",
-    "/assets/KaTeX_Size1-Regular.Dbsnue_I.ttf",
-    "/assets/KaTeX_Size2-Regular.Dy4dx90m.woff2",
-    "/assets/KaTeX_Size2-Regular.oD1tc_U0.woff",
-    "/assets/KaTeX_Size2-Regular.B7gKUWhC.ttf",
-    "/assets/KaTeX_Size3-Regular.CTq5MqoE.woff",
-    "/assets/KaTeX_Size3-Regular.DgpXs0kz.ttf",
-    "/assets/KaTeX_Size4-Regular.Dl5lxZxV.woff2",
-    "/assets/KaTeX_Size4-Regular.BF-4gkZK.woff",
-    "/assets/KaTeX_Size4-Regular.DWFBv043.ttf",
-    "/assets/KaTeX_Typewriter-Regular.CO6r4hn1.woff2",
-    "/assets/KaTeX_Typewriter-Regular.C0xS9mPB.woff",
-    "/assets/KaTeX_Typewriter-Regular.D3Ib7_Hf.ttf",
-    "/assets/bg-img.kXdNMxcF.jpg",
-    "/assets/sidebar-bg-img.mp54gEws.webp"
-  ],
-  "../../../../webrtc-adapter@9.0.1/node_modules/webrtc-adapter/src/js/chrome/getusermedia.js": [
-    "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
-    "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
-    "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
-    "/assets/KaTeX_Caligraphic-Bold.Dq_IR9rO.woff2",
-    "/assets/KaTeX_Caligraphic-Bold.BEiXGLvX.woff",
-    "/assets/KaTeX_Caligraphic-Bold.ATXxdsX0.ttf",
-    "/assets/KaTeX_Caligraphic-Regular.Di6jR-x-.woff2",
-    "/assets/KaTeX_Caligraphic-Regular.CTRA-rTL.woff",
-    "/assets/KaTeX_Caligraphic-Regular.wX97UBjC.ttf",
-    "/assets/KaTeX_Fraktur-Bold.CL6g_b3V.woff2",
-    "/assets/KaTeX_Fraktur-Bold.BsDP51OF.woff",
-    "/assets/KaTeX_Fraktur-Bold.BdnERNNW.ttf",
-    "/assets/KaTeX_Fraktur-Regular.CTYiF6lA.woff2",
-    "/assets/KaTeX_Fraktur-Regular.Dxdc4cR9.woff",
-    "/assets/KaTeX_Fraktur-Regular.CB_wures.ttf",
-    "/assets/KaTeX_Main-Bold.Cx986IdX.woff2",
-    "/assets/KaTeX_Main-Bold.Jm3AIy58.woff",
-    "/assets/KaTeX_Main-Bold.waoOVXN0.ttf",
-    "/assets/KaTeX_Main-BoldItalic.DxDJ3AOS.woff2",
-    "/assets/KaTeX_Main-BoldItalic.SpSLRI95.woff",
-    "/assets/KaTeX_Main-BoldItalic.DzxPMmG6.ttf",
-    "/assets/KaTeX_Main-Italic.NWA7e6Wa.woff2",
-    "/assets/KaTeX_Main-Italic.BMLOBm91.woff",
-    "/assets/KaTeX_Main-Italic.3WenGoN9.ttf",
-    "/assets/KaTeX_Main-Regular.B22Nviop.woff2",
-    "/assets/KaTeX_Main-Regular.Dr94JaBh.woff",
-    "/assets/KaTeX_Main-Regular.ypZvNtVU.ttf",
-    "/assets/KaTeX_Math-BoldItalic.CZnvNsCZ.woff2",
-    "/assets/KaTeX_Math-BoldItalic.iY-2wyZ7.woff",
-    "/assets/KaTeX_Math-BoldItalic.B3XSjfu4.ttf",
-    "/assets/KaTeX_Math-Italic.t53AETM-.woff2",
-    "/assets/KaTeX_Math-Italic.DA0__PXp.woff",
-    "/assets/KaTeX_Math-Italic.flOr_0UB.ttf",
-    "/assets/KaTeX_SansSerif-Bold.D1sUS0GD.woff2",
-    "/assets/KaTeX_SansSerif-Bold.DbIhKOiC.woff",
-    "/assets/KaTeX_SansSerif-Bold.CFMepnvq.ttf",
-    "/assets/KaTeX_SansSerif-Italic.C3H0VqGB.woff2",
-    "/assets/KaTeX_SansSerif-Italic.DN2j7dab.woff",
-    "/assets/KaTeX_SansSerif-Italic.YYjJ1zSn.ttf",
-    "/assets/KaTeX_SansSerif-Regular.DDBCnlJ7.woff2",
-    "/assets/KaTeX_SansSerif-Regular.CS6fqUqJ.woff",
-    "/assets/KaTeX_SansSerif-Regular.BNo7hRIc.ttf",
-    "/assets/KaTeX_Script-Regular.D3wIWfF6.woff2",
-    "/assets/KaTeX_Script-Regular.D5yQViql.woff",
-    "/assets/KaTeX_Script-Regular.C5JkGWo-.ttf",
-    "/assets/KaTeX_Size1-Regular.mCD8mA8B.woff2",
-    "/assets/KaTeX_Size1-Regular.C195tn64.woff",
-    "/assets/KaTeX_Size1-Regular.Dbsnue_I.ttf",
-    "/assets/KaTeX_Size2-Regular.Dy4dx90m.woff2",
-    "/assets/KaTeX_Size2-Regular.oD1tc_U0.woff",
-    "/assets/KaTeX_Size2-Regular.B7gKUWhC.ttf",
-    "/assets/KaTeX_Size3-Regular.CTq5MqoE.woff",
-    "/assets/KaTeX_Size3-Regular.DgpXs0kz.ttf",
-    "/assets/KaTeX_Size4-Regular.Dl5lxZxV.woff2",
-    "/assets/KaTeX_Size4-Regular.BF-4gkZK.woff",
-    "/assets/KaTeX_Size4-Regular.DWFBv043.ttf",
-    "/assets/KaTeX_Typewriter-Regular.CO6r4hn1.woff2",
-    "/assets/KaTeX_Typewriter-Regular.C0xS9mPB.woff",
-    "/assets/KaTeX_Typewriter-Regular.D3Ib7_Hf.ttf",
-    "/assets/bg-img.kXdNMxcF.jpg",
-    "/assets/sidebar-bg-img.mp54gEws.webp"
-  ],
-  "../../../../webrtc-adapter@9.0.1/node_modules/webrtc-adapter/src/js/common_shim.js": [
-    "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
-    "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
-    "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
-    "/assets/KaTeX_Caligraphic-Bold.Dq_IR9rO.woff2",
-    "/assets/KaTeX_Caligraphic-Bold.BEiXGLvX.woff",
-    "/assets/KaTeX_Caligraphic-Bold.ATXxdsX0.ttf",
-    "/assets/KaTeX_Caligraphic-Regular.Di6jR-x-.woff2",
-    "/assets/KaTeX_Caligraphic-Regular.CTRA-rTL.woff",
-    "/assets/KaTeX_Caligraphic-Regular.wX97UBjC.ttf",
-    "/assets/KaTeX_Fraktur-Bold.CL6g_b3V.woff2",
-    "/assets/KaTeX_Fraktur-Bold.BsDP51OF.woff",
-    "/assets/KaTeX_Fraktur-Bold.BdnERNNW.ttf",
-    "/assets/KaTeX_Fraktur-Regular.CTYiF6lA.woff2",
-    "/assets/KaTeX_Fraktur-Regular.Dxdc4cR9.woff",
-    "/assets/KaTeX_Fraktur-Regular.CB_wures.ttf",
-    "/assets/KaTeX_Main-Bold.Cx986IdX.woff2",
-    "/assets/KaTeX_Main-Bold.Jm3AIy58.woff",
-    "/assets/KaTeX_Main-Bold.waoOVXN0.ttf",
-    "/assets/KaTeX_Main-BoldItalic.DxDJ3AOS.woff2",
-    "/assets/KaTeX_Main-BoldItalic.SpSLRI95.woff",
-    "/assets/KaTeX_Main-BoldItalic.DzxPMmG6.ttf",
-    "/assets/KaTeX_Main-Italic.NWA7e6Wa.woff2",
-    "/assets/KaTeX_Main-Italic.BMLOBm91.woff",
-    "/assets/KaTeX_Main-Italic.3WenGoN9.ttf",
-    "/assets/KaTeX_Main-Regular.B22Nviop.woff2",
-    "/assets/KaTeX_Main-Regular.Dr94JaBh.woff",
-    "/assets/KaTeX_Main-Regular.ypZvNtVU.ttf",
-    "/assets/KaTeX_Math-BoldItalic.CZnvNsCZ.woff2",
-    "/assets/KaTeX_Math-BoldItalic.iY-2wyZ7.woff",
-    "/assets/KaTeX_Math-BoldItalic.B3XSjfu4.ttf",
-    "/assets/KaTeX_Math-Italic.t53AETM-.woff2",
-    "/assets/KaTeX_Math-Italic.DA0__PXp.woff",
-    "/assets/KaTeX_Math-Italic.flOr_0UB.ttf",
-    "/assets/KaTeX_SansSerif-Bold.D1sUS0GD.woff2",
-    "/assets/KaTeX_SansSerif-Bold.DbIhKOiC.woff",
-    "/assets/KaTeX_SansSerif-Bold.CFMepnvq.ttf",
-    "/assets/KaTeX_SansSerif-Italic.C3H0VqGB.woff2",
-    "/assets/KaTeX_SansSerif-Italic.DN2j7dab.woff",
-    "/assets/KaTeX_SansSerif-Italic.YYjJ1zSn.ttf",
-    "/assets/KaTeX_SansSerif-Regular.DDBCnlJ7.woff2",
-    "/assets/KaTeX_SansSerif-Regular.CS6fqUqJ.woff",
-    "/assets/KaTeX_SansSerif-Regular.BNo7hRIc.ttf",
-    "/assets/KaTeX_Script-Regular.D3wIWfF6.woff2",
-    "/assets/KaTeX_Script-Regular.D5yQViql.woff",
-    "/assets/KaTeX_Script-Regular.C5JkGWo-.ttf",
-    "/assets/KaTeX_Size1-Regular.mCD8mA8B.woff2",
-    "/assets/KaTeX_Size1-Regular.C195tn64.woff",
-    "/assets/KaTeX_Size1-Regular.Dbsnue_I.ttf",
-    "/assets/KaTeX_Size2-Regular.Dy4dx90m.woff2",
-    "/assets/KaTeX_Size2-Regular.oD1tc_U0.woff",
-    "/assets/KaTeX_Size2-Regular.B7gKUWhC.ttf",
-    "/assets/KaTeX_Size3-Regular.CTq5MqoE.woff",
-    "/assets/KaTeX_Size3-Regular.DgpXs0kz.ttf",
-    "/assets/KaTeX_Size4-Regular.Dl5lxZxV.woff2",
-    "/assets/KaTeX_Size4-Regular.BF-4gkZK.woff",
-    "/assets/KaTeX_Size4-Regular.DWFBv043.ttf",
-    "/assets/KaTeX_Typewriter-Regular.CO6r4hn1.woff2",
-    "/assets/KaTeX_Typewriter-Regular.C0xS9mPB.woff",
-    "/assets/KaTeX_Typewriter-Regular.D3Ib7_Hf.ttf",
-    "/assets/bg-img.kXdNMxcF.jpg",
-    "/assets/sidebar-bg-img.mp54gEws.webp"
-  ],
-  "../../../../webrtc-adapter@9.0.1/node_modules/webrtc-adapter/src/js/firefox/firefox_shim.js": [
-    "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
-    "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
-    "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
-    "/assets/KaTeX_Caligraphic-Bold.Dq_IR9rO.woff2",
-    "/assets/KaTeX_Caligraphic-Bold.BEiXGLvX.woff",
-    "/assets/KaTeX_Caligraphic-Bold.ATXxdsX0.ttf",
-    "/assets/KaTeX_Caligraphic-Regular.Di6jR-x-.woff2",
-    "/assets/KaTeX_Caligraphic-Regular.CTRA-rTL.woff",
-    "/assets/KaTeX_Caligraphic-Regular.wX97UBjC.ttf",
-    "/assets/KaTeX_Fraktur-Bold.CL6g_b3V.woff2",
-    "/assets/KaTeX_Fraktur-Bold.BsDP51OF.woff",
-    "/assets/KaTeX_Fraktur-Bold.BdnERNNW.ttf",
-    "/assets/KaTeX_Fraktur-Regular.CTYiF6lA.woff2",
-    "/assets/KaTeX_Fraktur-Regular.Dxdc4cR9.woff",
-    "/assets/KaTeX_Fraktur-Regular.CB_wures.ttf",
-    "/assets/KaTeX_Main-Bold.Cx986IdX.woff2",
-    "/assets/KaTeX_Main-Bold.Jm3AIy58.woff",
-    "/assets/KaTeX_Main-Bold.waoOVXN0.ttf",
-    "/assets/KaTeX_Main-BoldItalic.DxDJ3AOS.woff2",
-    "/assets/KaTeX_Main-BoldItalic.SpSLRI95.woff",
-    "/assets/KaTeX_Main-BoldItalic.DzxPMmG6.ttf",
-    "/assets/KaTeX_Main-Italic.NWA7e6Wa.woff2",
-    "/assets/KaTeX_Main-Italic.BMLOBm91.woff",
-    "/assets/KaTeX_Main-Italic.3WenGoN9.ttf",
-    "/assets/KaTeX_Main-Regular.B22Nviop.woff2",
-    "/assets/KaTeX_Main-Regular.Dr94JaBh.woff",
-    "/assets/KaTeX_Main-Regular.ypZvNtVU.ttf",
-    "/assets/KaTeX_Math-BoldItalic.CZnvNsCZ.woff2",
-    "/assets/KaTeX_Math-BoldItalic.iY-2wyZ7.woff",
-    "/assets/KaTeX_Math-BoldItalic.B3XSjfu4.ttf",
-    "/assets/KaTeX_Math-Italic.t53AETM-.woff2",
-    "/assets/KaTeX_Math-Italic.DA0__PXp.woff",
-    "/assets/KaTeX_Math-Italic.flOr_0UB.ttf",
-    "/assets/KaTeX_SansSerif-Bold.D1sUS0GD.woff2",
-    "/assets/KaTeX_SansSerif-Bold.DbIhKOiC.woff",
-    "/assets/KaTeX_SansSerif-Bold.CFMepnvq.ttf",
-    "/assets/KaTeX_SansSerif-Italic.C3H0VqGB.woff2",
-    "/assets/KaTeX_SansSerif-Italic.DN2j7dab.woff",
-    "/assets/KaTeX_SansSerif-Italic.YYjJ1zSn.ttf",
-    "/assets/KaTeX_SansSerif-Regular.DDBCnlJ7.woff2",
-    "/assets/KaTeX_SansSerif-Regular.CS6fqUqJ.woff",
-    "/assets/KaTeX_SansSerif-Regular.BNo7hRIc.ttf",
-    "/assets/KaTeX_Script-Regular.D3wIWfF6.woff2",
-    "/assets/KaTeX_Script-Regular.D5yQViql.woff",
-    "/assets/KaTeX_Script-Regular.C5JkGWo-.ttf",
-    "/assets/KaTeX_Size1-Regular.mCD8mA8B.woff2",
-    "/assets/KaTeX_Size1-Regular.C195tn64.woff",
-    "/assets/KaTeX_Size1-Regular.Dbsnue_I.ttf",
-    "/assets/KaTeX_Size2-Regular.Dy4dx90m.woff2",
-    "/assets/KaTeX_Size2-Regular.oD1tc_U0.woff",
-    "/assets/KaTeX_Size2-Regular.B7gKUWhC.ttf",
-    "/assets/KaTeX_Size3-Regular.CTq5MqoE.woff",
-    "/assets/KaTeX_Size3-Regular.DgpXs0kz.ttf",
-    "/assets/KaTeX_Size4-Regular.Dl5lxZxV.woff2",
-    "/assets/KaTeX_Size4-Regular.BF-4gkZK.woff",
-    "/assets/KaTeX_Size4-Regular.DWFBv043.ttf",
-    "/assets/KaTeX_Typewriter-Regular.CO6r4hn1.woff2",
-    "/assets/KaTeX_Typewriter-Regular.C0xS9mPB.woff",
-    "/assets/KaTeX_Typewriter-Regular.D3Ib7_Hf.ttf",
-    "/assets/bg-img.kXdNMxcF.jpg",
-    "/assets/sidebar-bg-img.mp54gEws.webp"
-  ],
-  "../../../../webrtc-adapter@9.0.1/node_modules/webrtc-adapter/src/js/firefox/getdisplaymedia.js": [
-    "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
-    "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
-    "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
-    "/assets/KaTeX_Caligraphic-Bold.Dq_IR9rO.woff2",
-    "/assets/KaTeX_Caligraphic-Bold.BEiXGLvX.woff",
-    "/assets/KaTeX_Caligraphic-Bold.ATXxdsX0.ttf",
-    "/assets/KaTeX_Caligraphic-Regular.Di6jR-x-.woff2",
-    "/assets/KaTeX_Caligraphic-Regular.CTRA-rTL.woff",
-    "/assets/KaTeX_Caligraphic-Regular.wX97UBjC.ttf",
-    "/assets/KaTeX_Fraktur-Bold.CL6g_b3V.woff2",
-    "/assets/KaTeX_Fraktur-Bold.BsDP51OF.woff",
-    "/assets/KaTeX_Fraktur-Bold.BdnERNNW.ttf",
-    "/assets/KaTeX_Fraktur-Regular.CTYiF6lA.woff2",
-    "/assets/KaTeX_Fraktur-Regular.Dxdc4cR9.woff",
-    "/assets/KaTeX_Fraktur-Regular.CB_wures.ttf",
-    "/assets/KaTeX_Main-Bold.Cx986IdX.woff2",
-    "/assets/KaTeX_Main-Bold.Jm3AIy58.woff",
-    "/assets/KaTeX_Main-Bold.waoOVXN0.ttf",
-    "/assets/KaTeX_Main-BoldItalic.DxDJ3AOS.woff2",
-    "/assets/KaTeX_Main-BoldItalic.SpSLRI95.woff",
-    "/assets/KaTeX_Main-BoldItalic.DzxPMmG6.ttf",
-    "/assets/KaTeX_Main-Italic.NWA7e6Wa.woff2",
-    "/assets/KaTeX_Main-Italic.BMLOBm91.woff",
-    "/assets/KaTeX_Main-Italic.3WenGoN9.ttf",
-    "/assets/KaTeX_Main-Regular.B22Nviop.woff2",
-    "/assets/KaTeX_Main-Regular.Dr94JaBh.woff",
-    "/assets/KaTeX_Main-Regular.ypZvNtVU.ttf",
-    "/assets/KaTeX_Math-BoldItalic.CZnvNsCZ.woff2",
-    "/assets/KaTeX_Math-BoldItalic.iY-2wyZ7.woff",
-    "/assets/KaTeX_Math-BoldItalic.B3XSjfu4.ttf",
-    "/assets/KaTeX_Math-Italic.t53AETM-.woff2",
-    "/assets/KaTeX_Math-Italic.DA0__PXp.woff",
-    "/assets/KaTeX_Math-Italic.flOr_0UB.ttf",
-    "/assets/KaTeX_SansSerif-Bold.D1sUS0GD.woff2",
-    "/assets/KaTeX_SansSerif-Bold.DbIhKOiC.woff",
-    "/assets/KaTeX_SansSerif-Bold.CFMepnvq.ttf",
-    "/assets/KaTeX_SansSerif-Italic.C3H0VqGB.woff2",
-    "/assets/KaTeX_SansSerif-Italic.DN2j7dab.woff",
-    "/assets/KaTeX_SansSerif-Italic.YYjJ1zSn.ttf",
-    "/assets/KaTeX_SansSerif-Regular.DDBCnlJ7.woff2",
-    "/assets/KaTeX_SansSerif-Regular.CS6fqUqJ.woff",
-    "/assets/KaTeX_SansSerif-Regular.BNo7hRIc.ttf",
-    "/assets/KaTeX_Script-Regular.D3wIWfF6.woff2",
-    "/assets/KaTeX_Script-Regular.D5yQViql.woff",
-    "/assets/KaTeX_Script-Regular.C5JkGWo-.ttf",
-    "/assets/KaTeX_Size1-Regular.mCD8mA8B.woff2",
-    "/assets/KaTeX_Size1-Regular.C195tn64.woff",
-    "/assets/KaTeX_Size1-Regular.Dbsnue_I.ttf",
-    "/assets/KaTeX_Size2-Regular.Dy4dx90m.woff2",
-    "/assets/KaTeX_Size2-Regular.oD1tc_U0.woff",
-    "/assets/KaTeX_Size2-Regular.B7gKUWhC.ttf",
-    "/assets/KaTeX_Size3-Regular.CTq5MqoE.woff",
-    "/assets/KaTeX_Size3-Regular.DgpXs0kz.ttf",
-    "/assets/KaTeX_Size4-Regular.Dl5lxZxV.woff2",
-    "/assets/KaTeX_Size4-Regular.BF-4gkZK.woff",
-    "/assets/KaTeX_Size4-Regular.DWFBv043.ttf",
-    "/assets/KaTeX_Typewriter-Regular.CO6r4hn1.woff2",
-    "/assets/KaTeX_Typewriter-Regular.C0xS9mPB.woff",
-    "/assets/KaTeX_Typewriter-Regular.D3Ib7_Hf.ttf",
-    "/assets/bg-img.kXdNMxcF.jpg",
-    "/assets/sidebar-bg-img.mp54gEws.webp"
-  ],
-  "../../../../webrtc-adapter@9.0.1/node_modules/webrtc-adapter/src/js/firefox/getusermedia.js": [
-    "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
-    "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
-    "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
-    "/assets/KaTeX_Caligraphic-Bold.Dq_IR9rO.woff2",
-    "/assets/KaTeX_Caligraphic-Bold.BEiXGLvX.woff",
-    "/assets/KaTeX_Caligraphic-Bold.ATXxdsX0.ttf",
-    "/assets/KaTeX_Caligraphic-Regular.Di6jR-x-.woff2",
-    "/assets/KaTeX_Caligraphic-Regular.CTRA-rTL.woff",
-    "/assets/KaTeX_Caligraphic-Regular.wX97UBjC.ttf",
-    "/assets/KaTeX_Fraktur-Bold.CL6g_b3V.woff2",
-    "/assets/KaTeX_Fraktur-Bold.BsDP51OF.woff",
-    "/assets/KaTeX_Fraktur-Bold.BdnERNNW.ttf",
-    "/assets/KaTeX_Fraktur-Regular.CTYiF6lA.woff2",
-    "/assets/KaTeX_Fraktur-Regular.Dxdc4cR9.woff",
-    "/assets/KaTeX_Fraktur-Regular.CB_wures.ttf",
-    "/assets/KaTeX_Main-Bold.Cx986IdX.woff2",
-    "/assets/KaTeX_Main-Bold.Jm3AIy58.woff",
-    "/assets/KaTeX_Main-Bold.waoOVXN0.ttf",
-    "/assets/KaTeX_Main-BoldItalic.DxDJ3AOS.woff2",
-    "/assets/KaTeX_Main-BoldItalic.SpSLRI95.woff",
-    "/assets/KaTeX_Main-BoldItalic.DzxPMmG6.ttf",
-    "/assets/KaTeX_Main-Italic.NWA7e6Wa.woff2",
-    "/assets/KaTeX_Main-Italic.BMLOBm91.woff",
-    "/assets/KaTeX_Main-Italic.3WenGoN9.ttf",
-    "/assets/KaTeX_Main-Regular.B22Nviop.woff2",
-    "/assets/KaTeX_Main-Regular.Dr94JaBh.woff",
-    "/assets/KaTeX_Main-Regular.ypZvNtVU.ttf",
-    "/assets/KaTeX_Math-BoldItalic.CZnvNsCZ.woff2",
-    "/assets/KaTeX_Math-BoldItalic.iY-2wyZ7.woff",
-    "/assets/KaTeX_Math-BoldItalic.B3XSjfu4.ttf",
-    "/assets/KaTeX_Math-Italic.t53AETM-.woff2",
-    "/assets/KaTeX_Math-Italic.DA0__PXp.woff",
-    "/assets/KaTeX_Math-Italic.flOr_0UB.ttf",
-    "/assets/KaTeX_SansSerif-Bold.D1sUS0GD.woff2",
-    "/assets/KaTeX_SansSerif-Bold.DbIhKOiC.woff",
-    "/assets/KaTeX_SansSerif-Bold.CFMepnvq.ttf",
-    "/assets/KaTeX_SansSerif-Italic.C3H0VqGB.woff2",
-    "/assets/KaTeX_SansSerif-Italic.DN2j7dab.woff",
-    "/assets/KaTeX_SansSerif-Italic.YYjJ1zSn.ttf",
-    "/assets/KaTeX_SansSerif-Regular.DDBCnlJ7.woff2",
-    "/assets/KaTeX_SansSerif-Regular.CS6fqUqJ.woff",
-    "/assets/KaTeX_SansSerif-Regular.BNo7hRIc.ttf",
-    "/assets/KaTeX_Script-Regular.D3wIWfF6.woff2",
-    "/assets/KaTeX_Script-Regular.D5yQViql.woff",
-    "/assets/KaTeX_Script-Regular.C5JkGWo-.ttf",
-    "/assets/KaTeX_Size1-Regular.mCD8mA8B.woff2",
-    "/assets/KaTeX_Size1-Regular.C195tn64.woff",
-    "/assets/KaTeX_Size1-Regular.Dbsnue_I.ttf",
-    "/assets/KaTeX_Size2-Regular.Dy4dx90m.woff2",
-    "/assets/KaTeX_Size2-Regular.oD1tc_U0.woff",
-    "/assets/KaTeX_Size2-Regular.B7gKUWhC.ttf",
-    "/assets/KaTeX_Size3-Regular.CTq5MqoE.woff",
-    "/assets/KaTeX_Size3-Regular.DgpXs0kz.ttf",
-    "/assets/KaTeX_Size4-Regular.Dl5lxZxV.woff2",
-    "/assets/KaTeX_Size4-Regular.BF-4gkZK.woff",
-    "/assets/KaTeX_Size4-Regular.DWFBv043.ttf",
-    "/assets/KaTeX_Typewriter-Regular.CO6r4hn1.woff2",
-    "/assets/KaTeX_Typewriter-Regular.C0xS9mPB.woff",
-    "/assets/KaTeX_Typewriter-Regular.D3Ib7_Hf.ttf",
-    "/assets/bg-img.kXdNMxcF.jpg",
-    "/assets/sidebar-bg-img.mp54gEws.webp"
-  ],
-  "../../../../webrtc-adapter@9.0.1/node_modules/webrtc-adapter/src/js/safari/safari_shim.js": [
-    "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
-    "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
-    "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
-    "/assets/KaTeX_Caligraphic-Bold.Dq_IR9rO.woff2",
-    "/assets/KaTeX_Caligraphic-Bold.BEiXGLvX.woff",
-    "/assets/KaTeX_Caligraphic-Bold.ATXxdsX0.ttf",
-    "/assets/KaTeX_Caligraphic-Regular.Di6jR-x-.woff2",
-    "/assets/KaTeX_Caligraphic-Regular.CTRA-rTL.woff",
-    "/assets/KaTeX_Caligraphic-Regular.wX97UBjC.ttf",
-    "/assets/KaTeX_Fraktur-Bold.CL6g_b3V.woff2",
-    "/assets/KaTeX_Fraktur-Bold.BsDP51OF.woff",
-    "/assets/KaTeX_Fraktur-Bold.BdnERNNW.ttf",
-    "/assets/KaTeX_Fraktur-Regular.CTYiF6lA.woff2",
-    "/assets/KaTeX_Fraktur-Regular.Dxdc4cR9.woff",
-    "/assets/KaTeX_Fraktur-Regular.CB_wures.ttf",
-    "/assets/KaTeX_Main-Bold.Cx986IdX.woff2",
-    "/assets/KaTeX_Main-Bold.Jm3AIy58.woff",
-    "/assets/KaTeX_Main-Bold.waoOVXN0.ttf",
-    "/assets/KaTeX_Main-BoldItalic.DxDJ3AOS.woff2",
-    "/assets/KaTeX_Main-BoldItalic.SpSLRI95.woff",
-    "/assets/KaTeX_Main-BoldItalic.DzxPMmG6.ttf",
-    "/assets/KaTeX_Main-Italic.NWA7e6Wa.woff2",
-    "/assets/KaTeX_Main-Italic.BMLOBm91.woff",
-    "/assets/KaTeX_Main-Italic.3WenGoN9.ttf",
-    "/assets/KaTeX_Main-Regular.B22Nviop.woff2",
-    "/assets/KaTeX_Main-Regular.Dr94JaBh.woff",
-    "/assets/KaTeX_Main-Regular.ypZvNtVU.ttf",
-    "/assets/KaTeX_Math-BoldItalic.CZnvNsCZ.woff2",
-    "/assets/KaTeX_Math-BoldItalic.iY-2wyZ7.woff",
-    "/assets/KaTeX_Math-BoldItalic.B3XSjfu4.ttf",
-    "/assets/KaTeX_Math-Italic.t53AETM-.woff2",
-    "/assets/KaTeX_Math-Italic.DA0__PXp.woff",
-    "/assets/KaTeX_Math-Italic.flOr_0UB.ttf",
-    "/assets/KaTeX_SansSerif-Bold.D1sUS0GD.woff2",
-    "/assets/KaTeX_SansSerif-Bold.DbIhKOiC.woff",
-    "/assets/KaTeX_SansSerif-Bold.CFMepnvq.ttf",
-    "/assets/KaTeX_SansSerif-Italic.C3H0VqGB.woff2",
-    "/assets/KaTeX_SansSerif-Italic.DN2j7dab.woff",
-    "/assets/KaTeX_SansSerif-Italic.YYjJ1zSn.ttf",
-    "/assets/KaTeX_SansSerif-Regular.DDBCnlJ7.woff2",
-    "/assets/KaTeX_SansSerif-Regular.CS6fqUqJ.woff",
-    "/assets/KaTeX_SansSerif-Regular.BNo7hRIc.ttf",
-    "/assets/KaTeX_Script-Regular.D3wIWfF6.woff2",
-    "/assets/KaTeX_Script-Regular.D5yQViql.woff",
-    "/assets/KaTeX_Script-Regular.C5JkGWo-.ttf",
-    "/assets/KaTeX_Size1-Regular.mCD8mA8B.woff2",
-    "/assets/KaTeX_Size1-Regular.C195tn64.woff",
-    "/assets/KaTeX_Size1-Regular.Dbsnue_I.ttf",
-    "/assets/KaTeX_Size2-Regular.Dy4dx90m.woff2",
-    "/assets/KaTeX_Size2-Regular.oD1tc_U0.woff",
-    "/assets/KaTeX_Size2-Regular.B7gKUWhC.ttf",
-    "/assets/KaTeX_Size3-Regular.CTq5MqoE.woff",
-    "/assets/KaTeX_Size3-Regular.DgpXs0kz.ttf",
-    "/assets/KaTeX_Size4-Regular.Dl5lxZxV.woff2",
-    "/assets/KaTeX_Size4-Regular.BF-4gkZK.woff",
-    "/assets/KaTeX_Size4-Regular.DWFBv043.ttf",
-    "/assets/KaTeX_Typewriter-Regular.CO6r4hn1.woff2",
-    "/assets/KaTeX_Typewriter-Regular.C0xS9mPB.woff",
-    "/assets/KaTeX_Typewriter-Regular.D3Ib7_Hf.ttf",
-    "/assets/bg-img.kXdNMxcF.jpg",
-    "/assets/sidebar-bg-img.mp54gEws.webp"
-  ],
-  "../../../../webrtc-adapter@9.0.1/node_modules/webrtc-adapter/src/js/utils.js": [
-    "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
-    "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
-    "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
-    "/assets/KaTeX_Caligraphic-Bold.Dq_IR9rO.woff2",
-    "/assets/KaTeX_Caligraphic-Bold.BEiXGLvX.woff",
-    "/assets/KaTeX_Caligraphic-Bold.ATXxdsX0.ttf",
-    "/assets/KaTeX_Caligraphic-Regular.Di6jR-x-.woff2",
-    "/assets/KaTeX_Caligraphic-Regular.CTRA-rTL.woff",
-    "/assets/KaTeX_Caligraphic-Regular.wX97UBjC.ttf",
-    "/assets/KaTeX_Fraktur-Bold.CL6g_b3V.woff2",
-    "/assets/KaTeX_Fraktur-Bold.BsDP51OF.woff",
-    "/assets/KaTeX_Fraktur-Bold.BdnERNNW.ttf",
-    "/assets/KaTeX_Fraktur-Regular.CTYiF6lA.woff2",
-    "/assets/KaTeX_Fraktur-Regular.Dxdc4cR9.woff",
-    "/assets/KaTeX_Fraktur-Regular.CB_wures.ttf",
-    "/assets/KaTeX_Main-Bold.Cx986IdX.woff2",
-    "/assets/KaTeX_Main-Bold.Jm3AIy58.woff",
-    "/assets/KaTeX_Main-Bold.waoOVXN0.ttf",
-    "/assets/KaTeX_Main-BoldItalic.DxDJ3AOS.woff2",
-    "/assets/KaTeX_Main-BoldItalic.SpSLRI95.woff",
-    "/assets/KaTeX_Main-BoldItalic.DzxPMmG6.ttf",
-    "/assets/KaTeX_Main-Italic.NWA7e6Wa.woff2",
-    "/assets/KaTeX_Main-Italic.BMLOBm91.woff",
-    "/assets/KaTeX_Main-Italic.3WenGoN9.ttf",
-    "/assets/KaTeX_Main-Regular.B22Nviop.woff2",
-    "/assets/KaTeX_Main-Regular.Dr94JaBh.woff",
-    "/assets/KaTeX_Main-Regular.ypZvNtVU.ttf",
-    "/assets/KaTeX_Math-BoldItalic.CZnvNsCZ.woff2",
-    "/assets/KaTeX_Math-BoldItalic.iY-2wyZ7.woff",
-    "/assets/KaTeX_Math-BoldItalic.B3XSjfu4.ttf",
-    "/assets/KaTeX_Math-Italic.t53AETM-.woff2",
-    "/assets/KaTeX_Math-Italic.DA0__PXp.woff",
-    "/assets/KaTeX_Math-Italic.flOr_0UB.ttf",
-    "/assets/KaTeX_SansSerif-Bold.D1sUS0GD.woff2",
-    "/assets/KaTeX_SansSerif-Bold.DbIhKOiC.woff",
-    "/assets/KaTeX_SansSerif-Bold.CFMepnvq.ttf",
-    "/assets/KaTeX_SansSerif-Italic.C3H0VqGB.woff2",
-    "/assets/KaTeX_SansSerif-Italic.DN2j7dab.woff",
-    "/assets/KaTeX_SansSerif-Italic.YYjJ1zSn.ttf",
-    "/assets/KaTeX_SansSerif-Regular.DDBCnlJ7.woff2",
-    "/assets/KaTeX_SansSerif-Regular.CS6fqUqJ.woff",
-    "/assets/KaTeX_SansSerif-Regular.BNo7hRIc.ttf",
-    "/assets/KaTeX_Script-Regular.D3wIWfF6.woff2",
-    "/assets/KaTeX_Script-Regular.D5yQViql.woff",
-    "/assets/KaTeX_Script-Regular.C5JkGWo-.ttf",
-    "/assets/KaTeX_Size1-Regular.mCD8mA8B.woff2",
-    "/assets/KaTeX_Size1-Regular.C195tn64.woff",
-    "/assets/KaTeX_Size1-Regular.Dbsnue_I.ttf",
-    "/assets/KaTeX_Size2-Regular.Dy4dx90m.woff2",
-    "/assets/KaTeX_Size2-Regular.oD1tc_U0.woff",
-    "/assets/KaTeX_Size2-Regular.B7gKUWhC.ttf",
-    "/assets/KaTeX_Size3-Regular.CTq5MqoE.woff",
-    "/assets/KaTeX_Size3-Regular.DgpXs0kz.ttf",
-    "/assets/KaTeX_Size4-Regular.Dl5lxZxV.woff2",
-    "/assets/KaTeX_Size4-Regular.BF-4gkZK.woff",
-    "/assets/KaTeX_Size4-Regular.DWFBv043.ttf",
-    "/assets/KaTeX_Typewriter-Regular.CO6r4hn1.woff2",
-    "/assets/KaTeX_Typewriter-Regular.C0xS9mPB.woff",
-    "/assets/KaTeX_Typewriter-Regular.D3Ib7_Hf.ttf",
-    "/assets/bg-img.kXdNMxcF.jpg",
-    "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "../../../../workbox-window@7.1.0/node_modules/workbox-window/build/workbox-window.prod.es5.mjs": [
     "/assets/workbox-window.prod.es5.D5gOYdM7.js"
@@ -12655,15 +11206,15 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "components/ValaxyCopyright.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/post.JETQaInR.js",
+    "/assets/post.pbixOyOf.js",
     "/assets/post.DDxwAI70.css"
   ],
   "components/ValaxyCopyright.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/post.JETQaInR.js",
+    "/assets/post.pbixOyOf.js",
     "/assets/post.DDxwAI70.css"
   ],
   "components/ValaxyGalleryDecrypt.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/gallery.ChXczxsD.js"
+    "/assets/gallery.nbxtuCzh.js"
   ],
   "components/ValaxyHamburger.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
@@ -12729,11 +11280,11 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "components/ValaxyMd.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Dv2MygBm.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.BFZmfyEH.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "components/ValaxyMd.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Dv2MygBm.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.BFZmfyEH.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "composables/app/useValaxyApp.ts": [
@@ -12926,7 +11477,7 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "composables/back.ts": [
-    "/assets/back.DpJWXqSt.js"
+    "/assets/back.1G7bA0Nz.js"
   ],
   "composables/categories.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
@@ -12992,11 +11543,11 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "composables/codeGroups.ts": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Dv2MygBm.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.BFZmfyEH.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "composables/collections.ts": [
-    "/assets/collections.BfOH9l67.js"
+    "/assets/collections.Db_Jb7gQ.js"
   ],
   "composables/common.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
@@ -13125,22 +11676,22 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "composables/decrypt.ts": [
-    "/assets/gallery.ChXczxsD.js"
+    "/assets/gallery.nbxtuCzh.js"
   ],
   "composables/features/collapse-code.ts": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Dv2MygBm.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.BFZmfyEH.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "composables/features/copy-code.ts": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Dv2MygBm.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.BFZmfyEH.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "composables/features/medium-zoom.ts": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Dv2MygBm.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.BFZmfyEH.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "composables/features/vanilla-lazyload.ts": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Dv2MygBm.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.BFZmfyEH.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "composables/global.ts": [
@@ -13207,7 +11758,7 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "composables/helper/useInvisibleElement.ts": [
-    "/assets/animation.DisEomPQ.js"
+    "/assets/animation.B_KCTxDj.js"
   ],
   "composables/helper/useScreenSize.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
@@ -13588,11 +12139,11 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "composables/post/usePagination.ts": [
-    "/assets/YunPostList.vue_vue_type_script_setup_true_lang.0rMqm8F9.js",
+    "/assets/YunPostList.vue_vue_type_script_setup_true_lang.alyuCeWT.js",
     "/assets/YunPostList.BfWGcc9d.css"
   ],
   "composables/post/usePrevNext.ts": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Dv2MygBm.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.BFZmfyEH.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "composables/search/useFuseSearch.ts": [
@@ -13785,7 +12336,7 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "composables/widgets/aplayer.ts": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Dv2MygBm.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.BFZmfyEH.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "composables/widgets/backToTop.ts": [
@@ -13852,7 +12403,7 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "composables/widgets/codepen.ts": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Dv2MygBm.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.BFZmfyEH.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "config.ts": [
@@ -13982,11 +12533,11 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "layouts/404.vue": [
-    "/assets/404.CVcbS5_M.js",
+    "/assets/404.DehivtSf.js",
     "/assets/404.BVla_BTh.css"
   ],
   "layouts/404.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/404.CVcbS5_M.js",
+    "/assets/404.DehivtSf.js",
     "/assets/404.BVla_BTh.css"
   ],
   "layouts/default.vue": [
@@ -14311,7 +12862,7 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "modules/nprogress.ts": [
-    "/assets/chunks/nprogress.D5EDvs9V.js"
+    "/assets/chunks/nprogress.Bmgvrz1e.js"
   ],
   "modules/pinia.ts": [
     "/assets/chunks/pinia.BGsVwCM1.js"
@@ -14443,10 +12994,10 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "pages/[...path].vue": [
-    "/assets/_...path_.DlhRR9kH.js"
+    "/assets/_...path_.3za72kL6.js"
   ],
   "pages/[...path].vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_...path_.DlhRR9kH.js"
+    "/assets/_...path_.3za72kL6.js"
   ],
   "setup/main.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
@@ -15142,7 +13693,7 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "utils/router.ts": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Dv2MygBm.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.BFZmfyEH.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "utils/time.ts": [
@@ -15209,7 +13760,7 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "utils/wrap.ts": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Dv2MygBm.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.BFZmfyEH.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ]
 }
