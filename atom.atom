@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.mnxy.eu.org/</id>
     <title>梦念逍遥のBLOG</title>
-    <updated>2025-05-13T21:09:13.066Z</updated>
+    <updated>2025-05-14T14:33:52.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>梦念逍遥</name>
@@ -15,6 +15,23 @@
     <logo>https://blog.mnxy.eu.org/favicon.svg</logo>
     <icon>https://blog.mnxy.eu.orghttps://blog.mnxy.eu.org/favicon.svg</icon>
     <rights>CC BY-NC-SA 4.0 2025 © 梦念逍遥</rights>
+    <entry>
+        <title type="html"><![CDATA[【个人博客网站】自动化友链申请、检测、信息修改]]></title>
+        <id>https://blog.mnxy.eu.org/posts/boke/friends</id>
+        <link href="https://blog.mnxy.eu.org/posts/boke/friends"/>
+        <updated>2025-05-11T13:20:00.000Z</updated>
+        <content type="html"><![CDATA[<p>::: tip</p>
+<p>项目地址: <a href="https://github.com/MengNianxiaoyao/friends">梦念逍遥の友链</a></p>
+<p>:::</p>
+<p>本项目参考[云游君的小伙伴们](https://</p>
+<br/><p>访问 <a href="https://blog.mnxy.eu.org/posts/boke/friends" target="_blank">https://blog.mnxy.eu.org/posts/boke/friends</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>梦念逍遥</name>
+            <email>email@mnxy.eu.org</email>
+            <uri>https://blog.mnxy.eu.org</uri>
+        </author>
+        <published>2025-05-14T14:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[赛尔号Flash页游工具使用答疑]]></title>
         <id>https://blog.mnxy.eu.org/posts/seer/faq</id>

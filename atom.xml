@@ -4,7 +4,7 @@
         <title>梦念逍遥のBLOG</title>
         <link>https://blog.mnxy.eu.org/</link>
         <description>这是一个很棒的博客</description>
-        <lastBuildDate>Tue, 13 May 2025 21:09:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 May 2025 14:33:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -14,6 +14,18 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2025 © 梦念逍遥</copyright>
         <atom:link href="https://blog.mnxy.eu.org/atom.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【个人博客网站】自动化友链申请、检测、信息修改]]></title>
+            <link>https://blog.mnxy.eu.org/posts/boke/friends</link>
+            <guid>https://blog.mnxy.eu.org/posts/boke/friends</guid>
+            <pubDate>Wed, 14 May 2025 14:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>::: tip</p>
+<p>项目地址: <a href="https://github.com/MengNianxiaoyao/friends">梦念逍遥の友链</a></p>
+<p>:::</p>
+<p>本项目参考[云游君的小伙伴们](https://</p>
+<br/><p>访问 <a href="https://blog.mnxy.eu.org/posts/boke/friends" target="_blank">https://blog.mnxy.eu.org/posts/boke/friends</a> 阅读全文。</p>]]></content:encoded>
+            <author>email@mnxy.eu.org (梦念逍遥)</author>
+        </item>
         <item>
             <title><![CDATA[赛尔号Flash页游工具使用答疑]]></title>
             <link>https://blog.mnxy.eu.org/posts/seer/faq</link>

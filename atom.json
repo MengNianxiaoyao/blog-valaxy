@@ -12,6 +12,18 @@
     "items": [
         {
             "id": "",
+            "content_html": "<p>::: tip</p>\n<p>项目地址: <a href=\"https://github.com/MengNianxiaoyao/friends\">梦念逍遥の友链</a></p>\n<p>:::</p>\n<p>本项目参考[云游君的小伙伴们](https://</p>\n<br/><p>访问 <a href=\"https://blog.mnxy.eu.org/posts/boke/friends\" target=\"_blank\">https://blog.mnxy.eu.org/posts/boke/friends</a> 阅读全文。</p>",
+            "url": "https://blog.mnxy.eu.org/posts/boke/friends",
+            "title": "【个人博客网站】自动化友链申请、检测、信息修改",
+            "date_modified": "2025-05-11T13:20:00.000Z",
+            "date_published": "2025-05-14T14:00:00.000Z",
+            "author": {
+                "name": "梦念逍遥",
+                "url": "https://blog.mnxy.eu.org"
+            }
+        },
+        {
+            "id": "",
             "content_html": "<blockquote>\n<p><a href=\"https://blog.mnxy.eu.org/posts/seer/tools\">赛尔号Flash页游各种工具下载</a></p>\n</blockquote>\n<h2>chika</h2>\n<h3>flash版本过低或太旧</h3>\n<p>直接刷新看是</p>\n<br/><p>访问 <a href=\"https://blog.mnxy.eu.org/posts/seer/faq\" target=\"_blank\">https://blog.mnxy.eu.org/posts/seer/faq</a> 阅读全文。</p>",
             "url": "https://blog.mnxy.eu.org/posts/seer/faq",
             "title": "赛尔号Flash页游工具使用答疑",
