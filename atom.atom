@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.mnxy.eu.org/</id>
     <title>梦念逍遥のBLOG</title>
-    <updated>2025-05-21T14:27:20.021Z</updated>
+    <updated>2025-05-22T12:50:37.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>梦念逍遥</name>
@@ -16,7 +16,7 @@
     <icon>https://blog.mnxy.eu.orghttps://blog.mnxy.eu.org/favicon.svg</icon>
     <rights>CC BY-NC-SA 4.0 2025 © 梦念逍遥</rights>
     <entry>
-        <title type="html"><![CDATA[【个人博客网站】自动化友链申请、检测、信息修改]]></title>
+        <title type="html"><![CDATA[【个人博客网站】自动化友链申请、状态检测、信息修改]]></title>
         <id>https://blog.mnxy.eu.org/posts/boke/friends</id>
         <link href="https://blog.mnxy.eu.org/posts/boke/friends"/>
         <updated>2025-05-11T13:20:00.000Z</updated>
