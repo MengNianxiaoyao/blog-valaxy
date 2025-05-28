@@ -1,1 +1,0 @@
-import"./chunks/@vueuse/motion.DxIu6Xbo.js";import{a8 as o,a9 as t,aa as r,ab as a}from"./framework.DfN5xTHO.js";const c={};function n(s,_){const e=t("RouterView");return a(),r(e)}const i=o(c,[["render",n]]);export{i as default};
