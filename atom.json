@@ -5,7 +5,7 @@
   "feed_url": "https://blog.mnxy.eu.org/atom.json",
   "description": "这是一个很棒的博客",
   "icon": "https://blog.mnxy.eu.org/favicon.svg",
-  "favicon": "https://blog.mnxy.eu.orghttps://blog.mnxy.eu.org/favicon.svg",
+  "favicon": "https://blog.mnxy.eu.orgfavicon",
   "authors": [
     {
       "name": "梦念逍遥",
