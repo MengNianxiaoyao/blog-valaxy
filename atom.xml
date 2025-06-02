@@ -1,4 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>梦念逍遥のBLOG</title><description>这是一个很棒的博客</description><link>https://blog.mnxy.eu.org/</link><lastBuildDate>Mon, 02 Jun 2025 11:46:17 GMT</lastBuildDate><docs>https://www.rssboard.org/rss-specification</docs><generator>ZFeed 0.2.2 (https://github.com/KazariEX/zfeed)</generator><copyright>CC BY-NC-SA 4.0 2025 © 梦念逍遥</copyright><image><url>https://blog.mnxy.eu.org/favicon.svg</url><title>梦念逍遥のBLOG</title><link>https://blog.mnxy.eu.org/</link></image><atom:link rel="self" href="https://blog.mnxy.eu.org/atom.xml" type="application/rss+xml" /><item><title>【个人博客网站】自动化友链申请、状态检测、信息修改</title><guid isPermaLink="false">https://blog.mnxy.eu.org/posts/boke/friends</guid><link>https://blog.mnxy.eu.org/posts/boke/friends</link><pubDate>Wed, 14 May 2025 14:00:00 GMT</pubDate><content:encoded><![CDATA[<p>::: tip</p>
+<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>梦念逍遥のBLOG</title><description>这是一个很棒的博客</description><link>https://blog.mnxy.eu.org/</link><lastBuildDate>Mon, 02 Jun 2025 12:04:00 GMT</lastBuildDate><docs>https://www.rssboard.org/rss-specification</docs><generator>ZFeed 0.2.2 (https://github.com/KazariEX/zfeed)</generator><copyright>CC BY-NC-SA 4.0 2025 © 梦念逍遥</copyright><image><url>https://blog.mnxy.eu.org/favicon.svg</url><title>梦念逍遥のBLOG</title><link>https://blog.mnxy.eu.org/</link></image><atom:link rel="self" href="https://blog.mnxy.eu.org/atom.xml" type="application/rss+xml" /><item><title>Valaxy博客框架配置</title><guid isPermaLink="false">https://blog.mnxy.eu.org/posts/valaxy/config</guid><link>https://blog.mnxy.eu.org/posts/valaxy/config</link><pubDate>Mon, 02 Jun 2025 12:00:00 GMT</pubDate><content:encoded><![CDATA[<blockquote>
+<p>文档地址：<a href="https://valaxy.site/guide/config/">https://valaxy.site/guide/config/</a></p>
+</blockquote>
+<h2>基础配置</h2>
+<p>基础配置不多说，官方文档给的还算详细</p>
+<h2>拓展配置</h2>
+<p>这里选几个来说吧</p>
+<h3>使用</h3>
+<br/><p>访问 <a href="https://blog.mnxy.eu.org/posts/valaxy/config" target="_blank">https://blog.mnxy.eu.org/posts/valaxy/config</a> 阅读全文。</p>]]></content:encoded><author>email@mnxy.eu.org (梦念逍遥)</author></item><item><title>【个人博客网站】自动化友链申请、状态检测、信息修改</title><guid isPermaLink="false">https://blog.mnxy.eu.org/posts/boke/friends</guid><link>https://blog.mnxy.eu.org/posts/boke/friends</link><pubDate>Wed, 14 May 2025 14:00:00 GMT</pubDate><content:encoded><![CDATA[<p>::: tip</p>
 <p>项目地址: <a href="https://github.com/MengNianxiaoyao/friends">梦念逍遥の友链</a></p>
 <p>:::</p>
 <p>本项目参考[云游君的小伙伴们](https://</p>
@@ -42,15 +50,7 @@
 <br/><p>访问 <a href="https://blog.mnxy.eu.org/posts/tech/email" target="_blank">https://blog.mnxy.eu.org/posts/tech/email</a> 阅读全文。</p>]]></content:encoded><author>email@mnxy.eu.org (梦念逍遥)</author></item><item><title>小米路由器4A千兆版刷机openwrt(含刷回官方)</title><guid isPermaLink="false">https://blog.mnxy.eu.org/posts/tech/lyq</guid><link>https://blog.mnxy.eu.org/posts/tech/lyq</link><pubDate>Thu, 15 Feb 2024 07:00:00 GMT</pubDate><content:encoded><![CDATA[<p>::: tip</p>
 <p>参考文档:</p>
 <p>[小米路由器4A千兆版刷Padavan(WIN10刷,含刷死救砖)](<a href="https://www.right.com.cn/forum/thread-4317222-1-">https://www.right.com.cn/forum/thread-4317222-1-</a></p>
-<br/><p>访问 <a href="https://blog.mnxy.eu.org/posts/tech/lyq" target="_blank">https://blog.mnxy.eu.org/posts/tech/lyq</a> 阅读全文。</p>]]></content:encoded><author>email@mnxy.eu.org (梦念逍遥)</author></item><item><title>Valaxy博客框架配置</title><guid isPermaLink="false">https://blog.mnxy.eu.org/posts/valaxy/config</guid><link>https://blog.mnxy.eu.org/posts/valaxy/config</link><pubDate>Mon, 05 Feb 2024 13:00:00 GMT</pubDate><content:encoded><![CDATA[<blockquote>
-<p>文档地址：<a href="https://valaxy.site/guide/config/">https://valaxy.site/guide/config/</a></p>
-</blockquote>
-<h2>基础配置</h2>
-<p>基础配置不多说，官方文档给的还算详细</p>
-<h2>拓展配置</h2>
-<p>这里选几个来说吧</p>
-<h3>使用</h3>
-<br/><p>访问 <a href="https://blog.mnxy.eu.org/posts/valaxy/config" target="_blank">https://blog.mnxy.eu.org/posts/valaxy/config</a> 阅读全文。</p>]]></content:encoded><author>email@mnxy.eu.org (梦念逍遥)</author></item><item><title>Ohook——离线永久激活Office全家桶</title><guid isPermaLink="false">https://blog.mnxy.eu.org/posts/tech/ohook</guid><link>https://blog.mnxy.eu.org/posts/tech/ohook</link><pubDate>Fri, 29 Sep 2023 08:00:00 GMT</pubDate><content:encoded><![CDATA[<p>::: tip</p>
+<br/><p>访问 <a href="https://blog.mnxy.eu.org/posts/tech/lyq" target="_blank">https://blog.mnxy.eu.org/posts/tech/lyq</a> 阅读全文。</p>]]></content:encoded><author>email@mnxy.eu.org (梦念逍遥)</author></item><item><title>Ohook——离线永久激活Office全家桶</title><guid isPermaLink="false">https://blog.mnxy.eu.org/posts/tech/ohook</guid><link>https://blog.mnxy.eu.org/posts/tech/ohook</link><pubDate>Fri, 29 Sep 2023 08:00:00 GMT</pubDate><content:encoded><![CDATA[<p>::: tip</p>
 <p>原文：公众号【知彼而知己】——[重磅：十几年了，Office离线永久激活，突破卡脖子技术！遥遥领先](<a href="https://mp.weixin.qq.com/s?__biz=MzA">https://mp.weixin.qq.com/s?__biz=MzA</a></p>
 <br/><p>访问 <a href="https://blog.mnxy.eu.org/posts/tech/ohook" target="_blank">https://blog.mnxy.eu.org/posts/tech/ohook</a> 阅读全文。</p>]]></content:encoded><author>email@mnxy.eu.org (梦念逍遥)</author></item><item><title>白嫖永久Typora Windows全版本</title><guid isPermaLink="false">https://blog.mnxy.eu.org/posts/tech/typora</guid><link>https://blog.mnxy.eu.org/posts/tech/typora</link><pubDate>Fri, 29 Sep 2023 08:00:00 GMT</pubDate><content:encoded><![CDATA[<p>::: tip</p>
 <p>原文：博客【法海之路】——<a href="https://www.fahai.org/jszt/14.html">Typora Windows全版本破解补丁[支持版本更新]</a></p>
