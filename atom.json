@@ -4,7 +4,7 @@
   "home_page_url": "https://blog.mnxy.eu.org/",
   "feed_url": "https://blog.mnxy.eu.org/atom.json",
   "description": "这是一个很棒的博客",
-  "icon": "https://blog.mnxy.eu.org/favicon.svg",
+  "icon": "https://cdn.jsdmirror.com/gh/MengNianxiaoyao/blog-valaxy@main/favicon.svg",
   "favicon": "https://blog.mnxy.eu.orgfavicon",
   "authors": [
     {
@@ -14,12 +14,12 @@
   ],
   "items": [
     {
-      "id": "https://blog.mnxy.eu.org/posts/tech/cdnip",
-      "url": "https://blog.mnxy.eu.org/posts/tech/cdnip",
-      "title": "自建优选给Vercel网站再加速",
-      "content_html": "<blockquote>\n<p>前文：<a href=\"https://blog.mnxy.eu.org/posts/tech/cdn\">白嫖Cloudflare优选IP给Vercel网站加速</a></p>\n</blockquote>\n<p>接前文提到可以使用Cloudflare优选I</p>\n<br/><p>访问 <a href=\"https://blog.mnxy.eu.org/posts/tech/cdnip\" target=\"_blank\">https://blog.mnxy.eu.org/posts/tech/cdnip</a> 阅读全文。</p>",
-      "date_published": "2025-06-13T14:10:00.000Z",
-      "date_modified": "2025-06-12T04:30:00.000Z",
+      "id": "https://blog.mnxy.eu.org/posts/valaxy/config",
+      "url": "https://blog.mnxy.eu.org/posts/valaxy/config",
+      "title": "Valaxy博客框架配置",
+      "content_html": "<blockquote>\n<p>文档地址：<a href=\"https://valaxy.site/guide/config/\">https://valaxy.site/guide/config/</a></p>\n</blockquote>\n<h2>基础配置</h2>\n<p>基础配置不多说，官方文档给的还算详细</p>\n<h2>拓展配置</h2>\n<p>这里选几个来说吧</p>\n<h3>使用</h3>\n<br/><p>访问 <a href=\"https://blog.mnxy.eu.org/posts/valaxy/config\" target=\"_blank\">https://blog.mnxy.eu.org/posts/valaxy/config</a> 阅读全文。</p>",
+      "date_published": "2025-06-17T13:30:00.000Z",
+      "date_modified": "2024-02-05T13:00:00.000Z",
       "authors": [
         {
           "name": "梦念逍遥",
@@ -28,12 +28,12 @@
       ]
     },
     {
-      "id": "https://blog.mnxy.eu.org/posts/valaxy/config",
-      "url": "https://blog.mnxy.eu.org/posts/valaxy/config",
-      "title": "Valaxy博客框架配置",
-      "content_html": "<blockquote>\n<p>文档地址：<a href=\"https://valaxy.site/guide/config/\">https://valaxy.site/guide/config/</a></p>\n</blockquote>\n<h2>基础配置</h2>\n<p>基础配置不多说，官方文档给的还算详细</p>\n<h2>拓展配置</h2>\n<p>这里选几个来说吧</p>\n<h3>使用</h3>\n<br/><p>访问 <a href=\"https://blog.mnxy.eu.org/posts/valaxy/config\" target=\"_blank\">https://blog.mnxy.eu.org/posts/valaxy/config</a> 阅读全文。</p>",
-      "date_published": "2025-06-02T12:00:00.000Z",
-      "date_modified": "2024-02-05T13:00:00.000Z",
+      "id": "https://blog.mnxy.eu.org/posts/tech/cdnip",
+      "url": "https://blog.mnxy.eu.org/posts/tech/cdnip",
+      "title": "自建优选给Vercel网站再加速",
+      "content_html": "<blockquote>\n<p>前文：<a href=\"https://blog.mnxy.eu.org/posts/tech/cdn\">白嫖Cloudflare优选IP给Vercel网站加速</a></p>\n</blockquote>\n<p>接前文提到可以使用Cloudflare优选I</p>\n<br/><p>访问 <a href=\"https://blog.mnxy.eu.org/posts/tech/cdnip\" target=\"_blank\">https://blog.mnxy.eu.org/posts/tech/cdnip</a> 阅读全文。</p>",
+      "date_published": "2025-06-13T14:10:00.000Z",
+      "date_modified": "2025-06-12T04:30:00.000Z",
       "authors": [
         {
           "name": "梦念逍遥",
