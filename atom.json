@@ -115,7 +115,7 @@
       "id": "https://blog.mnxy.eu.org/posts/tech/uptimeapi",
       "url": "https://blog.mnxy.eu.org/posts/tech/uptimeapi",
       "title": "使用Cloudflare Workers搭建UptimeRobot官方API反代",
-      "content_html": "<blockquote>\n<p>代码来源：<a href=\"https://github.com/yb/uptime-status\">https://github.com/yb/uptime-status</a></p>\n</blockquote>\n<h2>代码</h2>\n<pre><code class=\"language-javascript\">const handleRequest = async ({ r</code></pre>\n<br/><p>访问 <a href=\"https://blog.mnxy.eu.org/posts/tech/uptimeapi\" target=\"_blank\">https://blog.mnxy.eu.org/posts/tech/uptimeapi</a> 阅读全文。</p>",
+      "content_html": "<blockquote>\n<p>代码来源：<a href=\"https://github.com/yb/uptime-status\">https://github.com/yb/uptime-status</a></p>\n</blockquote>\n<h2>代码</h2>\n<pre><code class=\"language-js\">const handleRequest = async ({ req</code></pre>\n<br/><p>访问 <a href=\"https://blog.mnxy.eu.org/posts/tech/uptimeapi\" target=\"_blank\">https://blog.mnxy.eu.org/posts/tech/uptimeapi</a> 阅读全文。</p>",
       "date_published": "2024-07-16T07:30:00.000Z",
       "date_modified": "2024-07-16T07:30:00.000Z",
       "authors": [
@@ -297,7 +297,7 @@
       "id": "https://blog.mnxy.eu.org/posts/meihua/meihua11",
       "url": "https://blog.mnxy.eu.org/posts/meihua/meihua11",
       "title": "【个人博客网站】博客美化（十一）：修改全局弹窗样式",
-      "content_html": "<h3>引入样式文件</h3>\n<p>修改主题配置文件</p>\n<pre><code class=\"language-yaml\">inject:\n  head:\n    - &lt;script src=&quot;https://unpkg.com/vue@2.7.13/dist/</code></pre>\n<br/><p>访问 <a href=\"https://blog.mnxy.eu.org/posts/meihua/meihua11\" target=\"_blank\">https://blog.mnxy.eu.org/posts/meihua/meihua11</a> 阅读全文。</p>",
+      "content_html": "<h3>引入样式文件</h3>\n<p>修改主题配置文件</p>\n<pre><code class=\"language-yaml\">inject:\n  head:\n    - &lt;script src=&quot;https://unpkg.com/vue@2.7.1</code></pre>\n<br/><p>访问 <a href=\"https://blog.mnxy.eu.org/posts/meihua/meihua11\" target=\"_blank\">https://blog.mnxy.eu.org/posts/meihua/meihua11</a> 阅读全文。</p>",
       "date_published": "2022-12-06T14:30:00.000Z",
       "date_modified": "2022-12-06T14:30:00.000Z",
       "authors": [
