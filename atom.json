@@ -14,6 +14,20 @@
   ],
   "items": [
     {
+      "id": "https://blog.mnxy.eu.org/posts/tech/cf-eo",
+      "url": "https://blog.mnxy.eu.org/posts/tech/cf-eo",
+      "title": "CF和EO双CDN部署为网站加速",
+      "content_html": "<p>最近也是拿到了腾讯云的<a href=\"https://edgeone.ai/\">EdgeOne</a>的免费版内测码。Cloudflare的优选在国内还是稍微慢了点以及早晚高峰时的超时，为了优化访问，给网站部署了双CD</p>\n<br/><p>访问 <a href=\"https://blog.mnxy.eu.org/posts/tech/cf-eo\" target=\"_blank\">https://blog.mnxy.eu.org/posts/tech/cf-eo</a> 阅读全文。</p>",
+      "date_published": "2025-06-29T04:30:00.000Z",
+      "date_modified": "2025-06-29T04:30:00.000Z",
+      "authors": [
+        {
+          "name": "梦念逍遥",
+          "url": "https://blog.mnxy.eu.org"
+        }
+      ]
+    },
+    {
       "id": "https://blog.mnxy.eu.org/posts/tech/typora",
       "url": "https://blog.mnxy.eu.org/posts/tech/typora",
       "title": "白嫖永久Typora Windows全版本",
