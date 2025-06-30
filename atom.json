@@ -255,7 +255,7 @@
       "id": "https://blog.mnxy.eu.org/posts/tech/image",
       "url": "https://blog.mnxy.eu.org/posts/tech/image",
       "title": "【个人博客网站】Typora + B站 = 高速图床",
-      "content_html": "<h2>工具</h2>\n<ul>\n<li><a href=\"https://typoraio.cn/\">Typora</a></li>\n<li>[typora-plugin-bilibili](<a href=\"https://github.com/xlzy520/typor\">https://github.com/xlzy520/typor</a></li>\n</ul>\n<br/><p>访问 <a href=\"https://blog.mnxy.eu.org/posts/tech/image\" target=\"_blank\">https://blog.mnxy.eu.org/posts/tech/image</a> 阅读全文。</p>",
+      "content_html": "<p>::: tip</p>\n<p>最新版构建现由我提供，<a href=\"https://github.com/MengNianxiaoyao/typora-plugin-bilibili/releases\">点此下载</a></p>\n<p>:::</p>\n<br/><p>访问 <a href=\"https://blog.mnxy.eu.org/posts/tech/image\" target=\"_blank\">https://blog.mnxy.eu.org/posts/tech/image</a> 阅读全文。</p>",
       "date_published": "2023-09-08T06:30:00.000Z",
       "date_modified": "2023-09-08T06:30:00.000Z",
       "authors": [
