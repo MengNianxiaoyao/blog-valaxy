@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.mnxy.eu.org/</id>
     <title>梦念逍遥のBLOG</title>
-    <updated>2025-07-14T04:43:59.877Z</updated>
+    <updated>2025-07-14T05:10:20.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>梦念逍遥</name>
@@ -184,7 +184,7 @@
 <p>代码来源：<a href="https://github.com/yb/uptime-status">https://github.com/yb/uptime-status</a></p>
 </blockquote>
 <h2>代码</h2>
-<pre><code class="language-js">const handleRequest = async </code></pre>
+<pre><code class="language-js">const handleRequest = async ({ requ</code></pre>
 <br/><p>访问 <a href="https://blog.mnxy.eu.org/posts/tech/uptimeapi" target="_blank">https://blog.mnxy.eu.org/posts/tech/uptimeapi</a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
@@ -194,7 +194,7 @@
         <published>2024-07-16T07:30:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【个人博客网站】从零开始搭建博客网站（五）：使用Resend配置评论送信]]></title>
+        <title type="html"><![CDATA[【个人博客网站】从零开始搭建博客网站（四）：使用Resend配置评论送信]]></title>
         <id>https://blog.mnxy.eu.org/posts/boke/boke5</id>
         <link href="https://blog.mnxy.eu.org/posts/boke/boke5"/>
         <updated>2024-07-09T13:20:00.000Z</updated>
@@ -378,9 +378,9 @@
         <updated>2022-12-06T14:30:00.000Z</updated>
         <content type="html"><![CDATA[<h3>引入样式文件</h3>
 <p>修改主题配置文件</p>
-<pre><code class="language-yml">inject:
+<pre><code class="language-yaml">inject:
   head:
-    - &lt;script src=&quot;https://unp</code></pre>
+    - &lt;script src=&quot;https://unpkg.com/vue@2.7.1</code></pre>
 <br/><p>访问 <a href="https://blog.mnxy.eu.org/posts/meihua/meihua11" target="_blank">https://blog.mnxy.eu.org/posts/meihua/meihua11</a> 阅读全文。</p>]]></content>
         <author>
             <name>梦念逍遥</name>
