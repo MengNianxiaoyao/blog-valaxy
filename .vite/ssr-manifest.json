@@ -248,6 +248,9 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
+  "../../../../../../../../../../../@valaxyjs/blog/collections": [
+    "/assets/collections.BFHLIu2X.js"
+  ],
   "../../../../../../../../../../../@valaxyjs/config": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
@@ -564,10 +567,10 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "../../../../../../../../../../../__/vue-router/auto/route-block": [
-    "/assets/chunks/vue-router.f1Lsz2_2.js"
+    "/assets/chunks/vue-router.CYav7tcg.js"
   ],
   "../../../../../../../../../../../__vue-router/auto-routes": [
-    "/assets/chunks/vue-router.f1Lsz2_2.js"
+    "/assets/chunks/vue-router.CYav7tcg.js"
   ],
   "../../../../../../App.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
@@ -948,226 +951,226 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "../../../../../../pages/404.md": [
-    "/assets/404.CNAUldZX.js",
+    "/assets/404.CZ64lt2f.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/about/index.md": [
-    "/assets/index.DEVeDOqn.js",
+    "/assets/index.Bjm_d3p6.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/about/site.md": [
-    "/assets/site.BA8knemr.js",
+    "/assets/site.CX0SfZaU.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/archives/index.md": [
-    "/assets/index.BUDgwNK_.js",
+    "/assets/index.CHpu4SKm.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/bangumi/index.md": [
-    "/assets/index.DSBqmcLv.js",
+    "/assets/index.Dtf7Ljzl.js",
     "/assets/index.Cch_mg4D.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/categories/index.md": [
-    "/assets/index.BNqOSOaf.js",
+    "/assets/index.C4E8IdPB.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/comments/index.md": [
-    "/assets/index.B6lvfgvg.js",
+    "/assets/index.BXFKsoSv.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/links/index.md": [
-    "/assets/index.D0yw-qg8.js",
+    "/assets/index.LFu38rvk.js",
     "/assets/index.DfXt1eUW.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/posts/boke/boke1.md": [
-    "/assets/boke1.pYc7zS5n.js",
+    "/assets/boke1.DNJvrt0h.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/posts/boke/boke2.md": [
-    "/assets/boke2.C5-ppRjm.js",
+    "/assets/boke2.BzXBapxH.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/posts/boke/boke3.md": [
-    "/assets/boke3.DfUEavNL.js",
+    "/assets/boke3.zOirIxWG.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/posts/boke/boke4.md": [
-    "/assets/boke4.BXSNfHv0.js",
+    "/assets/boke4.1X3m_jpo.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/posts/boke/boke5.md": [
-    "/assets/boke5.MEc9t9X3.js",
+    "/assets/boke5.DNx7Zcfo.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/posts/boke/friends.md": [
-    "/assets/friends.WLP7pxBO.js",
+    "/assets/friends.CK-TRsze.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/posts/byjg/byjg1.md": [
-    "/assets/byjg1.D28jIt2-.js",
+    "/assets/byjg1.DowC2Rvz.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/posts/byjg/byjg2.md": [
-    "/assets/byjg2.DJqDfuDO.js",
+    "/assets/byjg2.hLP6sZu_.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/posts/byjg/byjg3.md": [
-    "/assets/byjg3.C5bUPs3K.js",
+    "/assets/byjg3.CUD8cXIC.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/posts/meihua/meihua.md": [
-    "/assets/meihua.BM4mgN77.js",
+    "/assets/meihua.CdyrF5Rj.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/posts/meihua/meihua1.md": [
-    "/assets/meihua1.CuxGV32J.js",
+    "/assets/meihua1.B980-6HU.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/posts/meihua/meihua10.md": [
-    "/assets/meihua10.BAi8g8wT.js",
+    "/assets/meihua10.DW97Zd_w.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/posts/meihua/meihua11.md": [
-    "/assets/meihua11.Bz9sIJAC.js",
+    "/assets/meihua11.C7kvL2sm.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/posts/meihua/meihua2.md": [
-    "/assets/meihua2.f-wMzZwr.js",
+    "/assets/meihua2.Js2Sm3MY.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/posts/meihua/meihua3.md": [
-    "/assets/meihua3.DsYEnTQ_.js",
+    "/assets/meihua3.BB8xcRw6.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/posts/meihua/meihua4.md": [
-    "/assets/meihua4.DQAxor9V.js",
+    "/assets/meihua4.DTF_YwSN.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/posts/meihua/meihua5.md": [
-    "/assets/meihua5.DTY3sQrt.js",
+    "/assets/meihua5.BhqY5Itb.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/posts/meihua/meihua6.md": [
-    "/assets/meihua6.BzBZatsv.js",
+    "/assets/meihua6.Bc4jfJ-1.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/posts/meihua/meihua7.md": [
-    "/assets/meihua7.dObL1uVn.js",
+    "/assets/meihua7.CAFRzbR8.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/posts/meihua/meihua8.md": [
-    "/assets/meihua8.DdA1l_a7.js",
+    "/assets/meihua8.wV8cViOi.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/posts/meihua/meihua9.md": [
-    "/assets/meihua9.B-MTWp6f.js",
+    "/assets/meihua9.DZkedC1i.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/posts/novelai/novelai.md": [
-    "/assets/novelai.CaqKt1fI.js",
+    "/assets/novelai.BXRXzkXO.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/posts/novelai/novelai1.md": [
-    "/assets/novelai1.BSlijIFC.js",
+    "/assets/novelai1.D4WMBYAU.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/posts/novelai/novelai2.md": [
-    "/assets/novelai2.CKXaqKMa.js",
+    "/assets/novelai2.3JiPNVd5.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/posts/other/baodao.md": [
-    "/assets/baodao.CWyvMK2Q.js",
+    "/assets/baodao.fey3Gope.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/posts/other/welcome.md": [
-    "/assets/welcome.B3MxRfzc.js",
+    "/assets/welcome.BXOgQyHn.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/posts/seer/faq.md": [
-    "/assets/faq.DaUKc1P6.js",
+    "/assets/faq.BRCQzF5e.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/posts/seer/launcher.md": [
-    "/assets/launcher.ByJshi5J.js",
+    "/assets/launcher.B4ozC0mB.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/posts/seer/tools.md": [
-    "/assets/tools.CyeOd4vb.js",
+    "/assets/tools.BTinK7gO.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/posts/source/source1.md": [
-    "/assets/source1.CG3ftmJm.js",
+    "/assets/source1.Vkwnibyy.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/posts/source/source2.md": [
-    "/assets/source2.l98vto1w.js",
+    "/assets/source2.voj-3nuq.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/posts/tech/cdn.md": [
-    "/assets/cdn.DaoAuHoK.js",
+    "/assets/cdn.DVyr92Uo.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/posts/tech/cdnip.md": [
-    "/assets/cdnip.0Yi8hREd.js",
+    "/assets/cdnip.BejrIsWU.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/posts/tech/cf-eo.md": [
-    "/assets/cf-eo.C5vIwmZK.js",
+    "/assets/cf-eo.CDCKtoxM.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/posts/tech/domain.md": [
-    "/assets/domain.B43KktGU.js",
+    "/assets/domain.CjiMtCZf.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/posts/tech/email.md": [
-    "/assets/email.CAbnEHKv.js",
+    "/assets/email.DwwLk5xK.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/posts/tech/ghproxy.md": [
-    "/assets/ghproxy.L7cHBols.js",
+    "/assets/ghproxy.LVm3q1u8.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/posts/tech/image.md": [
-    "/assets/image.CKyd7ooq.js",
+    "/assets/image.B-5j56rz.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/posts/tech/lyq.md": [
-    "/assets/lyq.DJAFyB7j.js",
+    "/assets/lyq.cFUj42ZO.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/posts/tech/ohook.md": [
-    "/assets/ohook.CC2Pw4Mq.js",
+    "/assets/ohook.xa9OFTHn.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/posts/tech/reader.md": [
-    "/assets/reader.CLqtq9EB.js",
+    "/assets/reader.DSwL6CoF.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/posts/tech/typora.md": [
-    "/assets/typora.DZK4mXTk.js",
+    "/assets/typora._upuqR8c.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/posts/tech/uptime.md": [
-    "/assets/uptime.CDl1Zn4Y.js",
+    "/assets/uptime.nYffz-_h.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/posts/tech/uptimeapi.md": [
-    "/assets/uptimeapi.BNBiNKKD.js",
+    "/assets/uptimeapi.D36XQ_Uk.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/posts/valaxy/config.md": [
-    "/assets/config.Ddn_s99a.js",
+    "/assets/config.CrAvlbrV.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/privacy/index.md": [
-    "/assets/index.BaqmoHGX.js",
+    "/assets/index.D8HoAOuj.js",
     "/assets/index.BFeYmhVd.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../pages/tags/index.md": [
-    "/assets/index.CfaDVTVO.js",
+    "/assets/index.BEjb_LR7.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../../../setup/main.ts": [
@@ -2880,7 +2883,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../@valaxyjs+utils@0.25.8/node_modules/@valaxyjs/utils/dist/index.mjs": [
+  "../../../../@valaxyjs+utils@0.25.9/node_modules/@valaxyjs/utils/dist/index.mjs": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -2944,10 +2947,10 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "../../../../@vercel+analytics@1.5.0_vue-router@4.5.1_vue@3.5.17_typescript@5.8.3___vue@3.5.17_typescript@5.8.3_/node_modules/@vercel/analytics/dist/index.mjs": [
-    "/assets/chunks/vue-router.f1Lsz2_2.js"
+    "/assets/chunks/vue-router.CYav7tcg.js"
   ],
   "../../../../@vercel+speed-insights@1.2.0_vue-router@4.5.1_vue@3.5.17_typescript@5.8.3___vue@3.5.17_typescript@5.8.3_/node_modules/@vercel/speed-insights/dist/index.mjs": [
-    "/assets/chunks/vue-router.f1Lsz2_2.js"
+    "/assets/chunks/vue-router.CYav7tcg.js"
   ],
   "../../../../@vue+compiler-core@3.5.17/node_modules/@vue/compiler-core/dist/compiler-core.esm-bundler.js": [
     "/assets/chunks/@vueuse/motion.59Bllquc.js"
@@ -3472,7 +3475,7 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "../../../../medium-zoom@1.1.0/node_modules/medium-zoom/dist/medium-zoom.esm.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Bn3F1W2_.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.yZ7oKpUc.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../nprogress@0.2.0/node_modules/nprogress/nprogress.js": [
@@ -4895,16 +4898,16 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "../../../../unplugin-vue-router@0.14.0_@vue+compiler-sfc@3.5.17_vue-router@4.5.1_vue@3.5.17_typescr_77eb7d8c71afcb8399fed820148536a8/node_modules/unplugin-vue-router/dist/data-loaders/basic.js": [
-    "/assets/chunks/vue-router.f1Lsz2_2.js"
+    "/assets/chunks/vue-router.CYav7tcg.js"
   ],
   "../../../../unplugin-vue-router@0.14.0_@vue+compiler-sfc@3.5.17_vue-router@4.5.1_vue@3.5.17_typescr_77eb7d8c71afcb8399fed820148536a8/node_modules/unplugin-vue-router/dist/data-loaders/createDataLoader-BkaFsukJ.js": [
-    "/assets/chunks/vue-router.f1Lsz2_2.js"
+    "/assets/chunks/vue-router.CYav7tcg.js"
   ],
   "../../../../unplugin-vue-router@0.14.0_@vue+compiler-sfc@3.5.17_vue-router@4.5.1_vue@3.5.17_typescr_77eb7d8c71afcb8399fed820148536a8/node_modules/unplugin-vue-router/dist/data-loaders/index.js": [
-    "/assets/chunks/vue-router.f1Lsz2_2.js"
+    "/assets/chunks/vue-router.CYav7tcg.js"
   ],
   "../../../../unplugin-vue-router@0.14.0_@vue+compiler-sfc@3.5.17_vue-router@4.5.1_vue@3.5.17_typescr_77eb7d8c71afcb8399fed820148536a8/node_modules/unplugin-vue-router/dist/data-loaders/utils-D_yE8zIx.js": [
-    "/assets/chunks/vue-router.f1Lsz2_2.js"
+    "/assets/chunks/vue-router.CYav7tcg.js"
   ],
   "../../../../uuid@10.0.0/node_modules/uuid/dist/esm-browser/parse.js": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
@@ -5347,18 +5350,18 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-addon-bangumi@0.2.2_valaxy@0.25.8_@babel+parser@7.28.0_@nuxt+kit@3.17.7_@types+m_278bb27721137884d39f26fe210701fe/node_modules/valaxy-addon-bangumi/client/index.ts": [
-    "/assets/index.DSBqmcLv.js",
+  "../../../../valaxy-addon-bangumi@0.2.2_valaxy@0.25.9_@babel+parser@7.28.0_@nuxt+kit@3.17.7_@types+m_86cb30526b95f26780d181934ea4c6ec/node_modules/valaxy-addon-bangumi/client/index.ts": [
+    "/assets/index.Dtf7Ljzl.js",
     "/assets/index.Cch_mg4D.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-addon-bangumi@0.2.2_valaxy@0.25.8_@babel+parser@7.28.0_@nuxt+kit@3.17.7_@types+m_278bb27721137884d39f26fe210701fe/node_modules/valaxy-addon-bangumi/components/ValaxyBangumi.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index.DSBqmcLv.js",
+  "../../../../valaxy-addon-bangumi@0.2.2_valaxy@0.25.9_@babel+parser@7.28.0_@nuxt+kit@3.17.7_@types+m_86cb30526b95f26780d181934ea4c6ec/node_modules/valaxy-addon-bangumi/components/ValaxyBangumi.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/index.Dtf7Ljzl.js",
     "/assets/index.Cch_mg4D.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-addon-bangumi@0.2.2_valaxy@0.25.8_@babel+parser@7.28.0_@nuxt+kit@3.17.7_@types+m_278bb27721137884d39f26fe210701fe/node_modules/valaxy-addon-bangumi/components/ValaxyBangumi.vue?vue&type=style&index=0&lang.css": [
-    "/assets/index.DSBqmcLv.js",
+  "../../../../valaxy-addon-bangumi@0.2.2_valaxy@0.25.9_@babel+parser@7.28.0_@nuxt+kit@3.17.7_@types+m_86cb30526b95f26780d181934ea4c6ec/node_modules/valaxy-addon-bangumi/components/ValaxyBangumi.vue?vue&type=style&index=0&lang.css": [
+    "/assets/index.Dtf7Ljzl.js",
     "/assets/index.Cch_mg4D.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
@@ -5426,35 +5429,35 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "../../../../valaxy-addon-iplocation@0.0.2/node_modules/valaxy-addon-iplocation/client/index.ts": [
-    "/assets/index.BaqmoHGX.js",
+    "/assets/index.D8HoAOuj.js",
     "/assets/index.BFeYmhVd.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../valaxy-addon-iplocation@0.0.2/node_modules/valaxy-addon-iplocation/components/IPlocation.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index.BaqmoHGX.js",
+    "/assets/index.D8HoAOuj.js",
     "/assets/index.BFeYmhVd.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "../../../../valaxy-addon-iplocation@0.0.2/node_modules/valaxy-addon-iplocation/components/IPlocation.vue?vue&type=style&index=0&lang.css": [
-    "/assets/index.BaqmoHGX.js",
+    "/assets/index.D8HoAOuj.js",
     "/assets/index.BFeYmhVd.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-addon-twikoo@0.0.3_valaxy@0.25.8_@babel+parser@7.28.0_@nuxt+kit@3.17.7_@types+ma_3a74825c6555460cbd4e3b6c0d333a00/node_modules/valaxy-addon-twikoo/client/index.ts": [
-    "/assets/YunComment.vue_vue_type_style_index_0_lang.DlVLxvjp.js",
-    "/assets/YunComment.Cq2s8Iw7.css"
+  "../../../../valaxy-addon-twikoo@0.0.3_valaxy@0.25.9_@babel+parser@7.28.0_@nuxt+kit@3.17.7_@types+ma_9c572312486366641f056ef96e5af52c/node_modules/valaxy-addon-twikoo/client/index.ts": [
+    "/assets/YunComment.vue_vue_type_style_index_0_lang.DZveq-wo.js",
+    "/assets/YunComment.hP0CTn23.css"
   ],
-  "../../../../valaxy-addon-twikoo@0.0.3_valaxy@0.25.8_@babel+parser@7.28.0_@nuxt+kit@3.17.7_@types+ma_3a74825c6555460cbd4e3b6c0d333a00/node_modules/valaxy-addon-twikoo/client/options.ts": [
-    "/assets/YunComment.vue_vue_type_style_index_0_lang.DlVLxvjp.js",
-    "/assets/YunComment.Cq2s8Iw7.css"
+  "../../../../valaxy-addon-twikoo@0.0.3_valaxy@0.25.9_@babel+parser@7.28.0_@nuxt+kit@3.17.7_@types+ma_9c572312486366641f056ef96e5af52c/node_modules/valaxy-addon-twikoo/client/options.ts": [
+    "/assets/YunComment.vue_vue_type_style_index_0_lang.DZveq-wo.js",
+    "/assets/YunComment.hP0CTn23.css"
   ],
-  "../../../../valaxy-addon-twikoo@0.0.3_valaxy@0.25.8_@babel+parser@7.28.0_@nuxt+kit@3.17.7_@types+ma_3a74825c6555460cbd4e3b6c0d333a00/node_modules/valaxy-addon-twikoo/client/styles/index.scss": [
-    "/assets/YunComment.vue_vue_type_style_index_0_lang.DlVLxvjp.js",
-    "/assets/YunComment.Cq2s8Iw7.css"
+  "../../../../valaxy-addon-twikoo@0.0.3_valaxy@0.25.9_@babel+parser@7.28.0_@nuxt+kit@3.17.7_@types+ma_9c572312486366641f056ef96e5af52c/node_modules/valaxy-addon-twikoo/client/styles/index.scss": [
+    "/assets/YunComment.vue_vue_type_style_index_0_lang.DZveq-wo.js",
+    "/assets/YunComment.hP0CTn23.css"
   ],
-  "../../../../valaxy-addon-twikoo@0.0.3_valaxy@0.25.8_@babel+parser@7.28.0_@nuxt+kit@3.17.7_@types+ma_3a74825c6555460cbd4e3b6c0d333a00/node_modules/valaxy-addon-twikoo/client/twikoo.ts": [
-    "/assets/YunComment.vue_vue_type_style_index_0_lang.DlVLxvjp.js",
-    "/assets/YunComment.Cq2s8Iw7.css"
+  "../../../../valaxy-addon-twikoo@0.0.3_valaxy@0.25.9_@babel+parser@7.28.0_@nuxt+kit@3.17.7_@types+ma_9c572312486366641f056ef96e5af52c/node_modules/valaxy-addon-twikoo/client/twikoo.ts": [
+    "/assets/YunComment.vue_vue_type_style_index_0_lang.DZveq-wo.js",
+    "/assets/YunComment.hP0CTn23.css"
   ],
   "../../../../valaxy-addon-vercount@0.0.6/node_modules/valaxy-addon-vercount/client/composable.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
@@ -5645,7 +5648,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/App.vue?vue&type=script&setup=true&lang.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/App.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -5708,22 +5711,22 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/assets/images/none.jpg": [
-    "/assets/index.6dp8CSIa.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/assets/images/none.jpg": [
+    "/assets/index.BSArxW9E.js",
     "/assets/none.DLM1AMsD.jpg"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/client/constants/index.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/client/constants/index.ts": [
     "/assets/index.BRXJGymZ.js"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/ValaxyMain.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Bn3F1W2_.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/ValaxyMain.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.yZ7oKpUc.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/ValaxyMain.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Bn3F1W2_.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/ValaxyMain.vue?vue&type=style&index=0&lang.scss": [
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.yZ7oKpUc.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunAdBoard.vue": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunAdBoard.vue": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -5786,31 +5789,31 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunAiExcerpt.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Bn3F1W2_.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunAiExcerpt.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.yZ7oKpUc.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunAlbum.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/albums.DTaumE3C.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunAlbum.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/albums.C536qOaS.js",
     "/assets/albums.B673jvUl.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunAlbum.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/albums.DTaumE3C.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunAlbum.vue?vue&type=style&index=0&lang.scss": [
+    "/assets/albums.C536qOaS.js",
     "/assets/albums.B673jvUl.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunAlbumList.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/albums.DTaumE3C.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunAlbumList.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/albums.C536qOaS.js",
     "/assets/albums.B673jvUl.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunAlbumList.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/albums.DTaumE3C.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunAlbumList.vue?vue&type=style&index=0&lang.scss": [
+    "/assets/albums.C536qOaS.js",
     "/assets/albums.B673jvUl.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunAside.vue?vue&type=script&setup=true&lang.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunAside.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -5873,7 +5876,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunAside.vue?vue&type=style&index=0&lang.scss": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunAside.vue?vue&type=style&index=0&lang.scss": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -5936,7 +5939,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunBackToTop.vue?vue&type=script&setup=true&lang.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunBackToTop.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -5999,7 +6002,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunBackToTop.vue?vue&type=style&index=0&lang.scss": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunBackToTop.vue?vue&type=style&index=0&lang.scss": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -6062,17 +6065,17 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunBanner.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/home.DiIn2Ni3.js",
-    "/assets/home.DcJYTUoy.css",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunBanner.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/home.CDwZseHc.js",
+    "/assets/home.CnCKdHVr.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunBanner.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/home.DiIn2Ni3.js",
-    "/assets/home.DcJYTUoy.css",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunBanner.vue?vue&type=style&index=0&lang.scss": [
+    "/assets/home.CDwZseHc.js",
+    "/assets/home.CnCKdHVr.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunBg.vue?vue&type=script&setup=true&lang.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunBg.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -6135,7 +6138,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunBg.vue?vue&type=style&index=0&lang.scss": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunBg.vue?vue&type=style&index=0&lang.scss": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -6198,7 +6201,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunCard.vue?vue&type=script&setup=true&lang.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunCard.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -6261,19 +6264,19 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunCategories.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/categories.BVE_gcb8.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunCategories.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/categories.DYXQGdqO.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunCategory.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/categories.BVE_gcb8.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunCategory.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/categories.DYXQGdqO.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunCategoryChildItem.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/categories.BVE_gcb8.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunCategoryChildItem.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/categories.DYXQGdqO.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunCloud.vue": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunCloud.vue": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -6336,7 +6339,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunCloud.vue?vue&type=style&index=0&lang.scss": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunCloud.vue?vue&type=style&index=0&lang.scss": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -6399,15 +6402,15 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunComment.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/YunComment.vue_vue_type_style_index_0_lang.DlVLxvjp.js",
-    "/assets/YunComment.Cq2s8Iw7.css"
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunComment.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/YunComment.vue_vue_type_style_index_0_lang.DZveq-wo.js",
+    "/assets/YunComment.hP0CTn23.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunComment.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/YunComment.vue_vue_type_style_index_0_lang.DlVLxvjp.js",
-    "/assets/YunComment.Cq2s8Iw7.css"
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunComment.vue?vue&type=style&index=0&lang.scss": [
+    "/assets/YunComment.vue_vue_type_style_index_0_lang.DZveq-wo.js",
+    "/assets/YunComment.hP0CTn23.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunConfig.vue?vue&type=script&setup=true&lang.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunConfig.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -6470,7 +6473,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunDebug.vue?vue&type=script&setup=true&lang.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunDebug.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -6533,7 +6536,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunFireworks.vue?vue&type=script&setup=true&lang.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunFireworks.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -6596,7 +6599,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunFireworks.vue?vue&type=style&index=0&lang.css": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunFireworks.vue?vue&type=style&index=0&lang.css": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -6659,7 +6662,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunFooter.vue?vue&type=script&setup=true&lang.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunFooter.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -6722,7 +6725,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunFooter.vue?vue&type=style&index=0&lang.scss": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunFooter.vue?vue&type=style&index=0&lang.scss": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -6785,7 +6788,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunFullscreenMenu.vue?vue&type=script&setup=true&lang.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunFullscreenMenu.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -6848,7 +6851,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunFullscreenMenu.vue?vue&type=style&index=0&lang.scss": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunFullscreenMenu.vue?vue&type=style&index=0&lang.scss": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -6911,7 +6914,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunFuseSearch.vue?vue&type=script&setup=true&lang.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunFuseSearch.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -6974,7 +6977,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunFuseSearch.vue?vue&type=style&index=0&lang.scss": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunFuseSearch.vue?vue&type=style&index=0&lang.scss": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -7037,43 +7040,43 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunGallery.vue": [
-    "/assets/YunGallery.DyGxvmjq.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunGallery.vue": [
+    "/assets/YunGallery.DT7KKVGq.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunGallery.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/gallery.CfXYiIqs.js"
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunGallery.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/gallery.u2TfjCRD.js"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunGoDown.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/home.DiIn2Ni3.js",
-    "/assets/home.DcJYTUoy.css",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunGoDown.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/home.CDwZseHc.js",
+    "/assets/home.CnCKdHVr.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunGoDown.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/home.DiIn2Ni3.js",
-    "/assets/home.DcJYTUoy.css",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunGoDown.vue?vue&type=style&index=0&lang.scss": [
+    "/assets/home.CDwZseHc.js",
+    "/assets/home.CnCKdHVr.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunLayoutPostTag.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/tags.DlnSg9s3.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunLayoutPostTag.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/tags.GJIMny5y.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunLinkItem.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index.D0yw-qg8.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunLinkItem.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/index.LFu38rvk.js",
     "/assets/index.DfXt1eUW.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunLinks.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index.D0yw-qg8.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunLinks.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/index.LFu38rvk.js",
     "/assets/index.DfXt1eUW.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunLinks.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/index.D0yw-qg8.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunLinks.vue?vue&type=style&index=0&lang.scss": [
+    "/assets/index.LFu38rvk.js",
     "/assets/index.DfXt1eUW.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunLoading.vue": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunLoading.vue": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -7136,7 +7139,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunLoading.vue?vue&type=style&index=0&scoped=28bc3522&lang.scss": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunLoading.vue?vue&type=style&index=0&scoped=a15eab52&lang.scss": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -7199,11 +7202,11 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunMdTimeWarning.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Bn3F1W2_.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunMdTimeWarning.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.yZ7oKpUc.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunNavMenu.vue?vue&type=script&setup=true&lang.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunNavMenu.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -7266,17 +7269,17 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunNotice.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/home.DiIn2Ni3.js",
-    "/assets/home.DcJYTUoy.css",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunNotice.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/home.CDwZseHc.js",
+    "/assets/home.CnCKdHVr.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunNotice.vue?vue&type=style&index=0&lang.css": [
-    "/assets/home.DiIn2Ni3.js",
-    "/assets/home.DcJYTUoy.css",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunNotice.vue?vue&type=style&index=0&lang.css": [
+    "/assets/home.CDwZseHc.js",
+    "/assets/home.CnCKdHVr.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunOutline.vue": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunOutline.vue": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -7339,7 +7342,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunOutline.vue?vue&type=script&setup=true&lang.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunOutline.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -7402,7 +7405,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunOutline.vue?vue&type=style&index=0&scoped=21dec3c4&lang.scss": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunOutline.vue?vue&type=style&index=0&scoped=b4f2dd31&lang.scss": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -7465,7 +7468,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunOutlineItem.vue": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunOutlineItem.vue": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -7528,7 +7531,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunOutlineItem.vue?vue&type=script&setup=true&lang.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunOutlineItem.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -7591,7 +7594,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunOutlineItem.vue?vue&type=style&index=0&scoped=8e1d7f32&lang.scss": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunOutlineItem.vue?vue&type=style&index=0&scoped=eccdc611&lang.scss": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -7654,7 +7657,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunOverlay.vue?vue&type=script&setup=true&lang.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunOverlay.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -7717,7 +7720,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunOverlay.vue?vue&type=style&index=0&lang.scss": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunOverlay.vue?vue&type=style&index=0&lang.scss": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -7780,7 +7783,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunOverview.vue?vue&type=script&setup=true&lang.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunOverview.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -7843,7 +7846,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunOverview.vue?vue&type=style&index=0&lang.scss": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunOverview.vue?vue&type=style&index=0&lang.scss": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -7906,79 +7909,78 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPageHeader.vue?vue&type=script&setup=true&lang.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPageHeader.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/YunPageHeader.vue_vue_type_script_setup_true_lang.BeVO-358.js"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPagination.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/YunPostList.vue_vue_type_script_setup_true_lang.yumsyzZy.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPagination.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/YunPostList.vue_vue_type_script_setup_true_lang.04HKnX0l.js",
     "/assets/YunPostList.B6MDJXTW.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPagination.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/YunPostList.vue_vue_type_script_setup_true_lang.yumsyzZy.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPagination.vue?vue&type=style&index=0&lang.scss": [
+    "/assets/YunPostList.vue_vue_type_script_setup_true_lang.04HKnX0l.js",
     "/assets/YunPostList.B6MDJXTW.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostCard.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/YunPostList.vue_vue_type_script_setup_true_lang.yumsyzZy.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostCard.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/YunPostList.vue_vue_type_script_setup_true_lang.04HKnX0l.js",
     "/assets/YunPostList.B6MDJXTW.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostCard.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/YunPostList.vue_vue_type_script_setup_true_lang.yumsyzZy.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostCard.vue?vue&type=style&index=0&lang.scss": [
+    "/assets/YunPostList.vue_vue_type_script_setup_true_lang.04HKnX0l.js",
     "/assets/YunPostList.B6MDJXTW.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostCategories.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/YunPostMeta.vue_vue_type_style_index_0_lang.DFVKIKAh.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostCategories.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/YunPostMeta.vue_vue_type_style_index_0_lang.ohbqisHd.js",
     "/assets/YunPostMeta.DCrVMfuT.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostCategoriesAndTags.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/post.Dqr7j7FT.js",
-    "/assets/post.DDxwAI70.css",
-    "/assets/group-icons.hw0VGFh9.css"
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostCategoriesAndTags.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/YunMainHeaderAfter.vue_vue_type_script_setup_true_lang.B7m-5S3w.js",
+    "/assets/YunMainHeaderAfter.DDxwAI70.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostCollapse.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/YunPostCollapse.vue_vue_type_style_index_0_lang.DxBk-N2k.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostCollapse.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/YunPostCollapse.vue_vue_type_style_index_0_lang.BTeVMbvU.js",
     "/assets/YunPostCollapse.CLDXGmA8.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostCollapse.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/YunPostCollapse.vue_vue_type_style_index_0_lang.DxBk-N2k.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostCollapse.vue?vue&type=style&index=0&lang.scss": [
+    "/assets/YunPostCollapse.vue_vue_type_style_index_0_lang.BTeVMbvU.js",
     "/assets/YunPostCollapse.CLDXGmA8.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostCollapseItem.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/YunPostCollapse.vue_vue_type_style_index_0_lang.DxBk-N2k.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostCollapseItem.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/YunPostCollapse.vue_vue_type_style_index_0_lang.BTeVMbvU.js",
     "/assets/YunPostCollapse.CLDXGmA8.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostCollapseItem.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/YunPostCollapse.vue_vue_type_style_index_0_lang.DxBk-N2k.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostCollapseItem.vue?vue&type=style&index=0&lang.scss": [
+    "/assets/YunPostCollapse.vue_vue_type_style_index_0_lang.BTeVMbvU.js",
     "/assets/YunPostCollapse.CLDXGmA8.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostDateMeta.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/YunPostMeta.vue_vue_type_style_index_0_lang.DFVKIKAh.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostDateMeta.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/YunPostMeta.vue_vue_type_style_index_0_lang.ohbqisHd.js",
     "/assets/YunPostMeta.DCrVMfuT.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostList.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/YunPostList.vue_vue_type_script_setup_true_lang.yumsyzZy.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostList.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/YunPostList.vue_vue_type_script_setup_true_lang.04HKnX0l.js",
     "/assets/YunPostList.B6MDJXTW.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostMeta.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/YunPostMeta.vue_vue_type_style_index_0_lang.DFVKIKAh.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostMeta.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/YunPostMeta.vue_vue_type_style_index_0_lang.ohbqisHd.js",
     "/assets/YunPostMeta.DCrVMfuT.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostMeta.vue?vue&type=style&index=0&lang.css": [
-    "/assets/YunPostMeta.vue_vue_type_style_index_0_lang.DFVKIKAh.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostMeta.vue?vue&type=style&index=0&lang.css": [
+    "/assets/YunPostMeta.vue_vue_type_style_index_0_lang.ohbqisHd.js",
     "/assets/YunPostMeta.DCrVMfuT.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostNav.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Bn3F1W2_.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostNav.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.yZ7oKpUc.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostNav.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Bn3F1W2_.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostNav.vue?vue&type=style&index=0&lang.scss": [
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.yZ7oKpUc.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostTags.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/YunPostMeta.vue_vue_type_style_index_0_lang.DFVKIKAh.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostTags.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/YunPostMeta.vue_vue_type_style_index_0_lang.ohbqisHd.js",
     "/assets/YunPostMeta.DCrVMfuT.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostsInfo.vue?vue&type=script&setup=true&lang.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostsInfo.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -8041,7 +8043,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostsInfo.vue?vue&type=style&index=0&lang.scss": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPostsInfo.vue?vue&type=style&index=0&lang.scss": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -8104,27 +8106,27 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPrologue.vue": [
-    "/assets/home.DiIn2Ni3.js",
-    "/assets/home.DcJYTUoy.css",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPrologue.vue": [
+    "/assets/home.CDwZseHc.js",
+    "/assets/home.CnCKdHVr.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPrologue.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/home.DiIn2Ni3.js",
-    "/assets/home.DcJYTUoy.css",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunPrologue.vue?vue&type=style&index=0&lang.scss": [
+    "/assets/home.CDwZseHc.js",
+    "/assets/home.CnCKdHVr.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunSay.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/home.DiIn2Ni3.js",
-    "/assets/home.DcJYTUoy.css",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunSay.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/home.CDwZseHc.js",
+    "/assets/home.CnCKdHVr.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunSay.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/home.DiIn2Ni3.js",
-    "/assets/home.DcJYTUoy.css",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunSay.vue?vue&type=style&index=0&lang.scss": [
+    "/assets/home.CDwZseHc.js",
+    "/assets/home.CnCKdHVr.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunSearchBtn.vue?vue&type=script&setup=true&lang.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunSearchBtn.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -8187,7 +8189,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunSearchBtn.vue?vue&type=style&index=0&lang.scss": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunSearchBtn.vue?vue&type=style&index=0&lang.scss": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -8250,7 +8252,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunSearchTrigger.vue?vue&type=script&setup=true&lang.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunSearchTrigger.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -8313,19 +8315,19 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunSelect.vue": [
-    "/assets/YunComment.vue_vue_type_style_index_0_lang.DlVLxvjp.js",
-    "/assets/YunComment.Cq2s8Iw7.css"
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunSelect.vue": [
+    "/assets/YunComment.vue_vue_type_style_index_0_lang.DZveq-wo.js",
+    "/assets/YunComment.hP0CTn23.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunSelect.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/YunComment.vue_vue_type_style_index_0_lang.DlVLxvjp.js",
-    "/assets/YunComment.Cq2s8Iw7.css"
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunSelect.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/YunComment.vue_vue_type_style_index_0_lang.DZveq-wo.js",
+    "/assets/YunComment.hP0CTn23.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunSelect.vue?vue&type=style&index=0&scoped=edadfbfd&lang.scss": [
-    "/assets/YunComment.vue_vue_type_style_index_0_lang.DlVLxvjp.js",
-    "/assets/YunComment.Cq2s8Iw7.css"
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunSelect.vue?vue&type=style&index=0&scoped=cd503807&lang.scss": [
+    "/assets/YunComment.vue_vue_type_style_index_0_lang.DZveq-wo.js",
+    "/assets/YunComment.hP0CTn23.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunSidebarCard.vue?vue&type=script&setup=true&lang.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunSidebarCard.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -8388,7 +8390,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunSidebarLinks.vue?vue&type=script&setup=true&lang.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunSidebarLinks.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -8451,7 +8453,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunSidebarNav.vue?vue&type=script&setup=true&lang.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunSidebarNav.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -8514,7 +8516,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunSidebarNav.vue?vue&type=style&index=0&lang.scss": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunSidebarNav.vue?vue&type=style&index=0&lang.scss": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -8577,7 +8579,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunSiteInfo.vue?vue&type=script&setup=true&lang.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunSiteInfo.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -8640,7 +8642,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunSiteInfo.vue?vue&type=style&index=0&lang.scss": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunSiteInfo.vue?vue&type=style&index=0&lang.scss": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -8703,7 +8705,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunSocialLinkItem.vue?vue&type=script&setup=true&lang.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunSocialLinkItem.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -8766,7 +8768,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunSocialLinks.vue?vue&type=script&setup=true&lang.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunSocialLinks.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -8829,7 +8831,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunSocialLinks.vue?vue&type=style&index=0&lang.scss": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunSocialLinks.vue?vue&type=style&index=0&lang.scss": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -8892,15 +8894,15 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunSponsor.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/YunSponsor.vue_vue_type_style_index_0_lang.BI0TeSo9.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunSponsor.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/YunSponsor.vue_vue_type_style_index_0_lang.Dr-ppMv2.js",
     "/assets/YunSponsor.BJOC5yvc.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunSponsor.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/YunSponsor.vue_vue_type_style_index_0_lang.BI0TeSo9.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunSponsor.vue?vue&type=style&index=0&lang.scss": [
+    "/assets/YunSponsor.vue_vue_type_style_index_0_lang.Dr-ppMv2.js",
     "/assets/YunSponsor.BJOC5yvc.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunToggleLocale.vue?vue&type=script&setup=true&lang.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/YunToggleLocale.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -8963,32 +8965,32 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/animation/LineBurstEffects.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/home.DiIn2Ni3.js",
-    "/assets/home.DcJYTUoy.css",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/animation/LineBurstEffects.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/home.CDwZseHc.js",
+    "/assets/home.CnCKdHVr.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/animation/LineBurstEffects.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/home.DiIn2Ni3.js",
-    "/assets/home.DcJYTUoy.css",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/animation/LineBurstEffects.vue?vue&type=style&index=0&lang.scss": [
+    "/assets/home.CDwZseHc.js",
+    "/assets/home.CnCKdHVr.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/animation/YunAnimLineDraw.vue": [
-    "/assets/home.DiIn2Ni3.js",
-    "/assets/home.DcJYTUoy.css",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/animation/YunAnimLineDraw.vue": [
+    "/assets/home.CDwZseHc.js",
+    "/assets/home.CnCKdHVr.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/animation/YunAnimLineDraw.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/home.DiIn2Ni3.js",
-    "/assets/home.DcJYTUoy.css",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/animation/YunAnimLineDraw.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/home.CDwZseHc.js",
+    "/assets/home.CnCKdHVr.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/animation/YunAnimLineDraw.vue?vue&type=style&index=0&scoped=cdc530fb&lang.scss": [
-    "/assets/home.DiIn2Ni3.js",
-    "/assets/home.DcJYTUoy.css",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/animation/YunAnimLineDraw.vue?vue&type=style&index=0&scoped=bc47ed84&lang.scss": [
+    "/assets/home.CDwZseHc.js",
+    "/assets/home.CnCKdHVr.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/author/YunAuthorAvatar.vue?vue&type=script&setup=true&lang.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/author/YunAuthorAvatar.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -9051,7 +9053,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/author/YunAuthorAvatar.vue?vue&type=style&index=0&lang.scss": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/author/YunAuthorAvatar.vue?vue&type=style&index=0&lang.scss": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -9114,12 +9116,12 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/author/YunAuthorIntro.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/home.DiIn2Ni3.js",
-    "/assets/home.DcJYTUoy.css",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/author/YunAuthorIntro.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/home.CDwZseHc.js",
+    "/assets/home.CnCKdHVr.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/author/YunAuthorName.vue?vue&type=script&setup=true&lang.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/author/YunAuthorName.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -9182,273 +9184,21 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/collection/YunCollectionItem.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/collections.VHPaPm_F.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/collection/YunCollectionItem.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/collections.DHuA3xlQ.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/config/YunToggleDark.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
-    "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
-    "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
-    "/assets/KaTeX_Caligraphic-Bold.Dq_IR9rO.woff2",
-    "/assets/KaTeX_Caligraphic-Bold.BEiXGLvX.woff",
-    "/assets/KaTeX_Caligraphic-Bold.ATXxdsX0.ttf",
-    "/assets/KaTeX_Caligraphic-Regular.Di6jR-x-.woff2",
-    "/assets/KaTeX_Caligraphic-Regular.CTRA-rTL.woff",
-    "/assets/KaTeX_Caligraphic-Regular.wX97UBjC.ttf",
-    "/assets/KaTeX_Fraktur-Bold.CL6g_b3V.woff2",
-    "/assets/KaTeX_Fraktur-Bold.BsDP51OF.woff",
-    "/assets/KaTeX_Fraktur-Bold.BdnERNNW.ttf",
-    "/assets/KaTeX_Fraktur-Regular.CTYiF6lA.woff2",
-    "/assets/KaTeX_Fraktur-Regular.Dxdc4cR9.woff",
-    "/assets/KaTeX_Fraktur-Regular.CB_wures.ttf",
-    "/assets/KaTeX_Main-Bold.Cx986IdX.woff2",
-    "/assets/KaTeX_Main-Bold.Jm3AIy58.woff",
-    "/assets/KaTeX_Main-Bold.waoOVXN0.ttf",
-    "/assets/KaTeX_Main-BoldItalic.DxDJ3AOS.woff2",
-    "/assets/KaTeX_Main-BoldItalic.SpSLRI95.woff",
-    "/assets/KaTeX_Main-BoldItalic.DzxPMmG6.ttf",
-    "/assets/KaTeX_Main-Italic.NWA7e6Wa.woff2",
-    "/assets/KaTeX_Main-Italic.BMLOBm91.woff",
-    "/assets/KaTeX_Main-Italic.3WenGoN9.ttf",
-    "/assets/KaTeX_Main-Regular.B22Nviop.woff2",
-    "/assets/KaTeX_Main-Regular.Dr94JaBh.woff",
-    "/assets/KaTeX_Main-Regular.ypZvNtVU.ttf",
-    "/assets/KaTeX_Math-BoldItalic.CZnvNsCZ.woff2",
-    "/assets/KaTeX_Math-BoldItalic.iY-2wyZ7.woff",
-    "/assets/KaTeX_Math-BoldItalic.B3XSjfu4.ttf",
-    "/assets/KaTeX_Math-Italic.t53AETM-.woff2",
-    "/assets/KaTeX_Math-Italic.DA0__PXp.woff",
-    "/assets/KaTeX_Math-Italic.flOr_0UB.ttf",
-    "/assets/KaTeX_SansSerif-Bold.D1sUS0GD.woff2",
-    "/assets/KaTeX_SansSerif-Bold.DbIhKOiC.woff",
-    "/assets/KaTeX_SansSerif-Bold.CFMepnvq.ttf",
-    "/assets/KaTeX_SansSerif-Italic.C3H0VqGB.woff2",
-    "/assets/KaTeX_SansSerif-Italic.DN2j7dab.woff",
-    "/assets/KaTeX_SansSerif-Italic.YYjJ1zSn.ttf",
-    "/assets/KaTeX_SansSerif-Regular.DDBCnlJ7.woff2",
-    "/assets/KaTeX_SansSerif-Regular.CS6fqUqJ.woff",
-    "/assets/KaTeX_SansSerif-Regular.BNo7hRIc.ttf",
-    "/assets/KaTeX_Script-Regular.D3wIWfF6.woff2",
-    "/assets/KaTeX_Script-Regular.D5yQViql.woff",
-    "/assets/KaTeX_Script-Regular.C5JkGWo-.ttf",
-    "/assets/KaTeX_Size1-Regular.mCD8mA8B.woff2",
-    "/assets/KaTeX_Size1-Regular.C195tn64.woff",
-    "/assets/KaTeX_Size1-Regular.Dbsnue_I.ttf",
-    "/assets/KaTeX_Size2-Regular.Dy4dx90m.woff2",
-    "/assets/KaTeX_Size2-Regular.oD1tc_U0.woff",
-    "/assets/KaTeX_Size2-Regular.B7gKUWhC.ttf",
-    "/assets/KaTeX_Size3-Regular.CTq5MqoE.woff",
-    "/assets/KaTeX_Size3-Regular.DgpXs0kz.ttf",
-    "/assets/KaTeX_Size4-Regular.Dl5lxZxV.woff2",
-    "/assets/KaTeX_Size4-Regular.BF-4gkZK.woff",
-    "/assets/KaTeX_Size4-Regular.DWFBv043.ttf",
-    "/assets/KaTeX_Typewriter-Regular.CO6r4hn1.woff2",
-    "/assets/KaTeX_Typewriter-Regular.C0xS9mPB.woff",
-    "/assets/KaTeX_Typewriter-Regular.D3Ib7_Hf.ttf",
-    "/assets/bg-img.kXdNMxcF.jpg",
-    "/assets/sidebar-bg-img.mp54gEws.webp"
-  ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/layout/YunLayoutLeft.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
-    "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
-    "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
-    "/assets/KaTeX_Caligraphic-Bold.Dq_IR9rO.woff2",
-    "/assets/KaTeX_Caligraphic-Bold.BEiXGLvX.woff",
-    "/assets/KaTeX_Caligraphic-Bold.ATXxdsX0.ttf",
-    "/assets/KaTeX_Caligraphic-Regular.Di6jR-x-.woff2",
-    "/assets/KaTeX_Caligraphic-Regular.CTRA-rTL.woff",
-    "/assets/KaTeX_Caligraphic-Regular.wX97UBjC.ttf",
-    "/assets/KaTeX_Fraktur-Bold.CL6g_b3V.woff2",
-    "/assets/KaTeX_Fraktur-Bold.BsDP51OF.woff",
-    "/assets/KaTeX_Fraktur-Bold.BdnERNNW.ttf",
-    "/assets/KaTeX_Fraktur-Regular.CTYiF6lA.woff2",
-    "/assets/KaTeX_Fraktur-Regular.Dxdc4cR9.woff",
-    "/assets/KaTeX_Fraktur-Regular.CB_wures.ttf",
-    "/assets/KaTeX_Main-Bold.Cx986IdX.woff2",
-    "/assets/KaTeX_Main-Bold.Jm3AIy58.woff",
-    "/assets/KaTeX_Main-Bold.waoOVXN0.ttf",
-    "/assets/KaTeX_Main-BoldItalic.DxDJ3AOS.woff2",
-    "/assets/KaTeX_Main-BoldItalic.SpSLRI95.woff",
-    "/assets/KaTeX_Main-BoldItalic.DzxPMmG6.ttf",
-    "/assets/KaTeX_Main-Italic.NWA7e6Wa.woff2",
-    "/assets/KaTeX_Main-Italic.BMLOBm91.woff",
-    "/assets/KaTeX_Main-Italic.3WenGoN9.ttf",
-    "/assets/KaTeX_Main-Regular.B22Nviop.woff2",
-    "/assets/KaTeX_Main-Regular.Dr94JaBh.woff",
-    "/assets/KaTeX_Main-Regular.ypZvNtVU.ttf",
-    "/assets/KaTeX_Math-BoldItalic.CZnvNsCZ.woff2",
-    "/assets/KaTeX_Math-BoldItalic.iY-2wyZ7.woff",
-    "/assets/KaTeX_Math-BoldItalic.B3XSjfu4.ttf",
-    "/assets/KaTeX_Math-Italic.t53AETM-.woff2",
-    "/assets/KaTeX_Math-Italic.DA0__PXp.woff",
-    "/assets/KaTeX_Math-Italic.flOr_0UB.ttf",
-    "/assets/KaTeX_SansSerif-Bold.D1sUS0GD.woff2",
-    "/assets/KaTeX_SansSerif-Bold.DbIhKOiC.woff",
-    "/assets/KaTeX_SansSerif-Bold.CFMepnvq.ttf",
-    "/assets/KaTeX_SansSerif-Italic.C3H0VqGB.woff2",
-    "/assets/KaTeX_SansSerif-Italic.DN2j7dab.woff",
-    "/assets/KaTeX_SansSerif-Italic.YYjJ1zSn.ttf",
-    "/assets/KaTeX_SansSerif-Regular.DDBCnlJ7.woff2",
-    "/assets/KaTeX_SansSerif-Regular.CS6fqUqJ.woff",
-    "/assets/KaTeX_SansSerif-Regular.BNo7hRIc.ttf",
-    "/assets/KaTeX_Script-Regular.D3wIWfF6.woff2",
-    "/assets/KaTeX_Script-Regular.D5yQViql.woff",
-    "/assets/KaTeX_Script-Regular.C5JkGWo-.ttf",
-    "/assets/KaTeX_Size1-Regular.mCD8mA8B.woff2",
-    "/assets/KaTeX_Size1-Regular.C195tn64.woff",
-    "/assets/KaTeX_Size1-Regular.Dbsnue_I.ttf",
-    "/assets/KaTeX_Size2-Regular.Dy4dx90m.woff2",
-    "/assets/KaTeX_Size2-Regular.oD1tc_U0.woff",
-    "/assets/KaTeX_Size2-Regular.B7gKUWhC.ttf",
-    "/assets/KaTeX_Size3-Regular.CTq5MqoE.woff",
-    "/assets/KaTeX_Size3-Regular.DgpXs0kz.ttf",
-    "/assets/KaTeX_Size4-Regular.Dl5lxZxV.woff2",
-    "/assets/KaTeX_Size4-Regular.BF-4gkZK.woff",
-    "/assets/KaTeX_Size4-Regular.DWFBv043.ttf",
-    "/assets/KaTeX_Typewriter-Regular.CO6r4hn1.woff2",
-    "/assets/KaTeX_Typewriter-Regular.C0xS9mPB.woff",
-    "/assets/KaTeX_Typewriter-Regular.D3Ib7_Hf.ttf",
-    "/assets/bg-img.kXdNMxcF.jpg",
-    "/assets/sidebar-bg-img.mp54gEws.webp"
-  ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/layout/YunLayoutRight.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
-    "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
-    "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
-    "/assets/KaTeX_Caligraphic-Bold.Dq_IR9rO.woff2",
-    "/assets/KaTeX_Caligraphic-Bold.BEiXGLvX.woff",
-    "/assets/KaTeX_Caligraphic-Bold.ATXxdsX0.ttf",
-    "/assets/KaTeX_Caligraphic-Regular.Di6jR-x-.woff2",
-    "/assets/KaTeX_Caligraphic-Regular.CTRA-rTL.woff",
-    "/assets/KaTeX_Caligraphic-Regular.wX97UBjC.ttf",
-    "/assets/KaTeX_Fraktur-Bold.CL6g_b3V.woff2",
-    "/assets/KaTeX_Fraktur-Bold.BsDP51OF.woff",
-    "/assets/KaTeX_Fraktur-Bold.BdnERNNW.ttf",
-    "/assets/KaTeX_Fraktur-Regular.CTYiF6lA.woff2",
-    "/assets/KaTeX_Fraktur-Regular.Dxdc4cR9.woff",
-    "/assets/KaTeX_Fraktur-Regular.CB_wures.ttf",
-    "/assets/KaTeX_Main-Bold.Cx986IdX.woff2",
-    "/assets/KaTeX_Main-Bold.Jm3AIy58.woff",
-    "/assets/KaTeX_Main-Bold.waoOVXN0.ttf",
-    "/assets/KaTeX_Main-BoldItalic.DxDJ3AOS.woff2",
-    "/assets/KaTeX_Main-BoldItalic.SpSLRI95.woff",
-    "/assets/KaTeX_Main-BoldItalic.DzxPMmG6.ttf",
-    "/assets/KaTeX_Main-Italic.NWA7e6Wa.woff2",
-    "/assets/KaTeX_Main-Italic.BMLOBm91.woff",
-    "/assets/KaTeX_Main-Italic.3WenGoN9.ttf",
-    "/assets/KaTeX_Main-Regular.B22Nviop.woff2",
-    "/assets/KaTeX_Main-Regular.Dr94JaBh.woff",
-    "/assets/KaTeX_Main-Regular.ypZvNtVU.ttf",
-    "/assets/KaTeX_Math-BoldItalic.CZnvNsCZ.woff2",
-    "/assets/KaTeX_Math-BoldItalic.iY-2wyZ7.woff",
-    "/assets/KaTeX_Math-BoldItalic.B3XSjfu4.ttf",
-    "/assets/KaTeX_Math-Italic.t53AETM-.woff2",
-    "/assets/KaTeX_Math-Italic.DA0__PXp.woff",
-    "/assets/KaTeX_Math-Italic.flOr_0UB.ttf",
-    "/assets/KaTeX_SansSerif-Bold.D1sUS0GD.woff2",
-    "/assets/KaTeX_SansSerif-Bold.DbIhKOiC.woff",
-    "/assets/KaTeX_SansSerif-Bold.CFMepnvq.ttf",
-    "/assets/KaTeX_SansSerif-Italic.C3H0VqGB.woff2",
-    "/assets/KaTeX_SansSerif-Italic.DN2j7dab.woff",
-    "/assets/KaTeX_SansSerif-Italic.YYjJ1zSn.ttf",
-    "/assets/KaTeX_SansSerif-Regular.DDBCnlJ7.woff2",
-    "/assets/KaTeX_SansSerif-Regular.CS6fqUqJ.woff",
-    "/assets/KaTeX_SansSerif-Regular.BNo7hRIc.ttf",
-    "/assets/KaTeX_Script-Regular.D3wIWfF6.woff2",
-    "/assets/KaTeX_Script-Regular.D5yQViql.woff",
-    "/assets/KaTeX_Script-Regular.C5JkGWo-.ttf",
-    "/assets/KaTeX_Size1-Regular.mCD8mA8B.woff2",
-    "/assets/KaTeX_Size1-Regular.C195tn64.woff",
-    "/assets/KaTeX_Size1-Regular.Dbsnue_I.ttf",
-    "/assets/KaTeX_Size2-Regular.Dy4dx90m.woff2",
-    "/assets/KaTeX_Size2-Regular.oD1tc_U0.woff",
-    "/assets/KaTeX_Size2-Regular.B7gKUWhC.ttf",
-    "/assets/KaTeX_Size3-Regular.CTq5MqoE.woff",
-    "/assets/KaTeX_Size3-Regular.DgpXs0kz.ttf",
-    "/assets/KaTeX_Size4-Regular.Dl5lxZxV.woff2",
-    "/assets/KaTeX_Size4-Regular.BF-4gkZK.woff",
-    "/assets/KaTeX_Size4-Regular.DWFBv043.ttf",
-    "/assets/KaTeX_Typewriter-Regular.CO6r4hn1.woff2",
-    "/assets/KaTeX_Typewriter-Regular.C0xS9mPB.woff",
-    "/assets/KaTeX_Typewriter-Regular.D3Ib7_Hf.ttf",
-    "/assets/bg-img.kXdNMxcF.jpg",
-    "/assets/sidebar-bg-img.mp54gEws.webp"
-  ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/layout/YunLayoutWrapper.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
-    "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
-    "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
-    "/assets/KaTeX_Caligraphic-Bold.Dq_IR9rO.woff2",
-    "/assets/KaTeX_Caligraphic-Bold.BEiXGLvX.woff",
-    "/assets/KaTeX_Caligraphic-Bold.ATXxdsX0.ttf",
-    "/assets/KaTeX_Caligraphic-Regular.Di6jR-x-.woff2",
-    "/assets/KaTeX_Caligraphic-Regular.CTRA-rTL.woff",
-    "/assets/KaTeX_Caligraphic-Regular.wX97UBjC.ttf",
-    "/assets/KaTeX_Fraktur-Bold.CL6g_b3V.woff2",
-    "/assets/KaTeX_Fraktur-Bold.BsDP51OF.woff",
-    "/assets/KaTeX_Fraktur-Bold.BdnERNNW.ttf",
-    "/assets/KaTeX_Fraktur-Regular.CTYiF6lA.woff2",
-    "/assets/KaTeX_Fraktur-Regular.Dxdc4cR9.woff",
-    "/assets/KaTeX_Fraktur-Regular.CB_wures.ttf",
-    "/assets/KaTeX_Main-Bold.Cx986IdX.woff2",
-    "/assets/KaTeX_Main-Bold.Jm3AIy58.woff",
-    "/assets/KaTeX_Main-Bold.waoOVXN0.ttf",
-    "/assets/KaTeX_Main-BoldItalic.DxDJ3AOS.woff2",
-    "/assets/KaTeX_Main-BoldItalic.SpSLRI95.woff",
-    "/assets/KaTeX_Main-BoldItalic.DzxPMmG6.ttf",
-    "/assets/KaTeX_Main-Italic.NWA7e6Wa.woff2",
-    "/assets/KaTeX_Main-Italic.BMLOBm91.woff",
-    "/assets/KaTeX_Main-Italic.3WenGoN9.ttf",
-    "/assets/KaTeX_Main-Regular.B22Nviop.woff2",
-    "/assets/KaTeX_Main-Regular.Dr94JaBh.woff",
-    "/assets/KaTeX_Main-Regular.ypZvNtVU.ttf",
-    "/assets/KaTeX_Math-BoldItalic.CZnvNsCZ.woff2",
-    "/assets/KaTeX_Math-BoldItalic.iY-2wyZ7.woff",
-    "/assets/KaTeX_Math-BoldItalic.B3XSjfu4.ttf",
-    "/assets/KaTeX_Math-Italic.t53AETM-.woff2",
-    "/assets/KaTeX_Math-Italic.DA0__PXp.woff",
-    "/assets/KaTeX_Math-Italic.flOr_0UB.ttf",
-    "/assets/KaTeX_SansSerif-Bold.D1sUS0GD.woff2",
-    "/assets/KaTeX_SansSerif-Bold.DbIhKOiC.woff",
-    "/assets/KaTeX_SansSerif-Bold.CFMepnvq.ttf",
-    "/assets/KaTeX_SansSerif-Italic.C3H0VqGB.woff2",
-    "/assets/KaTeX_SansSerif-Italic.DN2j7dab.woff",
-    "/assets/KaTeX_SansSerif-Italic.YYjJ1zSn.ttf",
-    "/assets/KaTeX_SansSerif-Regular.DDBCnlJ7.woff2",
-    "/assets/KaTeX_SansSerif-Regular.CS6fqUqJ.woff",
-    "/assets/KaTeX_SansSerif-Regular.BNo7hRIc.ttf",
-    "/assets/KaTeX_Script-Regular.D3wIWfF6.woff2",
-    "/assets/KaTeX_Script-Regular.D5yQViql.woff",
-    "/assets/KaTeX_Script-Regular.C5JkGWo-.ttf",
-    "/assets/KaTeX_Size1-Regular.mCD8mA8B.woff2",
-    "/assets/KaTeX_Size1-Regular.C195tn64.woff",
-    "/assets/KaTeX_Size1-Regular.Dbsnue_I.ttf",
-    "/assets/KaTeX_Size2-Regular.Dy4dx90m.woff2",
-    "/assets/KaTeX_Size2-Regular.oD1tc_U0.woff",
-    "/assets/KaTeX_Size2-Regular.B7gKUWhC.ttf",
-    "/assets/KaTeX_Size3-Regular.CTq5MqoE.woff",
-    "/assets/KaTeX_Size3-Regular.DgpXs0kz.ttf",
-    "/assets/KaTeX_Size4-Regular.Dl5lxZxV.woff2",
-    "/assets/KaTeX_Size4-Regular.BF-4gkZK.woff",
-    "/assets/KaTeX_Size4-Regular.DWFBv043.ttf",
-    "/assets/KaTeX_Typewriter-Regular.CO6r4hn1.woff2",
-    "/assets/KaTeX_Typewriter-Regular.C0xS9mPB.woff",
-    "/assets/KaTeX_Typewriter-Regular.D3Ib7_Hf.ttf",
-    "/assets/bg-img.kXdNMxcF.jpg",
-    "/assets/sidebar-bg-img.mp54gEws.webp"
-  ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/layout/YunMainContentAfter.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/post.Dqr7j7FT.js",
-    "/assets/post.DDxwAI70.css",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/collection/YunCollectionSidebar.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/collection.0Ix-lDPr.js",
+    "/assets/collection.u2WPBS1T.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/layout/YunMainHeaderAfter.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/post.Dqr7j7FT.js",
-    "/assets/post.DDxwAI70.css",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/collection/YunCollectionSidebar.vue?vue&type=style&index=0&lang.scss": [
+    "/assets/collection.0Ix-lDPr.js",
+    "/assets/collection.u2WPBS1T.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/menu/YunNavMenuItem.vue?vue&type=script&setup=true&lang.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/config/YunToggleDark.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -9511,7 +9261,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/menu/YunNavMenuTitle.vue?vue&type=script&setup=true&lang.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/layout/YunLayoutLeft.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -9574,7 +9324,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/menu/YunNavMenuTitle.vue?vue&type=style&index=0&lang.scss": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/layout/YunLayoutRight.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -9637,7 +9387,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/menu/YunPostClassifyNavItem.vue?vue&type=script&setup=true&lang.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/layout/YunLayoutWrapper.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -9700,7 +9450,15 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/menu/YunPostClassifyNavItem.vue?vue&type=style&index=0&lang.scss": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/layout/YunMainContentAfter.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/YunMainHeaderAfter.vue_vue_type_script_setup_true_lang.B7m-5S3w.js",
+    "/assets/YunMainHeaderAfter.DDxwAI70.css"
+  ],
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/layout/YunMainHeaderAfter.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/YunMainHeaderAfter.vue_vue_type_script_setup_true_lang.B7m-5S3w.js",
+    "/assets/YunMainHeaderAfter.DDxwAI70.css"
+  ],
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/menu/YunNavMenuItem.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -9763,7 +9521,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/page/YunPageHeaderGradient.vue?vue&type=script&setup=true&lang.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/menu/YunNavMenuTitle.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -9826,7 +9584,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/page/YunPageHeaderGradient.vue?vue&type=style&index=0&lang.scss": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/menu/YunNavMenuTitle.vue?vue&type=style&index=0&lang.scss": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -9889,67 +9647,319 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/project/YunProjectCard.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/projects.Cg3m6Jch.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/menu/YunPostClassifyNavItem.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
+    "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
+    "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
+    "/assets/KaTeX_Caligraphic-Bold.Dq_IR9rO.woff2",
+    "/assets/KaTeX_Caligraphic-Bold.BEiXGLvX.woff",
+    "/assets/KaTeX_Caligraphic-Bold.ATXxdsX0.ttf",
+    "/assets/KaTeX_Caligraphic-Regular.Di6jR-x-.woff2",
+    "/assets/KaTeX_Caligraphic-Regular.CTRA-rTL.woff",
+    "/assets/KaTeX_Caligraphic-Regular.wX97UBjC.ttf",
+    "/assets/KaTeX_Fraktur-Bold.CL6g_b3V.woff2",
+    "/assets/KaTeX_Fraktur-Bold.BsDP51OF.woff",
+    "/assets/KaTeX_Fraktur-Bold.BdnERNNW.ttf",
+    "/assets/KaTeX_Fraktur-Regular.CTYiF6lA.woff2",
+    "/assets/KaTeX_Fraktur-Regular.Dxdc4cR9.woff",
+    "/assets/KaTeX_Fraktur-Regular.CB_wures.ttf",
+    "/assets/KaTeX_Main-Bold.Cx986IdX.woff2",
+    "/assets/KaTeX_Main-Bold.Jm3AIy58.woff",
+    "/assets/KaTeX_Main-Bold.waoOVXN0.ttf",
+    "/assets/KaTeX_Main-BoldItalic.DxDJ3AOS.woff2",
+    "/assets/KaTeX_Main-BoldItalic.SpSLRI95.woff",
+    "/assets/KaTeX_Main-BoldItalic.DzxPMmG6.ttf",
+    "/assets/KaTeX_Main-Italic.NWA7e6Wa.woff2",
+    "/assets/KaTeX_Main-Italic.BMLOBm91.woff",
+    "/assets/KaTeX_Main-Italic.3WenGoN9.ttf",
+    "/assets/KaTeX_Main-Regular.B22Nviop.woff2",
+    "/assets/KaTeX_Main-Regular.Dr94JaBh.woff",
+    "/assets/KaTeX_Main-Regular.ypZvNtVU.ttf",
+    "/assets/KaTeX_Math-BoldItalic.CZnvNsCZ.woff2",
+    "/assets/KaTeX_Math-BoldItalic.iY-2wyZ7.woff",
+    "/assets/KaTeX_Math-BoldItalic.B3XSjfu4.ttf",
+    "/assets/KaTeX_Math-Italic.t53AETM-.woff2",
+    "/assets/KaTeX_Math-Italic.DA0__PXp.woff",
+    "/assets/KaTeX_Math-Italic.flOr_0UB.ttf",
+    "/assets/KaTeX_SansSerif-Bold.D1sUS0GD.woff2",
+    "/assets/KaTeX_SansSerif-Bold.DbIhKOiC.woff",
+    "/assets/KaTeX_SansSerif-Bold.CFMepnvq.ttf",
+    "/assets/KaTeX_SansSerif-Italic.C3H0VqGB.woff2",
+    "/assets/KaTeX_SansSerif-Italic.DN2j7dab.woff",
+    "/assets/KaTeX_SansSerif-Italic.YYjJ1zSn.ttf",
+    "/assets/KaTeX_SansSerif-Regular.DDBCnlJ7.woff2",
+    "/assets/KaTeX_SansSerif-Regular.CS6fqUqJ.woff",
+    "/assets/KaTeX_SansSerif-Regular.BNo7hRIc.ttf",
+    "/assets/KaTeX_Script-Regular.D3wIWfF6.woff2",
+    "/assets/KaTeX_Script-Regular.D5yQViql.woff",
+    "/assets/KaTeX_Script-Regular.C5JkGWo-.ttf",
+    "/assets/KaTeX_Size1-Regular.mCD8mA8B.woff2",
+    "/assets/KaTeX_Size1-Regular.C195tn64.woff",
+    "/assets/KaTeX_Size1-Regular.Dbsnue_I.ttf",
+    "/assets/KaTeX_Size2-Regular.Dy4dx90m.woff2",
+    "/assets/KaTeX_Size2-Regular.oD1tc_U0.woff",
+    "/assets/KaTeX_Size2-Regular.B7gKUWhC.ttf",
+    "/assets/KaTeX_Size3-Regular.CTq5MqoE.woff",
+    "/assets/KaTeX_Size3-Regular.DgpXs0kz.ttf",
+    "/assets/KaTeX_Size4-Regular.Dl5lxZxV.woff2",
+    "/assets/KaTeX_Size4-Regular.BF-4gkZK.woff",
+    "/assets/KaTeX_Size4-Regular.DWFBv043.ttf",
+    "/assets/KaTeX_Typewriter-Regular.CO6r4hn1.woff2",
+    "/assets/KaTeX_Typewriter-Regular.C0xS9mPB.woff",
+    "/assets/KaTeX_Typewriter-Regular.D3Ib7_Hf.ttf",
+    "/assets/bg-img.kXdNMxcF.jpg",
+    "/assets/sidebar-bg-img.mp54gEws.webp"
+  ],
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/menu/YunPostClassifyNavItem.vue?vue&type=style&index=0&lang.scss": [
+    "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
+    "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
+    "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
+    "/assets/KaTeX_Caligraphic-Bold.Dq_IR9rO.woff2",
+    "/assets/KaTeX_Caligraphic-Bold.BEiXGLvX.woff",
+    "/assets/KaTeX_Caligraphic-Bold.ATXxdsX0.ttf",
+    "/assets/KaTeX_Caligraphic-Regular.Di6jR-x-.woff2",
+    "/assets/KaTeX_Caligraphic-Regular.CTRA-rTL.woff",
+    "/assets/KaTeX_Caligraphic-Regular.wX97UBjC.ttf",
+    "/assets/KaTeX_Fraktur-Bold.CL6g_b3V.woff2",
+    "/assets/KaTeX_Fraktur-Bold.BsDP51OF.woff",
+    "/assets/KaTeX_Fraktur-Bold.BdnERNNW.ttf",
+    "/assets/KaTeX_Fraktur-Regular.CTYiF6lA.woff2",
+    "/assets/KaTeX_Fraktur-Regular.Dxdc4cR9.woff",
+    "/assets/KaTeX_Fraktur-Regular.CB_wures.ttf",
+    "/assets/KaTeX_Main-Bold.Cx986IdX.woff2",
+    "/assets/KaTeX_Main-Bold.Jm3AIy58.woff",
+    "/assets/KaTeX_Main-Bold.waoOVXN0.ttf",
+    "/assets/KaTeX_Main-BoldItalic.DxDJ3AOS.woff2",
+    "/assets/KaTeX_Main-BoldItalic.SpSLRI95.woff",
+    "/assets/KaTeX_Main-BoldItalic.DzxPMmG6.ttf",
+    "/assets/KaTeX_Main-Italic.NWA7e6Wa.woff2",
+    "/assets/KaTeX_Main-Italic.BMLOBm91.woff",
+    "/assets/KaTeX_Main-Italic.3WenGoN9.ttf",
+    "/assets/KaTeX_Main-Regular.B22Nviop.woff2",
+    "/assets/KaTeX_Main-Regular.Dr94JaBh.woff",
+    "/assets/KaTeX_Main-Regular.ypZvNtVU.ttf",
+    "/assets/KaTeX_Math-BoldItalic.CZnvNsCZ.woff2",
+    "/assets/KaTeX_Math-BoldItalic.iY-2wyZ7.woff",
+    "/assets/KaTeX_Math-BoldItalic.B3XSjfu4.ttf",
+    "/assets/KaTeX_Math-Italic.t53AETM-.woff2",
+    "/assets/KaTeX_Math-Italic.DA0__PXp.woff",
+    "/assets/KaTeX_Math-Italic.flOr_0UB.ttf",
+    "/assets/KaTeX_SansSerif-Bold.D1sUS0GD.woff2",
+    "/assets/KaTeX_SansSerif-Bold.DbIhKOiC.woff",
+    "/assets/KaTeX_SansSerif-Bold.CFMepnvq.ttf",
+    "/assets/KaTeX_SansSerif-Italic.C3H0VqGB.woff2",
+    "/assets/KaTeX_SansSerif-Italic.DN2j7dab.woff",
+    "/assets/KaTeX_SansSerif-Italic.YYjJ1zSn.ttf",
+    "/assets/KaTeX_SansSerif-Regular.DDBCnlJ7.woff2",
+    "/assets/KaTeX_SansSerif-Regular.CS6fqUqJ.woff",
+    "/assets/KaTeX_SansSerif-Regular.BNo7hRIc.ttf",
+    "/assets/KaTeX_Script-Regular.D3wIWfF6.woff2",
+    "/assets/KaTeX_Script-Regular.D5yQViql.woff",
+    "/assets/KaTeX_Script-Regular.C5JkGWo-.ttf",
+    "/assets/KaTeX_Size1-Regular.mCD8mA8B.woff2",
+    "/assets/KaTeX_Size1-Regular.C195tn64.woff",
+    "/assets/KaTeX_Size1-Regular.Dbsnue_I.ttf",
+    "/assets/KaTeX_Size2-Regular.Dy4dx90m.woff2",
+    "/assets/KaTeX_Size2-Regular.oD1tc_U0.woff",
+    "/assets/KaTeX_Size2-Regular.B7gKUWhC.ttf",
+    "/assets/KaTeX_Size3-Regular.CTq5MqoE.woff",
+    "/assets/KaTeX_Size3-Regular.DgpXs0kz.ttf",
+    "/assets/KaTeX_Size4-Regular.Dl5lxZxV.woff2",
+    "/assets/KaTeX_Size4-Regular.BF-4gkZK.woff",
+    "/assets/KaTeX_Size4-Regular.DWFBv043.ttf",
+    "/assets/KaTeX_Typewriter-Regular.CO6r4hn1.woff2",
+    "/assets/KaTeX_Typewriter-Regular.C0xS9mPB.woff",
+    "/assets/KaTeX_Typewriter-Regular.D3Ib7_Hf.ttf",
+    "/assets/bg-img.kXdNMxcF.jpg",
+    "/assets/sidebar-bg-img.mp54gEws.webp"
+  ],
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/page/YunPageHeaderGradient.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
+    "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
+    "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
+    "/assets/KaTeX_Caligraphic-Bold.Dq_IR9rO.woff2",
+    "/assets/KaTeX_Caligraphic-Bold.BEiXGLvX.woff",
+    "/assets/KaTeX_Caligraphic-Bold.ATXxdsX0.ttf",
+    "/assets/KaTeX_Caligraphic-Regular.Di6jR-x-.woff2",
+    "/assets/KaTeX_Caligraphic-Regular.CTRA-rTL.woff",
+    "/assets/KaTeX_Caligraphic-Regular.wX97UBjC.ttf",
+    "/assets/KaTeX_Fraktur-Bold.CL6g_b3V.woff2",
+    "/assets/KaTeX_Fraktur-Bold.BsDP51OF.woff",
+    "/assets/KaTeX_Fraktur-Bold.BdnERNNW.ttf",
+    "/assets/KaTeX_Fraktur-Regular.CTYiF6lA.woff2",
+    "/assets/KaTeX_Fraktur-Regular.Dxdc4cR9.woff",
+    "/assets/KaTeX_Fraktur-Regular.CB_wures.ttf",
+    "/assets/KaTeX_Main-Bold.Cx986IdX.woff2",
+    "/assets/KaTeX_Main-Bold.Jm3AIy58.woff",
+    "/assets/KaTeX_Main-Bold.waoOVXN0.ttf",
+    "/assets/KaTeX_Main-BoldItalic.DxDJ3AOS.woff2",
+    "/assets/KaTeX_Main-BoldItalic.SpSLRI95.woff",
+    "/assets/KaTeX_Main-BoldItalic.DzxPMmG6.ttf",
+    "/assets/KaTeX_Main-Italic.NWA7e6Wa.woff2",
+    "/assets/KaTeX_Main-Italic.BMLOBm91.woff",
+    "/assets/KaTeX_Main-Italic.3WenGoN9.ttf",
+    "/assets/KaTeX_Main-Regular.B22Nviop.woff2",
+    "/assets/KaTeX_Main-Regular.Dr94JaBh.woff",
+    "/assets/KaTeX_Main-Regular.ypZvNtVU.ttf",
+    "/assets/KaTeX_Math-BoldItalic.CZnvNsCZ.woff2",
+    "/assets/KaTeX_Math-BoldItalic.iY-2wyZ7.woff",
+    "/assets/KaTeX_Math-BoldItalic.B3XSjfu4.ttf",
+    "/assets/KaTeX_Math-Italic.t53AETM-.woff2",
+    "/assets/KaTeX_Math-Italic.DA0__PXp.woff",
+    "/assets/KaTeX_Math-Italic.flOr_0UB.ttf",
+    "/assets/KaTeX_SansSerif-Bold.D1sUS0GD.woff2",
+    "/assets/KaTeX_SansSerif-Bold.DbIhKOiC.woff",
+    "/assets/KaTeX_SansSerif-Bold.CFMepnvq.ttf",
+    "/assets/KaTeX_SansSerif-Italic.C3H0VqGB.woff2",
+    "/assets/KaTeX_SansSerif-Italic.DN2j7dab.woff",
+    "/assets/KaTeX_SansSerif-Italic.YYjJ1zSn.ttf",
+    "/assets/KaTeX_SansSerif-Regular.DDBCnlJ7.woff2",
+    "/assets/KaTeX_SansSerif-Regular.CS6fqUqJ.woff",
+    "/assets/KaTeX_SansSerif-Regular.BNo7hRIc.ttf",
+    "/assets/KaTeX_Script-Regular.D3wIWfF6.woff2",
+    "/assets/KaTeX_Script-Regular.D5yQViql.woff",
+    "/assets/KaTeX_Script-Regular.C5JkGWo-.ttf",
+    "/assets/KaTeX_Size1-Regular.mCD8mA8B.woff2",
+    "/assets/KaTeX_Size1-Regular.C195tn64.woff",
+    "/assets/KaTeX_Size1-Regular.Dbsnue_I.ttf",
+    "/assets/KaTeX_Size2-Regular.Dy4dx90m.woff2",
+    "/assets/KaTeX_Size2-Regular.oD1tc_U0.woff",
+    "/assets/KaTeX_Size2-Regular.B7gKUWhC.ttf",
+    "/assets/KaTeX_Size3-Regular.CTq5MqoE.woff",
+    "/assets/KaTeX_Size3-Regular.DgpXs0kz.ttf",
+    "/assets/KaTeX_Size4-Regular.Dl5lxZxV.woff2",
+    "/assets/KaTeX_Size4-Regular.BF-4gkZK.woff",
+    "/assets/KaTeX_Size4-Regular.DWFBv043.ttf",
+    "/assets/KaTeX_Typewriter-Regular.CO6r4hn1.woff2",
+    "/assets/KaTeX_Typewriter-Regular.C0xS9mPB.woff",
+    "/assets/KaTeX_Typewriter-Regular.D3Ib7_Hf.ttf",
+    "/assets/bg-img.kXdNMxcF.jpg",
+    "/assets/sidebar-bg-img.mp54gEws.webp"
+  ],
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/page/YunPageHeaderGradient.vue?vue&type=style&index=0&lang.scss": [
+    "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
+    "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
+    "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
+    "/assets/KaTeX_Caligraphic-Bold.Dq_IR9rO.woff2",
+    "/assets/KaTeX_Caligraphic-Bold.BEiXGLvX.woff",
+    "/assets/KaTeX_Caligraphic-Bold.ATXxdsX0.ttf",
+    "/assets/KaTeX_Caligraphic-Regular.Di6jR-x-.woff2",
+    "/assets/KaTeX_Caligraphic-Regular.CTRA-rTL.woff",
+    "/assets/KaTeX_Caligraphic-Regular.wX97UBjC.ttf",
+    "/assets/KaTeX_Fraktur-Bold.CL6g_b3V.woff2",
+    "/assets/KaTeX_Fraktur-Bold.BsDP51OF.woff",
+    "/assets/KaTeX_Fraktur-Bold.BdnERNNW.ttf",
+    "/assets/KaTeX_Fraktur-Regular.CTYiF6lA.woff2",
+    "/assets/KaTeX_Fraktur-Regular.Dxdc4cR9.woff",
+    "/assets/KaTeX_Fraktur-Regular.CB_wures.ttf",
+    "/assets/KaTeX_Main-Bold.Cx986IdX.woff2",
+    "/assets/KaTeX_Main-Bold.Jm3AIy58.woff",
+    "/assets/KaTeX_Main-Bold.waoOVXN0.ttf",
+    "/assets/KaTeX_Main-BoldItalic.DxDJ3AOS.woff2",
+    "/assets/KaTeX_Main-BoldItalic.SpSLRI95.woff",
+    "/assets/KaTeX_Main-BoldItalic.DzxPMmG6.ttf",
+    "/assets/KaTeX_Main-Italic.NWA7e6Wa.woff2",
+    "/assets/KaTeX_Main-Italic.BMLOBm91.woff",
+    "/assets/KaTeX_Main-Italic.3WenGoN9.ttf",
+    "/assets/KaTeX_Main-Regular.B22Nviop.woff2",
+    "/assets/KaTeX_Main-Regular.Dr94JaBh.woff",
+    "/assets/KaTeX_Main-Regular.ypZvNtVU.ttf",
+    "/assets/KaTeX_Math-BoldItalic.CZnvNsCZ.woff2",
+    "/assets/KaTeX_Math-BoldItalic.iY-2wyZ7.woff",
+    "/assets/KaTeX_Math-BoldItalic.B3XSjfu4.ttf",
+    "/assets/KaTeX_Math-Italic.t53AETM-.woff2",
+    "/assets/KaTeX_Math-Italic.DA0__PXp.woff",
+    "/assets/KaTeX_Math-Italic.flOr_0UB.ttf",
+    "/assets/KaTeX_SansSerif-Bold.D1sUS0GD.woff2",
+    "/assets/KaTeX_SansSerif-Bold.DbIhKOiC.woff",
+    "/assets/KaTeX_SansSerif-Bold.CFMepnvq.ttf",
+    "/assets/KaTeX_SansSerif-Italic.C3H0VqGB.woff2",
+    "/assets/KaTeX_SansSerif-Italic.DN2j7dab.woff",
+    "/assets/KaTeX_SansSerif-Italic.YYjJ1zSn.ttf",
+    "/assets/KaTeX_SansSerif-Regular.DDBCnlJ7.woff2",
+    "/assets/KaTeX_SansSerif-Regular.CS6fqUqJ.woff",
+    "/assets/KaTeX_SansSerif-Regular.BNo7hRIc.ttf",
+    "/assets/KaTeX_Script-Regular.D3wIWfF6.woff2",
+    "/assets/KaTeX_Script-Regular.D5yQViql.woff",
+    "/assets/KaTeX_Script-Regular.C5JkGWo-.ttf",
+    "/assets/KaTeX_Size1-Regular.mCD8mA8B.woff2",
+    "/assets/KaTeX_Size1-Regular.C195tn64.woff",
+    "/assets/KaTeX_Size1-Regular.Dbsnue_I.ttf",
+    "/assets/KaTeX_Size2-Regular.Dy4dx90m.woff2",
+    "/assets/KaTeX_Size2-Regular.oD1tc_U0.woff",
+    "/assets/KaTeX_Size2-Regular.B7gKUWhC.ttf",
+    "/assets/KaTeX_Size3-Regular.CTq5MqoE.woff",
+    "/assets/KaTeX_Size3-Regular.DgpXs0kz.ttf",
+    "/assets/KaTeX_Size4-Regular.Dl5lxZxV.woff2",
+    "/assets/KaTeX_Size4-Regular.BF-4gkZK.woff",
+    "/assets/KaTeX_Size4-Regular.DWFBv043.ttf",
+    "/assets/KaTeX_Typewriter-Regular.CO6r4hn1.woff2",
+    "/assets/KaTeX_Typewriter-Regular.C0xS9mPB.woff",
+    "/assets/KaTeX_Typewriter-Regular.D3Ib7_Hf.ttf",
+    "/assets/bg-img.kXdNMxcF.jpg",
+    "/assets/sidebar-bg-img.mp54gEws.webp"
+  ],
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/project/YunProjectCard.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/projects.BQ70_kmV.js",
     "/assets/projects.CjMVTJnt.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/project/YunProjectCollection.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/projects.Cg3m6Jch.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/project/YunProjectCollection.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/projects.BQ70_kmV.js",
     "/assets/projects.CjMVTJnt.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/project/YunProjectLinkItem.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/projects.Cg3m6Jch.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/project/YunProjectLinkItem.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/projects.BQ70_kmV.js",
     "/assets/projects.CjMVTJnt.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/project/YunProjectLinkItem.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/projects.Cg3m6Jch.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/project/YunProjectLinkItem.vue?vue&type=style&index=0&lang.scss": [
+    "/assets/projects.BQ70_kmV.js",
     "/assets/projects.CjMVTJnt.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/project/YunProjectToggleButton.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/projects.Cg3m6Jch.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/project/YunProjectToggleButton.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/projects.BQ70_kmV.js",
     "/assets/projects.CjMVTJnt.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/project/YunProjects.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/projects.Cg3m6Jch.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/project/YunProjects.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/projects.BQ70_kmV.js",
     "/assets/projects.CjMVTJnt.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/prologue/YunPrologueSquare.vue": [
-    "/assets/home.DiIn2Ni3.js",
-    "/assets/home.DcJYTUoy.css",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/prologue/YunPrologueSquare.vue": [
+    "/assets/home.CDwZseHc.js",
+    "/assets/home.CnCKdHVr.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/prologue/YunPrologueSquare.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/home.DiIn2Ni3.js",
-    "/assets/home.DcJYTUoy.css",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/prologue/YunPrologueSquare.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/home.CDwZseHc.js",
+    "/assets/home.CnCKdHVr.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/prologue/YunPrologueSquare.vue?vue&type=style&index=0&scoped=4f2efc2f&lang.scss": [
-    "/assets/home.DiIn2Ni3.js",
-    "/assets/home.DcJYTUoy.css",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/prologue/YunPrologueSquare.vue?vue&type=style&index=0&scoped=028ddc65&lang.scss": [
+    "/assets/home.CDwZseHc.js",
+    "/assets/home.CnCKdHVr.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/site/YunSiteDescription.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/home.DiIn2Ni3.js",
-    "/assets/home.DcJYTUoy.css",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/site/YunSiteDescription.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/home.CDwZseHc.js",
+    "/assets/home.CnCKdHVr.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/site/YunSiteLinkItem.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/home.DiIn2Ni3.js",
-    "/assets/home.DcJYTUoy.css",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/site/YunSiteLinkItem.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/home.CDwZseHc.js",
+    "/assets/home.CnCKdHVr.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/site/YunSiteSubtitle.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/home.DiIn2Ni3.js",
-    "/assets/home.DcJYTUoy.css",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/site/YunSiteSubtitle.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/home.CDwZseHc.js",
+    "/assets/home.CnCKdHVr.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/site/YunSiteTitle.vue?vue&type=script&setup=true&lang.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/site/YunSiteTitle.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -10012,7 +10022,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/site/YunSiteTitle.vue?vue&type=style&index=0&lang.scss": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/site/YunSiteTitle.vue?vue&type=style&index=0&lang.scss": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -10075,7 +10085,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/theme/nimbo/YunNimboNavMenu.vue": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/theme/nimbo/YunNimboNavMenu.vue": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -10138,7 +10148,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/theme/nimbo/YunNimboNavMenu.vue?vue&type=script&setup=true&lang.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/theme/nimbo/YunNimboNavMenu.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -10201,7 +10211,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/theme/nimbo/YunNimboNavMenu.vue?vue&type=style&index=0&scoped=00cb5a85&lang.scss": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/theme/nimbo/YunNimboNavMenu.vue?vue&type=style&index=0&scoped=c4033d96&lang.scss": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -10264,7 +10274,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/theme/strato/YunStratoApp.vue?vue&type=script&setup=true&lang.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/theme/strato/YunStratoApp.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -10327,7 +10337,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/theme/strato/YunStratoNavMenu.vue?vue&type=script&setup=true&lang.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/theme/strato/YunStratoNavMenu.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -10390,7 +10400,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/theme/strato/YunStratoSidebar.vue?vue&type=script&setup=true&lang.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/theme/strato/YunStratoSidebar.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -10453,7 +10463,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/theme/strato/YunStratoSidebar.vue?vue&type=style&index=0&lang.scss": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/theme/strato/YunStratoSidebar.vue?vue&type=style&index=0&lang.scss": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -10516,40 +10526,40 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/third/YunAlgoliaSearch.vue": [
-    "/assets/YunAlgoliaSearch.D66JzWeL.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/third/YunAlgoliaSearch.vue": [
+    "/assets/YunAlgoliaSearch.DBQ27r4a.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/third/YunAlgoliaSearch.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/YunAlgoliaSearch.D66JzWeL.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/third/YunAlgoliaSearch.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/YunAlgoliaSearch.DBQ27r4a.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/third/YunArtalk.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/YunComment.vue_vue_type_style_index_0_lang.DlVLxvjp.js",
-    "/assets/YunComment.Cq2s8Iw7.css"
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/third/YunArtalk.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/YunComment.vue_vue_type_style_index_0_lang.DZveq-wo.js",
+    "/assets/YunComment.hP0CTn23.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/third/YunTwikoo.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/YunComment.vue_vue_type_style_index_0_lang.DlVLxvjp.js",
-    "/assets/YunComment.Cq2s8Iw7.css"
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/third/YunTwikoo.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/YunComment.vue_vue_type_style_index_0_lang.DZveq-wo.js",
+    "/assets/YunComment.hP0CTn23.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/third/YunWaline.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/YunComment.vue_vue_type_style_index_0_lang.DlVLxvjp.js",
-    "/assets/YunComment.Cq2s8Iw7.css"
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/third/YunWaline.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/YunComment.vue_vue_type_style_index_0_lang.DZveq-wo.js",
+    "/assets/YunComment.hP0CTn23.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/third/YunWalineMeta.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/YunPostMeta.vue_vue_type_style_index_0_lang.DFVKIKAh.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/third/YunWalineMeta.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/YunPostMeta.vue_vue_type_style_index_0_lang.ohbqisHd.js",
     "/assets/YunPostMeta.DCrVMfuT.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/ui/YunBannerCharContainer.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/home.DiIn2Ni3.js",
-    "/assets/home.DcJYTUoy.css",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/ui/YunBannerCharContainer.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/home.CDwZseHc.js",
+    "/assets/home.CnCKdHVr.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/ui/YunExcerptBottomGradient.vue": [
-    "/assets/YunPostList.vue_vue_type_script_setup_true_lang.yumsyzZy.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/ui/YunExcerptBottomGradient.vue": [
+    "/assets/YunPostList.vue_vue_type_script_setup_true_lang.04HKnX0l.js",
     "/assets/YunPostList.B6MDJXTW.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/ui/YunGradientDivider.vue": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/ui/YunGradientDivider.vue": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -10612,7 +10622,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/ui/YunGradientDivider.vue?vue&type=style&index=0&lang.scss": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/components/ui/YunGradientDivider.vue?vue&type=style&index=0&lang.scss": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -10675,10 +10685,10 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/composables/animation.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/composables/animation.ts": [
     "/assets/animation.B1QJd0hD.js"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/composables/config.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/composables/config.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -10741,7 +10751,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/composables/helper.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/composables/helper.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -10804,76 +10814,78 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/composables/post.ts": [
-    "/assets/post.D7QP_zAG.js"
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/composables/post.ts": [
+    "/assets/post.DbEXnPHH.js"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/composables/tags.ts": [
-    "/assets/tags.DlnSg9s3.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/composables/tags.ts": [
+    "/assets/tags.GJIMny5y.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/composables/useYunBanner.ts": [
-    "/assets/home.DiIn2Ni3.js",
-    "/assets/home.DcJYTUoy.css",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/composables/useYunBanner.ts": [
+    "/assets/home.CDwZseHc.js",
+    "/assets/home.CnCKdHVr.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/404.vue": [
-    "/assets/404.DAcQxIiA.js",
-    "/assets/404.DOdnne6G.css",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/404.vue": [
+    "/assets/404.D8kN52on.js",
+    "/assets/404.S181k00r.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/404.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/404.DAcQxIiA.js",
-    "/assets/404.DOdnne6G.css",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/404.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/404.D8kN52on.js",
+    "/assets/404.S181k00r.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/404.vue?vue&type=style&index=0&scoped=18dcc079&lang.scss": [
-    "/assets/404.DAcQxIiA.js",
-    "/assets/404.DOdnne6G.css",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/404.vue?vue&type=style&index=0&scoped=bdac3f6d&lang.scss": [
+    "/assets/404.D8kN52on.js",
+    "/assets/404.S181k00r.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/albums.vue": [
-    "/assets/albums.DTaumE3C.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/albums.vue": [
+    "/assets/albums.C536qOaS.js",
     "/assets/albums.B673jvUl.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/albums.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/albums.DTaumE3C.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/albums.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/albums.C536qOaS.js",
     "/assets/albums.B673jvUl.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/archives.vue": [
-    "/assets/archives.B7CWVqxi.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/archives.vue": [
+    "/assets/archives.A3xdiG5r.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/archives.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/archives.B7CWVqxi.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/archives.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/archives.A3xdiG5r.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/categories.vue": [
-    "/assets/categories.BVE_gcb8.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/categories.vue": [
+    "/assets/categories.DYXQGdqO.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/categories.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/categories.BVE_gcb8.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/categories.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/categories.DYXQGdqO.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/collection.vue": [
-    "/assets/collection.BkpBjMxc.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/collection.vue": [
+    "/assets/collection.0Ix-lDPr.js",
+    "/assets/collection.u2WPBS1T.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/collection.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/collection.BkpBjMxc.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/collection.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/collection.0Ix-lDPr.js",
+    "/assets/collection.u2WPBS1T.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/collections.vue": [
-    "/assets/collections.VHPaPm_F.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/collections.vue": [
+    "/assets/collections.DHuA3xlQ.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/collections.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/collections.VHPaPm_F.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/collections.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/collections.DHuA3xlQ.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/default.vue?vue&type=script&setup=true&lang.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/default.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -10936,59 +10948,57 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/gallery.vue": [
-    "/assets/gallery.CfXYiIqs.js"
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/gallery.vue": [
+    "/assets/gallery.u2TfjCRD.js"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/gallery.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/gallery.CfXYiIqs.js"
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/gallery.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/gallery.u2TfjCRD.js"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/home.vue": [
-    "/assets/home.DiIn2Ni3.js",
-    "/assets/home.DcJYTUoy.css",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/home.vue": [
+    "/assets/home.CDwZseHc.js",
+    "/assets/home.CnCKdHVr.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/home.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/home.DiIn2Ni3.js",
-    "/assets/home.DcJYTUoy.css",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/home.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/home.CDwZseHc.js",
+    "/assets/home.CnCKdHVr.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/post.vue": [
-    "/assets/post.Dqr7j7FT.js",
-    "/assets/post.DDxwAI70.css",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/post.vue": [
+    "/assets/post._cOkLD7j.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/post.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/post.Dqr7j7FT.js",
-    "/assets/post.DDxwAI70.css",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/post.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/post._cOkLD7j.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/posts.vue": [
-    "/assets/posts.CSooP8cu.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/posts.vue": [
+    "/assets/posts.B_TZc25W.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/posts.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/posts.CSooP8cu.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/posts.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/posts.B_TZc25W.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/projects.vue": [
-    "/assets/projects.Cg3m6Jch.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/projects.vue": [
+    "/assets/projects.BQ70_kmV.js",
     "/assets/projects.CjMVTJnt.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/projects.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/projects.Cg3m6Jch.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/projects.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/projects.BQ70_kmV.js",
     "/assets/projects.CjMVTJnt.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/tags.vue": [
-    "/assets/tags.DlnSg9s3.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/tags.vue": [
+    "/assets/tags.GJIMny5y.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/tags.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/tags.DlnSg9s3.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/layouts/tags.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/tags.GJIMny5y.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/locales/zh-CN.yml": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/locales/zh-CN.yml": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -11051,27 +11061,27 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/pages/index.vue": [
-    "/assets/index.VgfvAkd2.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/pages/index.vue": [
+    "/assets/index.DhFhl8dY.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/pages/page/[page].vue": [
-    "/assets/_page_.zsOQAI7-.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/pages/page/[page].vue": [
+    "/assets/_page_.oK_n2hqd.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/pages/page/[page].vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_page_.zsOQAI7-.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/pages/page/[page].vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/_page_.oK_n2hqd.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/pages/posts/index.vue": [
-    "/assets/index.B7rIWCYN.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/pages/posts/index.vue": [
+    "/assets/index.BTGNJfo8.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/pages/posts/index.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index.B7rIWCYN.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/pages/posts/index.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/index.BTGNJfo8.js",
     "/assets/group-icons.hw0VGFh9.css"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/setup/main.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/setup/main.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -11134,7 +11144,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/stores/app.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/stores/app.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -11197,7 +11207,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/styles/css-vars.scss": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/styles/css-vars.scss": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -11260,7 +11270,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/styles/global.scss": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/styles/global.scss": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -11323,7 +11333,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/styles/main.scss": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/styles/main.scss": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -11386,7 +11396,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/styles/primevue/index.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/styles/primevue/index.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -11449,7 +11459,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/styles/primevue/tooltip.scss": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/styles/primevue/tooltip.scss": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -11512,7 +11522,7 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/styles/primevue/tooltip.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/styles/primevue/tooltip.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
     "/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
     "/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -11575,111 +11585,111 @@
     "/assets/bg-img.kXdNMxcF.jpg",
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/utils/animation.ts": [
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/utils/animation.ts": [
     "/assets/animation.CtXs_WW4.js"
   ],
-  "../../../../valaxy-theme-yun@0.25.8_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/utils/index.ts": [
-    "/assets/index.6dp8CSIa.js",
+  "../../../../valaxy-theme-yun@0.25.9_vue@3.5.17_typescript@5.8.3_/node_modules/valaxy-theme-yun/utils/index.ts": [
+    "/assets/index.BSArxW9E.js",
     "/assets/none.DLM1AMsD.jpg"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/autoInitialize.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Bn3F1W2_.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.yZ7oKpUc.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/callback.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Bn3F1W2_.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.yZ7oKpUc.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/cancelOnExit.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Bn3F1W2_.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.yZ7oKpUc.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/class.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Bn3F1W2_.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.yZ7oKpUc.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/constants.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Bn3F1W2_.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.yZ7oKpUc.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/counters.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Bn3F1W2_.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.yZ7oKpUc.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/data.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Bn3F1W2_.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.yZ7oKpUc.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/defaults.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Bn3F1W2_.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.yZ7oKpUc.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/dom.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Bn3F1W2_.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.yZ7oKpUc.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/elementStatus.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Bn3F1W2_.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.yZ7oKpUc.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/environment.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Bn3F1W2_.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.yZ7oKpUc.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/event.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Bn3F1W2_.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.yZ7oKpUc.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/forEachSource.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Bn3F1W2_.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.yZ7oKpUc.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/intersectionHandlers.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Bn3F1W2_.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.yZ7oKpUc.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/intersectionObserver.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Bn3F1W2_.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.yZ7oKpUc.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/lazyload.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Bn3F1W2_.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.yZ7oKpUc.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/load.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Bn3F1W2_.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.yZ7oKpUc.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/native.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Bn3F1W2_.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.yZ7oKpUc.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/online.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Bn3F1W2_.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.yZ7oKpUc.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/originalAttributes.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Bn3F1W2_.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.yZ7oKpUc.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/reset.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Bn3F1W2_.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.yZ7oKpUc.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/restore.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Bn3F1W2_.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.yZ7oKpUc.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/set.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Bn3F1W2_.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.yZ7oKpUc.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/tempImage.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Bn3F1W2_.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.yZ7oKpUc.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/unobserve.js": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Bn3F1W2_.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.yZ7oKpUc.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "../../../../vite-ssg@28.0.0_beasties@0.3.5_prettier@3.5.1_unhead@2.0.12_vite@7.0.5_@types+node@24.0_26e855df4ed06a29cefc2f36ea21b52d/node_modules/vite-ssg/dist/index.mjs": [
@@ -11878,7 +11888,7 @@
     "/assets/chunks/vue-i18n.baq7N0Ju.js"
   ],
   "../../../../vue-router@4.5.1_vue@3.5.17_typescript@5.8.3_/node_modules/vue-router/dist/vue-router.mjs": [
-    "/assets/chunks/vue-router.f1Lsz2_2.js"
+    "/assets/chunks/vue-router.CYav7tcg.js"
   ],
   "../../../../vue@3.5.17_typescript@5.8.3/node_modules/vue/dist/vue.esm-bundler.js": [
     "/assets/chunks/@vueuse/motion.59Bllquc.js"
@@ -13087,21 +13097,19 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "components/ValaxyCopyright.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/post.Dqr7j7FT.js",
-    "/assets/post.DDxwAI70.css",
-    "/assets/group-icons.hw0VGFh9.css"
+    "/assets/YunMainHeaderAfter.vue_vue_type_script_setup_true_lang.B7m-5S3w.js",
+    "/assets/YunMainHeaderAfter.DDxwAI70.css"
   ],
   "components/ValaxyCopyright.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/post.Dqr7j7FT.js",
-    "/assets/post.DDxwAI70.css",
-    "/assets/group-icons.hw0VGFh9.css"
+    "/assets/YunMainHeaderAfter.vue_vue_type_script_setup_true_lang.B7m-5S3w.js",
+    "/assets/YunMainHeaderAfter.DDxwAI70.css"
   ],
   "components/ValaxyDynamicComponent.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/YunPostList.vue_vue_type_script_setup_true_lang.yumsyzZy.js",
+    "/assets/YunPostList.vue_vue_type_script_setup_true_lang.04HKnX0l.js",
     "/assets/YunPostList.B6MDJXTW.css"
   ],
   "components/ValaxyGalleryDecrypt.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/gallery.CfXYiIqs.js"
+    "/assets/gallery.u2TfjCRD.js"
   ],
   "components/ValaxyHamburger.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
@@ -13167,11 +13175,11 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "components/ValaxyMd.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Bn3F1W2_.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.yZ7oKpUc.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "components/ValaxyMd.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Bn3F1W2_.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.yZ7oKpUc.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "components/builtin/ValaxyTranslate.vue?vue&type=script&setup=true&lang.ts": [
@@ -13427,7 +13435,7 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "composables/back.ts": [
-    "/assets/back.DjuY90wv.js"
+    "/assets/back.2SJ2IEtB.js"
   ],
   "composables/categories.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
@@ -13493,12 +13501,11 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "composables/codeGroups.ts": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Bn3F1W2_.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.yZ7oKpUc.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "composables/collections.ts": [
-    "/assets/collections.VHPaPm_F.js",
-    "/assets/group-icons.hw0VGFh9.css"
+    "/assets/collections.BFHLIu2X.js"
   ],
   "composables/common.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
@@ -13627,22 +13634,22 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "composables/decrypt.ts": [
-    "/assets/gallery.CfXYiIqs.js"
+    "/assets/gallery.u2TfjCRD.js"
   ],
   "composables/features/collapse-code.ts": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Bn3F1W2_.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.yZ7oKpUc.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "composables/features/copy-code.ts": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Bn3F1W2_.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.yZ7oKpUc.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "composables/features/medium-zoom.ts": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Bn3F1W2_.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.yZ7oKpUc.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "composables/features/vanilla-lazyload.ts": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Bn3F1W2_.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.yZ7oKpUc.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "composables/global.ts": [
@@ -14090,11 +14097,11 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "composables/post/usePagination.ts": [
-    "/assets/YunPostList.vue_vue_type_script_setup_true_lang.yumsyzZy.js",
+    "/assets/YunPostList.vue_vue_type_script_setup_true_lang.04HKnX0l.js",
     "/assets/YunPostList.B6MDJXTW.css"
   ],
   "composables/post/usePrevNext.ts": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Bn3F1W2_.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.yZ7oKpUc.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "composables/search/useFuseSearch.ts": [
@@ -14287,7 +14294,7 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "composables/widgets/aplayer.ts": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Bn3F1W2_.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.yZ7oKpUc.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "composables/widgets/backToTop.ts": [
@@ -14354,7 +14361,7 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "composables/widgets/codepen.ts": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Bn3F1W2_.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.yZ7oKpUc.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "config.ts": [
@@ -14484,17 +14491,17 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "layouts/404.vue": [
-    "/assets/404.B1f6VHfk.js",
+    "/assets/404.D8Jwus47.js",
     "/assets/404.BVla_BTh.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "layouts/404.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/404.B1f6VHfk.js",
+    "/assets/404.D8Jwus47.js",
     "/assets/404.BVla_BTh.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
   "layouts/404.vue?vue&type=style&index=0&scoped=3ebd77f1&lang.scss": [
-    "/assets/404.B1f6VHfk.js",
+    "/assets/404.D8Jwus47.js",
     "/assets/404.BVla_BTh.css",
     "/assets/group-icons.hw0VGFh9.css"
   ],
@@ -14952,10 +14959,10 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "pages/[...path].vue": [
-    "/assets/_...path_.B2Qyszq4.js"
+    "/assets/_...path_.pkldK36J.js"
   ],
   "pages/[...path].vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_...path_.B2Qyszq4.js"
+    "/assets/_...path_.pkldK36J.js"
   ],
   "setup/main.ts": [
     "/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
@@ -15651,7 +15658,7 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "utils/router.ts": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Bn3F1W2_.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.yZ7oKpUc.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ],
   "utils/time.ts": [
@@ -15718,7 +15725,7 @@
     "/assets/sidebar-bg-img.mp54gEws.webp"
   ],
   "utils/wrap.ts": [
-    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.Bn3F1W2_.js",
+    "/assets/ValaxyMain.vue_vue_type_style_index_0_lang.yZ7oKpUc.js",
     "/assets/ValaxyMain.BHXg_53O.css"
   ]
 }
