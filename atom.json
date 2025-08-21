@@ -4,7 +4,7 @@
     "home_page_url": "https://blog.mnxyio.top/",
     "feed_url": "https://blog.mnxyio.top/atom.json",
     "description": "这是一个很棒的博客",
-    "icon": "https://cdn.jsdmirror.com/gh/MengNianxiaoyao/blogassets@main/favicon.svg",
+    "icon": "https://assets.mnxyio.top/favicon.svg",
     "author": {
         "name": "梦念逍遥",
         "url": "https://blog.mnxyio.top"

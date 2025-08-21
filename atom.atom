@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.mnxyio.top/</id>
     <title>梦念逍遥のBLOG</title>
-    <updated>2025-08-20T14:42:52.082Z</updated>
+    <updated>2025-08-21T14:35:07.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>梦念逍遥</name>
@@ -12,7 +12,7 @@
     <link rel="alternate" href="https://blog.mnxyio.top/"/>
     <link rel="self" href="https://blog.mnxyio.top/atom.atom"/>
     <subtitle>这是一个很棒的博客</subtitle>
-    <logo>https://cdn.jsdmirror.com/gh/MengNianxiaoyao/blogassets@main/favicon.svg</logo>
+    <logo>https://assets.mnxyio.top/favicon.svg</logo>
     <icon>https://blog.mnxyio.topfavicon</icon>
     <rights>CC BY-NC-SA 4.0 2025 © 梦念逍遥</rights>
     <entry>
