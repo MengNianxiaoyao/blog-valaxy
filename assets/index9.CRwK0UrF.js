@@ -1,0 +1,1 @@
+import"./framework.DOoapuYx.js";import{Z as e}from"./theme.D0cDk-6r.js";var t=e({cast(e){return typeof e==`string`?{url:e}:e},defaults:{"@type":`VirtualLocation`}});export{t as virtualLocationResolver};
